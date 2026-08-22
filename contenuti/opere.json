@@ -1,0 +1,13 @@
+{
+  "lucifer": {
+    "titolo": "Lucifer",
+    "tipo": "serie",
+    "anno": 2016,
+    "generi": ["Fantasy", "Crime", "Commedia nera"],
+    "stagioniTotali": 6,
+    "inEvidenza": true,
+    "colori": ["#8a0d12", "#1b0406"],
+    "descrizione": "Il Diavolo in persona lascia l'Inferno, apre un piano bar a Los Angeles e finisce a risolvere omicidi con una detective della omicidi. Sotto la commedia procedurale c'è una lunghissima terapia di famiglia: padre assente, madre ingombrante, fratelli complicati.",
+    "stagioni": { "2": { "episodiTotali": 18 }, "3": { "episodiTotali": 26 } }
+  }
+}

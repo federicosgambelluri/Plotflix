@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Plotflix — Guarda meno. Sappi tutto.</title>
+<meta name="description" content="Ogni episodio di ogni serie, riassunto per intero. Chiudi la storia in cinque minuti di lettura invece di sei ore di divano.">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-weight='bold' fill='%23e50914'>P</text></svg>">
+</head>
+<body>
+
+<header class="hero" id="hero"></header>
+
+<main class="rows" id="rows"></main>
+
+<!-- ---------- fascia missione ---------- -->
+<section class="band">
+  <div class="band-inner two">
+    <div>
+      <div class="eyebrow">Perché esiste Plotflix</div>
+      <h2 class="sec">Non è la storia il problema.<br>È il divano.</h2>
+      <p>
+        Il bisogno di sapere come va a finire è legittimo: è il motivo per cui esistono le storie.
+        Quello che non è legittimo è il modo in cui te lo fanno pagare — un episodio dietro l'altro,
+        l'autoplay che parte prima che tu decida, le tre di notte, la giornata dopo bruciata.
+      </p>
+      <p>
+        Plotflix ti dà la cosa che cerchi davvero — <b style="color:#fff">cosa succede</b> — e ti restituisce le altre cinque ore.
+        Non trame da retrocopertina: riassunti completi, finale compreso, scritti per essere letti.
+      </p>
+      <a class="btn btn-red" href="info.html" style="margin-top:22px">Leggi la nostra missione</a>
+    </div>
+    <div class="stat-grid" style="margin:0;grid-template-columns:1fr 1fr">
+      <div class="stat"><div class="num" id="s-riassunti">0</div><div class="lbl">riassunti nel catalogo</div></div>
+      <div class="stat"><div class="num" id="s-titoli">0</div><div class="lbl">titoli disponibili</div></div>
+      <div class="stat"><div class="num" id="s-letti">0</div><div class="lbl">episodi che hai letto</div></div>
+      <div class="stat"><div class="num" id="s-min">0h</div><div class="lbl">tempo di divano che ti sei ripreso</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ---------- fascia contributo ---------- -->
+<section class="band">
+  <div class="band-inner">
+    <div style="text-align:center;max-width:760px;margin:0 auto">
+      <div class="eyebrow">Il catalogo lo scrivi tu</div>
+      <h2 class="sec">Manca una serie? Aggiungila.</h2>
+      <p>Nessun account, nessuna redazione, nessun database: c'è un form. Scrivi il riassunto
+         di un episodio che conosci a memoria e liberi qualcun altro da sei ore di binge.</p>
+      <a class="btn btn-play" href="aggiungi.html" style="margin-top:20px">+ Aggiungi un riassunto</a>
+    </div>
+  </div>
+</section>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/app.js"></script>
+<script>
+PF.montaChrome("Catalogo");
+
+const cat = PF.catalogo();
+const recenti = PF.episodiRecenti();
+
+/* ---------- HERO: il titolo in evidenza ---------- */
+const hi = cat.find(o => o.inEvidenza) || cat[0];
+if (hi) {
+  const [ca, cb] = PF.colori(hi);
+  const ultimo = recenti.find(r => r.opera.id === hi.id);
+  const min = ultimo ? PF.minutiLettura(ultimo.ep.riassunto) : 5;
+  document.getElementById("hero").innerHTML = `
+    <div class="hero-bg" style="background:
+      radial-gradient(80% 90% at 72% 30%, ${ca} 0%, transparent 62%),
+      linear-gradient(115deg, #0d0203 0%, ${cb} 55%, #120305 100%)"></div>
+    <div class="hero-inner">
+      <div class="hero-kicker"><b>P</b> SERIE DA LEGGERE</div>
+      <h1>${PF.esc(hi.titolo)}</h1>
+      <div class="hero-meta">
+        <span class="badge-green">Riassunto completo</span>
+        <span>${hi.anno || ""}</span>
+        <span class="badge">${hi.stagioniTotali || hi.stagioni.length} stagioni</span>
+        <span>${(hi.generi || []).join(" · ")}</span>
+      </div>
+      <p class="hero-desc">${PF.esc(hi.descrizione)}</p>
+      <div class="hero-actions">
+        ${ultimo ? `<button class="btn btn-play" onclick="PF.apriReader('${hi.id}',${ultimo.stagione},${ultimo.ep.numero})">
+            ▶ Leggi · S${ultimo.stagione}E${ultimo.ep.numero} <span style="font-weight:400;opacity:.7">(${min} min)</span></button>` : ""}
+        <a class="btn btn-info" href="serie.html?id=${hi.id}">ⓘ Tutti gli episodi</a>
+      </div>
+    </div>`;
+}
+
+/* ---------- RIGHE ---------- */
+function cardEpisodio(r) {
+  const [a, b] = PF.colori(r.opera);
+  const min = PF.minutiLettura(r.ep.riassunto);
+  const et = r.opera.tipo === "film" ? "Film" : `S${r.stagione} E${r.ep.numero}`;
+  return `
+    <div class="card" onclick="PF.apriReader('${r.opera.id}',${r.stagione},${r.ep.numero})">
+      <div class="poster" style="background:linear-gradient(155deg,${a},${b})">
+        <div class="poster-noise"></div>
+        <div class="poster-flag">${et}</div>
+        <div class="poster-title">${PF.esc(r.opera.titolo)}</div>
+        <div class="poster-type">${PF.esc(r.ep.titolo)}</div>
+      </div>
+      <div class="card-hover">
+        <div class="ch-title">${PF.esc(r.ep.titolo)}</div>
+        <div class="ch-meta"><span class="badge-green">${min} min di lettura</span>
+        <span>${r.ep.durata ? "invece di " + r.ep.durata : ""}</span></div>
+      </div>
+    </div>`;
+}
+
+function costruisci(filtro = "") {
+  const f = filtro.toLowerCase().trim();
+  const match = o => !f || o.titolo.toLowerCase().includes(f) ||
+    (o.generi || []).join(" ").toLowerCase().includes(f);
+
+  const serie = cat.filter(o => o.tipo !== "film" && match(o));
+  const film  = cat.filter(o => o.tipo === "film" && match(o));
+  const rec   = recenti.filter(r => match(r.opera));
+
+  const letti = PF.getLetti();
+  const continua = Object.keys(letti)
+    .sort((a, b) => letti[b].ts - letti[a].ts)
+    .map(k => { const [id, s, e] = k.split("|"); return recenti.find(r => r.opera.id === id && r.stagione == s && r.ep.numero == e); })
+    .filter(r => r && match(r.opera)).slice(0, 12);
+
+  let html = "";
+  if (continua.length)
+    html += PF.riga("Letti di recente", "riprendi da dove eri", continua.map(cardEpisodio).join(""));
+
+  html += PF.riga("Nuovi riassunti", "gli ultimi episodi chiusi per te",
+    rec.length ? rec.map(cardEpisodio).join("") + PF.cardAggiungi() : PF.cardAggiungi("Nessun risultato.<br>Scrivi tu il primo riassunto"));
+
+  html += `<div id="serie"></div>` + PF.riga("Serie TV", `${serie.length} titoli`,
+    serie.length ? serie.map(o => PF.card(o)).join("") + PF.cardAggiungi() : `<div class="empty-row">Nessuna serie trovata.</div>` );
+
+  html += `<div id="film"></div>` + PF.riga("Film", `${film.length} titoli`,
+    film.length ? film.map(o => PF.card(o)).join("") + PF.cardAggiungi()
+                : PF.cardAggiungi("Nessun film ancora.<br>Aggiungi il primo"));
+
+  const comm = cat.filter(o => o.community && match(o));
+  if (comm.length) html += PF.riga("Aggiunti dalla community", "grazie a chi scrive", comm.map(o => PF.card(o, {flag:"NUOVO"})).join(""));
+
+  document.getElementById("rows").innerHTML = html;
+}
+window.filtraCatalogo = costruisci;
+
+costruisci(new URLSearchParams(location.search).get("q") || "");
+
+/* ---------- statistiche ---------- */
+const tot = cat.reduce((t, o) => t + PF.contaRiassunti(o), 0);
+const nLetti = Object.keys(PF.getLetti()).length;
+const risp = PF.minutiRisparmiati();
+document.getElementById("s-riassunti").textContent = tot;
+document.getElementById("s-titoli").textContent = cat.length;
+document.getElementById("s-letti").textContent = nLetti;
+document.getElementById("s-min").textContent = risp >= 60 ? (risp / 60).toFixed(1).replace(".0", "") + "h" : risp + "m";
+
+/* apri direttamente un episodio se richiamato via URL (#s2e18) */
+const h = location.hash.match(/#(\w[\w-]*)-s(\d+)e(\d+)/i);
+if (h) PF.apriReader(h[1], h[2], h[3]);
+</script>
+</body>
+</html>

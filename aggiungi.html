@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Plotflix — Aggiungi un riassunto</title>
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-weight='bold' fill='%23e50914'>P</text></svg>">
+<style>
+  .form-wrap{position:relative;min-height:100vh;padding:calc(var(--nav-h) + 70px) var(--gutter) 80px}
+  .form-wrap::before{content:"";position:absolute;inset:0;z-index:-1;
+    background:radial-gradient(70% 60% at 25% 0%,#3a0a0e 0%,transparent 60%),#141414}
+</style>
+</head>
+<body>
+
+<main class="form-wrap">
+  <div style="max-width:760px">
+    <div class="eyebrow">Contribuisci</div>
+    <h1 class="big">Aggiungi un riassunto</h1>
+    <p class="lead" style="margin-bottom:30px">
+      Chiunque può farlo, senza registrarsi. Racconta cosa succede davvero nell'episodio:
+      niente trama da retrocopertina, niente "non voglio spoilerare". Il finale è il punto.
+    </p>
+
+    <div class="notice">
+      <b>Come funziona la conservazione.</b> Plotflix per ora è senza database:
+      quello che scrivi resta salvato <b>in questo browser</b>. Usa
+      <b>Esporta</b> per ottenere un file JSON da condividere o da far entrare stabilmente nel catalogo,
+      e <b>Importa</b> per caricare i contributi di qualcun altro.
+    </div>
+  </div>
+
+  <form class="form-card" id="form" novalidate>
+    <div class="form-row two">
+      <div class="field">
+        <label for="tipo">Tipo</label>
+        <select id="tipo" name="tipo">
+          <option value="serie">Serie TV</option>
+          <option value="film">Film</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="titolo">Titolo *</label>
+        <input id="titolo" name="titolo" placeholder="Es. Lucifer" autocomplete="off" list="titoli-noti">
+        <datalist id="titoli-noti"></datalist>
+        <div class="err-msg">Serve un titolo.</div>
+      </div>
+    </div>
+
+    <div class="form-row three">
+      <div class="field">
+        <label for="anno">Anno</label>
+        <input id="anno" name="anno" type="number" min="1900" max="2100" placeholder="2016">
+      </div>
+      <div class="field" id="w-stagione">
+        <label for="stagione">Stagione *</label>
+        <input id="stagione" name="stagione" type="number" min="1" value="1">
+        <div class="err-msg">Numero non valido.</div>
+      </div>
+      <div class="field" id="w-episodio">
+        <label for="episodio">Episodio *</label>
+        <input id="episodio" name="episodio" type="number" min="1" value="1">
+        <div class="err-msg">Numero non valido.</div>
+      </div>
+    </div>
+
+    <div class="form-row two">
+      <div class="field">
+        <label for="titoloEpisodio">Titolo dell'episodio</label>
+        <input id="titoloEpisodio" name="titoloEpisodio" placeholder="Es. Il buono, il brutto e il carbonizzato">
+      </div>
+      <div class="field">
+        <label for="generi">Generi</label>
+        <input id="generi" name="generi" placeholder="Fantasy, Crime" >
+        <div class="hint">Separati da virgola.</div>
+      </div>
+    </div>
+
+    <div class="form-row two">
+      <div class="field">
+        <label for="durata">Durata in minuti</label>
+        <input id="durata" name="durata" type="number" min="1" placeholder="43">
+        <div class="hint">Serve a calcolare quanto tempo fai risparmiare.</div>
+      </div>
+      <div class="field">
+        <label for="autore">Firma</label>
+        <input id="autore" name="autore" placeholder="Come vuoi essere chiamato">
+      </div>
+    </div>
+
+    <div class="field" style="margin-bottom:8px">
+      <label for="riassunto">Riassunto completo *</label>
+      <textarea id="riassunto" name="riassunto" placeholder="Cosa succede, dall'inizio alla fine. Racconta anche il finale: chi muore, chi mente, come si chiude.&#10;&#10;Puoi usare ### per creare dei titoletti di sezione e **doppi asterischi** per il grassetto."></textarea>
+      <div class="counter" id="cnt">0 parole · 0 min di lettura</div>
+      <div class="err-msg">Scrivi almeno 60 parole: un riassunto vero, non due righe.</div>
+    </div>
+
+    <div class="hint" style="margin-bottom:24px;color:var(--dim);font-size:13px;line-height:1.6">
+      Scrivi con parole tue. Non incollare sottotitoli, copioni o testi presi da altri siti.
+    </div>
+
+    <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center">
+      <button class="btn btn-red" type="submit">Pubblica il riassunto</button>
+      <button class="btn btn-ghost btn-sm" type="button" id="anteprima">Anteprima</button>
+      <span style="margin-left:auto;display:flex;gap:10px">
+        <button class="btn btn-ghost btn-sm" type="button" id="esporta">Esporta JSON</button>
+        <button class="btn btn-ghost btn-sm" type="button" id="importa">Importa JSON</button>
+      </span>
+      <input type="file" id="file" accept="application/json" hidden>
+    </div>
+  </form>
+
+  <!-- contributi salvati in questo browser -->
+  <section style="max-width:760px;margin-top:56px" id="miei"></section>
+</main>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/app.js"></script>
+<script>
+PF.montaChrome("Aggiungi un riassunto");
+
+const f = document.getElementById("form");
+const q = new URLSearchParams(location.search);
+["titolo", "stagione", "episodio"].forEach(k => { if (q.get(k)) f[k].value = q.get(k); });
+
+/* suggerimenti dai titoli già presenti */
+document.getElementById("titoli-noti").innerHTML =
+  PF.catalogo().map(o => `<option value="${PF.esc(o.titolo)}">`).join("");
+
+/* film → niente stagione/episodio */
+f.tipo.addEventListener("change", () => {
+  const film = f.tipo.value === "film";
+  document.getElementById("w-stagione").style.display = film ? "none" : "";
+  document.getElementById("w-episodio").style.display = film ? "none" : "";
+});
+
+/* contatore parole */
+const cnt = document.getElementById("cnt");
+f.riassunto.addEventListener("input", () => {
+  const p = f.riassunto.value.trim().split(/\s+/).filter(Boolean).length;
+  cnt.textContent = `${p} parole · ${PF.minutiLettura(f.riassunto.value)} min di lettura`;
+  cnt.classList.toggle("ok", p >= 60);
+});
+
+const errore = (id, on) => document.getElementById(id).closest(".field").classList.toggle("err", on);
+
+f.addEventListener("submit", ev => {
+  ev.preventDefault();
+  const film = f.tipo.value === "film";
+  const p = f.riassunto.value.trim().split(/\s+/).filter(Boolean).length;
+
+  const koTitolo = !f.titolo.value.trim();
+  const koTesto  = p < 60;
+  const koS = !film && !(Number(f.stagione.value) > 0);
+  const koE = !film && !(Number(f.episodio.value) > 0);
+  errore("titolo", koTitolo); errore("riassunto", koTesto);
+  errore("stagione", koS); errore("episodio", koE);
+  if (koTitolo || koTesto || koS || koE) {
+    PF.toast("Controlla i campi evidenziati.");
+    document.querySelector(".field.err input, .field.err textarea")?.focus();
+    return;
+  }
+
+  const c = PF.addContributo({
+    tipo: f.tipo.value,
+    titolo: f.titolo.value.trim(),
+    anno: f.anno.value || null,
+    generi: f.generi.value.trim(),
+    stagione: film ? 0 : Number(f.stagione.value),
+    episodio: film ? 0 : Number(f.episodio.value),
+    titoloEpisodio: f.titoloEpisodio.value.trim(),
+    durata: f.durata.value || null,
+    autore: f.autore.value.trim() || "Anonimo",
+    riassunto: f.riassunto.value.trim()
+  });
+
+  PF.toast("Pubblicato. Grazie: qualcuno stasera non farà le 3 di notte.");
+  const idOpera = PF.slug(c.titolo);
+  setTimeout(() => location.href = `serie.html?id=${idOpera}&s=${c.stagione || 0}&e=${c.episodio || 0}`, 900);
+});
+
+/* anteprima */
+document.getElementById("anteprima").addEventListener("click", () => {
+  if (!f.riassunto.value.trim()) return PF.toast("Scrivi qualcosa, prima.");
+  document.body.insertAdjacentHTML("beforeend", `
+    <div class="reader-overlay open" id="prev" onclick="if(event.target.id==='prev')this.remove()">
+      <div class="reader">
+        <div class="reader-hero">
+          <button class="reader-close" onclick="document.getElementById('prev').remove()">✕</button>
+          <div class="reader-kicker">Anteprima</div>
+          <h2>${PF.esc(f.titoloEpisodio.value || f.titolo.value || "Senza titolo")}</h2>
+          <div class="reader-meta"><span class="badge badge-red">${PF.minutiLettura(f.riassunto.value)} min di lettura</span></div>
+        </div>
+        <div class="reader-body"><div class="prose">${PF.prosa(f.riassunto.value)}</div></div>
+      </div>
+    </div>`);
+});
+
+/* esporta / importa */
+document.getElementById("esporta").addEventListener("click", () => {
+  const dati = PF.getContributi();
+  if (!dati.length) return PF.toast("Non hai ancora contributi da esportare.");
+  const blob = new Blob([JSON.stringify(dati, null, 2)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "plotflix-contributi.json";
+  a.click(); URL.revokeObjectURL(a.href);
+});
+document.getElementById("importa").addEventListener("click", () => document.getElementById("file").click());
+document.getElementById("file").addEventListener("change", e => {
+  const file = e.target.files[0]; if (!file) return;
+  const r = new FileReader();
+  r.onload = () => {
+    try {
+      const nuovi = JSON.parse(r.result);
+      if (!Array.isArray(nuovi)) throw 0;
+      const esistenti = PF.getContributi();
+      const ids = new Set(esistenti.map(c => c.id));
+      const aggiunti = nuovi.filter(c => c.riassunto && !ids.has(c.id));
+      PF.setContributi(esistenti.concat(aggiunti));
+      PF.toast(`Importati ${aggiunti.length} riassunti.`);
+      mieiContributi();
+    } catch { PF.toast("File non valido."); }
+  };
+  r.readAsText(file);
+});
+
+/* elenco dei miei contributi */
+function mieiContributi() {
+  const list = PF.getContributi();
+  const box = document.getElementById("miei");
+  if (!list.length) { box.innerHTML = ""; return; }
+  box.innerHTML = `
+    <h2 class="sec" style="font-size:24px">I tuoi riassunti <span class="muted" style="font-size:15px;font-weight:400">(salvati in questo browser)</span></h2>
+    ${list.slice().reverse().map(c => `
+      <div class="ep" style="grid-template-columns:1fr auto">
+        <div class="ep-body">
+          <h3>${PF.esc(c.titolo)} ${c.tipo === "film" ? "" : `· S${c.stagione}E${c.episodio}`}
+            ${c.titoloEpisodio ? "— " + PF.esc(c.titoloEpisodio) : ""}</h3>
+          <p>${PF.esc(c.riassunto.slice(0, 160))}…</p>
+        </div>
+        <button class="btn btn-ghost btn-sm" onclick="PF.removeContributo('${c.id}');mieiContributi();PF.toast('Rimosso.')">Elimina</button>
+      </div>`).join("")}`;
+}
+mieiContributi();
+</script>
+</body>
+</html>

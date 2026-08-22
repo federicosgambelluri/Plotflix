@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Plotflix — Episodi</title>
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90' font-weight='bold' fill='%23e50914'>P</text></svg>">
+</head>
+<body>
+
+<header class="hero" id="hero"></header>
+<main class="page" id="contenuto" style="padding-top:0;margin-top:-60px;position:relative;z-index:3"></main>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/app.js"></script>
+<script>
+PF.montaChrome("Serie TV");
+
+const id = new URLSearchParams(location.search).get("id");
+const o = PF.opera(id);
+
+if (!o) {
+  document.getElementById("hero").outerHTML = "";
+  document.getElementById("contenuto").innerHTML = `
+    <div style="padding-top:140px">
+      <div class="eyebrow">404</div>
+      <h1 class="big">Questo titolo non è nel catalogo</h1>
+      <p class="lead">Può darsi che nessuno l'abbia ancora scritto. Vuoi essere tu?</p>
+      <div style="margin-top:26px;display:flex;gap:12px;flex-wrap:wrap">
+        <a class="btn btn-play" href="aggiungi.html">+ Aggiungi un riassunto</a>
+        <a class="btn btn-info" href="index.html">Torna al catalogo</a>
+      </div>
+    </div>`;
+} else {
+  const [ca, cb] = PF.colori(o);
+  const nRias = PF.contaRiassunti(o);
+  const primo = o.stagioni.flatMap(s => s.episodi.map(e => ({ s: s.numero, e }))).find(x => x.e.riassunto);
+
+  document.getElementById("hero").innerHTML = `
+    <div class="hero-bg" style="background:
+      radial-gradient(75% 90% at 70% 25%, ${ca} 0%, transparent 60%),
+      linear-gradient(115deg,#0c0203 0%, ${cb} 55%, #110305 100%)"></div>
+    <div class="hero-inner">
+      <div class="hero-kicker"><b>P</b> ${o.tipo === "film" ? "FILM DA LEGGERE" : "SERIE DA LEGGERE"}</div>
+      <h1>${PF.esc(o.titolo)}</h1>
+      <div class="hero-meta">
+        <span class="badge-green">${nRias} riassunt${nRias === 1 ? "o" : "i"}</span>
+        <span>${o.anno || ""}</span>
+        ${o.stagioniTotali ? `<span class="badge">${o.stagioniTotali} stagioni</span>` : ""}
+        <span>${(o.generi || []).join(" · ")}</span>
+      </div>
+      ${o.descrizione ? `<p class="hero-desc">${PF.esc(o.descrizione)}</p>` : ""}
+      <div class="hero-actions">
+        ${primo ? `<button class="btn btn-play" onclick="PF.apriReader('${o.id}',${primo.s},${primo.e.numero})">▶ Inizia a leggere</button>` : ""}
+        <a class="btn btn-info" href="aggiungi.html?titolo=${encodeURIComponent(o.titolo)}">+ Aggiungi un episodio</a>
+      </div>
+    </div>`;
+
+  /* ---------- lista episodi ---------- */
+  const box = document.getElementById("contenuto");
+
+  function listaStagione(numS) {
+    const st = o.stagioni.find(s => s.numero === Number(numS));
+    if (!st) return "";
+    const totali = st.episodiTotali || Math.max(...st.episodi.map(e => e.numero));
+    const perNumero = Object.fromEntries(st.episodi.map(e => [e.numero, e]));
+    const righe = [];
+
+    for (let n = 1; n <= totali; n++) {
+      const e = perNumero[n];
+      const [a, b] = PF.colori(o);
+      if (e) {
+        const min = PF.minutiLettura(e.riassunto);
+        const nv = (e.versioni?.length || 0);
+        righe.push(`
+          <div class="ep" onclick="PF.apriReader('${o.id}',${st.numero},${e.numero})">
+            <div class="ep-num">${e.numero}</div>
+            <div class="ep-thumb" style="background:linear-gradient(140deg,${a},${b})"><div class="play">▶</div></div>
+            <div class="ep-body">
+              <h3>${PF.esc(e.titolo)}
+                ${e.finale ? '<span class="badge badge-red" style="margin-left:8px">FINALE</span>' : ""}
+                ${nv ? `<span class="badge" style="margin-left:8px">${nv + 1} versioni</span>` : ""}
+              </h3>
+              <p>${PF.esc(e.riassunto.replace(/^###.*$/gm, "").trim().slice(0, 190))}…</p>
+            </div>
+            <div class="ep-time">${min} min di lettura<br><span style="color:#666">${e.durata ? e.durata + " min in tv" : ""}</span></div>
+          </div>`);
+      } else {
+        righe.push(`
+          <div class="ep ep-missing" onclick="location.href='aggiungi.html?titolo=${encodeURIComponent(o.titolo)}&stagione=${st.numero}&episodio=${n}'">
+            <div class="ep-num">${n}</div>
+            <div class="ep-thumb" style="background:#232323"><div class="play" style="border-style:dashed">+</div></div>
+            <div class="ep-body">
+              <h3 style="color:var(--muted)">Riassunto mancante</h3>
+              <p>Nessuno ha ancora scritto questo episodio. Clicca per aggiungerlo.</p>
+            </div>
+            <div class="ep-time">—</div>
+          </div>`);
+      }
+    }
+    return righe.join("");
+  }
+
+  const stagioni = o.stagioni.map(s => s.numero);
+  box.innerHTML = `
+    <div class="season-bar">
+      <h2 id="titolo-stagione">Episodi</h2>
+      ${o.tipo === "film" ? "" : `<select class="select" id="sel-stagione">
+        ${stagioni.map(n => `<option value="${n}">Stagione ${n}</option>`).join("")}
+      </select>`}
+      <div style="margin-left:auto"><a class="btn btn-ghost btn-sm" href="aggiungi.html?titolo=${encodeURIComponent(o.titolo)}">+ Aggiungi un riassunto</a></div>
+    </div>
+    <div id="lista"></div>`;
+
+  function mostra(n) {
+    document.getElementById("lista").innerHTML = listaStagione(n);
+    document.getElementById("titolo-stagione").textContent =
+      o.tipo === "film" ? "Il film" : "Stagione " + n;
+  }
+  const sel = document.getElementById("sel-stagione");
+  if (sel) sel.addEventListener("change", e => mostra(e.target.value));
+  mostra(stagioni[0]);
+
+  const q = new URLSearchParams(location.search);
+  if (q.get("s") && q.get("e")) PF.apriReader(o.id, q.get("s"), q.get("e"));
+}
+</script>
+</body>
+</html>

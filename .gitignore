@@ -1,0 +1,17 @@
+# credenziali e segreti — non devono MAI finire nel repository
+strumenti/credenziali.local.json
+*.local.json
+.env
+.env.*
+
+# sottotitoli scaricati: sono opere di terzi, restano in locale
+sottotitoli/
+*.srt
+*.nfo
+lucifer.s02*/
+
+# log
+strumenti/log-*.txt
+
+# macOS
+.DS_Store
