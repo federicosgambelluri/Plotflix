@@ -3,11 +3,72 @@
     "titolo": "Lucifer",
     "tipo": "serie",
     "anno": 2016,
-    "generi": ["Fantasy", "Crime", "Commedia nera"],
+    "generi": [
+      "Fantasy",
+      "Crime",
+      "Commedia nera"
+    ],
     "stagioniTotali": 6,
     "inEvidenza": true,
-    "colori": ["#8a0d12", "#1b0406"],
+    "colori": [
+      "#8a0d12",
+      "#1b0406"
+    ],
     "descrizione": "Il Diavolo in persona lascia l'Inferno, apre un piano bar a Los Angeles e finisce a risolvere omicidi con una detective della omicidi. Sotto la commedia procedurale c'è una lunghissima terapia di famiglia: padre assente, madre ingombrante, fratelli complicati.",
-    "stagioni": { "2": { "episodiTotali": 18 }, "3": { "episodiTotali": 26 } }
+    "stagioni": {
+      "1": {
+        "episodiTotali": 13
+      },
+      "2": {
+        "episodiTotali": 18
+      },
+      "3": {
+        "episodiTotali": 26
+      },
+      "4": {
+        "episodiTotali": 10
+      },
+      "5": {
+        "episodiTotali": 16
+      },
+      "6": {
+        "episodiTotali": 10
+      }
+    },
+    "copertina": "assets/img/lucifer.svg"
+  },
+  "breaking-bad": {
+    "titolo": "Breaking Bad",
+    "tipo": "serie",
+    "anno": 2008,
+    "generi": [
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ],
+    "stagioniTotali": 5,
+    "inEvidenza": false,
+    "colori": [
+      "#2f6b3f",
+      "#0d1a10"
+    ],
+    "descrizione": "Un professore di chimica del liceo scopre di avere un cancro terminale e decide di produrre metanfetamina per lasciare dei soldi alla famiglia. Cinque stagioni dopo, la famiglia e' l'ultima cosa rimasta in piedi.",
+    "stagioni": {
+      "1": {
+        "episodiTotali": 7
+      },
+      "2": {
+        "episodiTotali": 13
+      },
+      "3": {
+        "episodiTotali": 13
+      },
+      "4": {
+        "episodiTotali": 13
+      },
+      "5": {
+        "episodiTotali": 16
+      }
+    }
   }
 }

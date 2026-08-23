@@ -394,3 +394,47 @@ h2.sec{font-size:clamp(24px,3vw,38px);line-height:1.1;letter-spacing:-1px;margin
   .reader-hero,.reader-body{padding-left:22px;padding-right:22px}
   .form-card{padding:28px 22px}
 }
+
+/* ============================================================
+   CONTATORE DEL TEMPO GUADAGNATO
+   ============================================================ */
+.risparmio{
+  display:flex;align-items:center;gap:7px;
+  background:rgba(0,0,0,.55);border:1px solid rgba(70,211,105,.45);
+  border-radius:999px;padding:5px 13px 5px 10px;
+  font-size:13px;color:#46d369;white-space:nowrap;
+  transition:all .25s;
+}
+.risparmio:hover{border-color:#46d369;background:rgba(70,211,105,.12)}
+.risparmio .ico{font-size:13px;filter:grayscale(1) brightness(1.6)}
+.risparmio b{font-weight:700;letter-spacing:.2px}
+@keyframes pulsaVerde{
+  0%{transform:scale(1)}
+  35%{transform:scale(1.22);box-shadow:0 0 0 6px rgba(70,211,105,.25)}
+  100%{transform:scale(1);box-shadow:0 0 0 14px rgba(70,211,105,0)}
+}
+.risparmio.pulsa{animation:pulsaVerde .9s cubic-bezier(.2,.8,.3,1)}
+
+.guadagno-ep{
+  display:flex;align-items:center;gap:12px;flex-wrap:wrap;
+  border:1px solid rgba(70,211,105,.35);background:rgba(70,211,105,.07);
+  border-radius:8px;padding:16px 20px;margin-top:26px;
+  font-family:var(--font);font-size:14px;color:var(--muted);line-height:1.5;
+}
+.guadagno-ep .big{
+  font-size:26px;font-weight:900;color:#46d369;letter-spacing:-.8px;line-height:1;
+}
+@media(max-width:860px){
+  .risparmio{padding:5px 10px;font-size:12px}
+  .risparmio .ico{display:none}
+}
+
+/* copertine vere (campo "copertina" in contenuti/opere.json) */
+.poster-img img{
+  position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+  border-radius:4px;
+}
+.poster-img::before{
+  background:linear-gradient(180deg,rgba(0,0,0,0) 55%,rgba(0,0,0,.85) 100%);
+}
+.poster-img .poster-type{margin-top:0}

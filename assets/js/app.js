@@ -40,13 +40,28 @@ const PF = (() => {
   /* ---------------- letture (progresso) ---------------- */
   const getLetti = () => jsonRead(KEY_LETTI, {});
   const chiaveEp = (operaId, s, e) => `${operaId}|${s}|${e}`;
-  const segnaLetto = (operaId, s, e, minuti) => {
+  const segnaLetto = (operaId, s, e, minuti, lettura) => {
     const l = getLetti();
-    l[chiaveEp(operaId, s, e)] = { ts: Date.now(), min: minuti || 0 };
+    const k = chiaveEp(operaId, s, e);
+    const gia = l[k];
+    l[k] = { ts: Date.now(), min: minuti || 0, lettura: lettura || (gia && gia.lettura) || 0 };
     jsonWrite(KEY_LETTI, l);
+    return !gia;                       // true se e' la prima lettura
   };
   const minutiRisparmiati = () =>
     Object.values(getLetti()).reduce((tot, v) => tot + (v.min || 0), 0);
+
+  /** minuti effettivamente guadagnati: durata dell'episodio meno il tempo di lettura */
+  const minutiGuadagnati = () =>
+    Object.values(getLetti()).reduce((tot, v) => tot + Math.max(0, (v.min || 0) - (v.lettura || 0)), 0);
+
+  /** 138 -> "2h 18m" */
+  function durata(min) {
+    min = Math.round(min);
+    if (min < 60) return min + "m";
+    const h = Math.floor(min / 60), m = min % 60;
+    return m ? `${h}h ${m}m` : `${h}h`;
+  }
 
   /* ---------------- catalogo (seed + contributi) ---------------- */
   function catalogo() {
@@ -119,12 +134,23 @@ const PF = (() => {
 
   function poster(o, { flag } = {}) {
     const [a, b] = colori(o);
+    const n = contaRiassunti(o);
+    const etichetta = `${o.tipo === "film" ? "Film" : "Serie TV"} · ${n} riassunt${n === 1 ? "o" : "i"}`;
+    // se l'opera ha una copertina, la usa; altrimenti ricade sul poster generato
+    if (o.copertina) {
+      return `
+        <div class="poster poster-img" style="background:linear-gradient(155deg,${a},${b})">
+          <img src="${esc(o.copertina)}" alt="${esc(o.titolo)}" loading="lazy">
+          ${flag ? `<div class="poster-flag">${esc(flag)}</div>` : ""}
+          <div class="poster-type">${etichetta}</div>
+        </div>`;
+    }
     return `
       <div class="poster" style="background:linear-gradient(155deg,${a},${b})">
         <div class="poster-noise"></div>
         ${flag ? `<div class="poster-flag">${esc(flag)}</div>` : ""}
         <div class="poster-title">${esc(o.titolo)}</div>
-        <div class="poster-type">${o.tipo === "film" ? "Film" : "Serie TV"} · ${contaRiassunti(o)} riassunt${contaRiassunti(o) === 1 ? "o" : "i"}</div>
+        <div class="poster-type">${etichetta}</div>
       </div>`;
   }
 
@@ -185,6 +211,9 @@ const PF = (() => {
           ${link("aggiungi.html", "Aggiungi un riassunto")}
         </ul>
         <div class="nav-right">
+          <a class="risparmio" href="index.html#tempo" id="risparmio" title="Tempo di divano che ti sei ripreso">
+            <span class="ico">⏳</span><b id="risparmio-val">0m</b>
+          </a>
           <label class="search">
             <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2">
               <circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/>
@@ -225,6 +254,8 @@ const PF = (() => {
     const n = document.getElementById("nav");
     const onScroll = () => n.classList.toggle("scrolled", window.scrollY > 30);
     onScroll(); window.addEventListener("scroll", onScroll, { passive: true });
+
+    aggiornaContatore(false);
 
     const q = document.getElementById("q");
     if (q) {
@@ -294,16 +325,22 @@ const PF = (() => {
           <button class="btn btn-sm btn-play" onclick="PF.svela()">Mostra il riassunto</button>
         </div>
         <div class="prose blurred" id="prose">${prosa(ep.riassunto)}</div>
+        <div class="guadagno-ep">
+          <span class="big">+${durata(Math.max(0, (ep.durata || 45) - min))}</span>
+          <span>Hai chiuso questo episodio in <b style="color:#fff">${min} min</b> di lettura
+          invece di <b style="color:#fff">${ep.durata || 45} min</b> di visione.<br>
+          In totale ti sei ripreso <b class="js-guadagno" style="color:#46d369">0m</b>.</span>
+        </div>
         <div class="reader-foot">
           <span>${ep.fonte ? esc(ep.fonte) : "Contributo della community"}${ep.data ? " · " + esc(ep.data) : ""}</span>
-          <span>Hai appena chiuso questa storia in ${min} minuti invece di ${ep.durata || 45}.</span>
         </div>
       </div>`;
 
     document.getElementById("reader").classList.add("open");
     document.getElementById("reader").scrollTop = 0;
     document.body.style.overflow = "hidden";
-    segnaLetto(operaId, st.numero, ep.numero, ep.durata || 45);
+    const nuova = segnaLetto(operaId, st.numero, ep.numero, ep.durata || 45, min);
+    aggiornaContatore(nuova);
   }
 
   function svela() {
@@ -324,11 +361,27 @@ const PF = (() => {
     t._h = setTimeout(() => t.classList.remove("show"), 3800);
   }
 
+  /** aggiorna (e fa pulsare) tutti i contatori di tempo guadagnato in pagina */
+  function aggiornaContatore(pulsa) {
+    const g = minutiGuadagnati();
+    document.querySelectorAll("#risparmio-val, .js-guadagno").forEach(el => {
+      el.textContent = durata(g);
+    });
+    if (pulsa) {
+      const box = document.getElementById("risparmio");
+      if (box) {
+        box.classList.remove("pulsa");
+        void box.offsetWidth;
+        box.classList.add("pulsa");
+      }
+    }
+  }
+
   return {
-    slug, esc, minutiLettura, prosa, colori, poster, card, cardAggiungi, riga,
+    slug, esc, minutiLettura, prosa, colori, poster, card, cardAggiungi, riga, durata,
     catalogo, opera, episodiRecenti, contaRiassunti,
     getContributi, addContributo, removeContributo, setContributi,
-    getLetti, chiaveEp, minutiRisparmiati,
+    getLetti, chiaveEp, segnaLetto, minutiRisparmiati, minutiGuadagnati, aggiornaContatore,
     montaChrome, apriReader, chiudiReader, svela, toast
   };
 })();

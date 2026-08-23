@@ -35,7 +35,7 @@
       <div class="stat"><div class="num" id="s-riassunti">0</div><div class="lbl">riassunti nel catalogo</div></div>
       <div class="stat"><div class="num" id="s-titoli">0</div><div class="lbl">titoli disponibili</div></div>
       <div class="stat"><div class="num" id="s-letti">0</div><div class="lbl">episodi che hai letto</div></div>
-      <div class="stat"><div class="num" id="s-min">0h</div><div class="lbl">tempo di divano che ti sei ripreso</div></div>
+      <div class="stat" id="tempo"><div class="num js-guadagno" style="color:#46d369">0m</div><div class="lbl">tempo di divano che ti sei ripreso</div></div>
     </div>
   </div>
 </section>
@@ -151,11 +151,10 @@ costruisci(new URLSearchParams(location.search).get("q") || "");
 /* ---------- statistiche ---------- */
 const tot = cat.reduce((t, o) => t + PF.contaRiassunti(o), 0);
 const nLetti = Object.keys(PF.getLetti()).length;
-const risp = PF.minutiRisparmiati();
 document.getElementById("s-riassunti").textContent = tot;
 document.getElementById("s-titoli").textContent = cat.length;
 document.getElementById("s-letti").textContent = nLetti;
-document.getElementById("s-min").textContent = risp >= 60 ? (risp / 60).toFixed(1).replace(".0", "") + "h" : risp + "m";
+PF.aggiornaContatore(false);
 
 /* apri direttamente un episodio se richiamato via URL (#s2e18) */
 const h = location.hash.match(/#(\w[\w-]*)-s(\d+)e(\d+)/i);

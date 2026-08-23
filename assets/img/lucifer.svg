@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" width="800" height="1200" role="img" aria-label="Lucifer">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="34%" r="62%">
+      <stop offset="0%"   stop-color="#ff2b26" stop-opacity=".95"/>
+      <stop offset="38%"  stop-color="#8d0d12" stop-opacity=".75"/>
+      <stop offset="100%" stop-color="#0b0203" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#170305"/>
+      <stop offset="55%"  stop-color="#0d0203"/>
+      <stop offset="100%" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="piuma" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#1c1c1e"/>
+      <stop offset="55%"  stop-color="#0a0a0b"/>
+      <stop offset="100%" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#000" stop-opacity="0"/>
+      <stop offset="72%"  stop-color="#000" stop-opacity=".72"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".97"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+
+  <rect width="800" height="1200" fill="url(#ground)"/>
+  <ellipse cx="400" cy="430" rx="430" ry="380" fill="url(#glow)"/>
+
+  <!-- alone -->
+  <ellipse cx="400" cy="452" rx="176" ry="176" fill="none" stroke="#ff3b33" stroke-opacity=".55" stroke-width="3" filter="url(#soft)"/>
+  <ellipse cx="400" cy="452" rx="176" ry="176" fill="none" stroke="#ffd7cf" stroke-opacity=".35" stroke-width="1.5"/>
+
+  <!-- ali -->
+  <g fill="url(#piuma)" stroke="#ff5347" stroke-opacity=".28" stroke-width="1.4">
+        <path d="M400,470 Q280,500 189,433 q26,36 226,61 Z" />
+    <path d="M400,470 Q275,493 178,417 q25,35 237,76 Z" />
+    <path d="M400,470 Q271,486 169,399 q24,33 245,92 Z" />
+    <path d="M400,470 Q269,479 164,380 q22,31 249,110 Z" />
+    <path d="M400,470 Q268,471 163,360 q21,30 250,129 Z" />
+    <path d="M400,470 Q280,467 188,352 q20,28 224,136 Z" />
+    <path d="M400,470 Q294,466 220,349 q19,26 192,138 Z" />
+    <path d="M400,470 Q307,466 250,349 q18,25 161,137 Z" />
+    <path d="M400,470 Q320,467 278,351 q16,23 131,134 Z" />
+    <path d="M400,470 Q332,469 305,355 q15,21 104,128 Z" />
+    <path d="M400,470 Q343,471 329,362 q14,20 79,121 Z" />
+        <path d="M400,470 Q520,500 611,433 q-26,36 -226,61 Z" />
+    <path d="M400,470 Q525,493 622,417 q-25,35 -237,76 Z" />
+    <path d="M400,470 Q529,486 631,399 q-24,33 -245,92 Z" />
+    <path d="M400,470 Q531,479 636,380 q-22,31 -249,110 Z" />
+    <path d="M400,470 Q532,471 637,360 q-21,30 -250,129 Z" />
+    <path d="M400,470 Q520,467 612,352 q-20,28 -224,136 Z" />
+    <path d="M400,470 Q506,466 580,349 q-19,26 -192,138 Z" />
+    <path d="M400,470 Q493,466 550,349 q-18,25 -161,137 Z" />
+    <path d="M400,470 Q480,467 522,351 q-16,23 -131,134 Z" />
+    <path d="M400,470 Q468,469 495,355 q-15,21 -104,128 Z" />
+    <path d="M400,470 Q457,471 471,362 q-14,20 -79,121 Z" />
+  </g>
+
+  <!-- figura centrale -->
+  <path d="M400,336 c30,0 52,26 52,60 0 34 -22,58 -52,58 -30,0 -52,-24 -52,-58 0,-34 22,-60 52,-60 Z" fill="#080203"/>
+  <path d="M344,450 h112 l58,470 h-228 Z" fill="#080203"/>
+
+  <rect width="800" height="1200" fill="url(#fade)"/>
+
+  <text x="400" y="905" text-anchor="middle"
+        font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="900"
+        font-size="124" letter-spacing="-4" fill="#fff">LUCIFER</text>
+  <rect x="286" y="944" width="228" height="3" fill="#e50914"/>
+  <text x="400" y="1000" text-anchor="middle"
+        font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="700"
+        font-size="26" letter-spacing="9" fill="#b3b3b3">SERIE DA LEGGERE</text>
+  <text x="400" y="1062" text-anchor="middle"
+        font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="600"
+        font-size="22" letter-spacing="3" fill="#6f6f6f">6 STAGIONI · 93 EPISODI</text>
+</svg>

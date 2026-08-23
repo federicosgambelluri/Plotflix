@@ -1,25 +1,54 @@
 #!/bin/bash
-# Riprende il download dei sottotitoli finché le stagioni non sono complete.
-# Pensato per essere lanciato una volta al giorno (agente launchd, vedi README).
-# Si può anche eseguire a mano:  bash strumenti/aggiorna-sottotitoli.sh
+# Scarica i sottotitoli seguendo una coda di priorita'.
+# Ogni riga della coda e': <imdb> <slug> <stagione> <episodi>
+# Lo script salta i file gia' presenti e si ferma quando la quota
+# giornaliera di OpenSubtitles e' esaurita: il giorno dopo riprende.
+#
+# Lanciato una volta al giorno dall'agente launchd (vedi README),
+# oppure a mano:  bash strumenti/aggiorna-sottotitoli.sh
 
 PROGETTO="/Users/federicosgambelluri/Desktop/Plotflix"
 NODE="/opt/homebrew/bin/node"
 LOG="$PROGETTO/strumenti/log-download.txt"
-IMDB=4052886   # Lucifer
+
+# --- ORDINE DECISO: finire Lucifer (3, 2, 4, 5, 6, 1), poi Breaking Bad
+#     dall'ultima stagione andando indietro (5, 4, 3, 2, 1) ---
+CODA=(
+  "4052886 lucifer 3 26"
+  "4052886 lucifer 2 18"
+  "4052886 lucifer 4 10"
+  "4052886 lucifer 5 16"
+  "4052886 lucifer 6 10"
+  "4052886 lucifer 1 13"
+  "903747 breaking-bad 5 16"
+  "903747 breaking-bad 4 13"
+  "903747 breaking-bad 3 13"
+  "903747 breaking-bad 2 13"
+  "903747 breaking-bad 1 7"
+)
 
 cd "$PROGETTO" || exit 1
 echo "=============== $(date '+%Y-%m-%d %H:%M') ===============" >> "$LOG"
 
-# prima la stagione 3 (priorità), poi la 2: lo script salta i file già
-# presenti e si ferma da solo quando la quota giornaliera è esaurita
-"$NODE" strumenti/scarica-sottotitoli.mjs --imdb $IMDB --stagione 3 --da 1 --a 26 >> "$LOG" 2>&1
-"$NODE" strumenti/scarica-sottotitoli.mjs --imdb $IMDB --stagione 2 --da 1 --a 18 >> "$LOG" 2>&1
+for RIGA in "${CODA[@]}"; do
+  set -- $RIGA
+  IMDB=$1; SLUG=$2; STAGIONE=$3; EPISODI=$4
 
-MANCANTI3=$(( 26 - $(ls "$PROGETTO"/sottotitoli/lucifer-s03e*.srt 2>/dev/null | wc -l) ))
-MANCANTI2=$(( 18 - $(ls "$PROGETTO"/sottotitoli/lucifer-s02e*.srt 2>/dev/null | wc -l) ))
-echo "→ mancano ancora: stagione 3 = $MANCANTI3 · stagione 2 = $MANCANTI2" >> "$LOG"
+  PRESENTI=$(ls "$PROGETTO"/sottotitoli/${SLUG}-s$(printf %02d $STAGIONE)e*.srt 2>/dev/null | wc -l | tr -d ' ')
+  if [ "$PRESENTI" -ge "$EPISODI" ]; then
+    echo "· $SLUG stagione $STAGIONE: gia' completa ($PRESENTI/$EPISODI)" >> "$LOG"
+    continue
+  fi
 
-if [ "$MANCANTI3" -le 0 ] && [ "$MANCANTI2" -le 0 ]; then
-  echo "✓ Tutto scaricato: puoi disattivare l'agente giornaliero." >> "$LOG"
-fi
+  echo "→ $SLUG stagione $STAGIONE: $PRESENTI/$EPISODI, scarico..." >> "$LOG"
+  "$NODE" strumenti/scarica-sottotitoli.mjs --imdb $IMDB --slug $SLUG \
+      --stagione $STAGIONE --da 1 --a $EPISODI >> "$LOG" 2>&1
+
+  # se la quota e' finita lo script lo scrive nel log: fermiamoci qui
+  if tail -20 "$LOG" | grep -q "Quota giornaliera esaurita\|Ultimo download disponibile"; then
+    echo "⏸  Quota esaurita: riprendo domani da $SLUG stagione $STAGIONE." >> "$LOG"
+    exit 0
+  fi
+done
+
+echo "✓ Coda completata: non manca piu' nulla da scaricare." >> "$LOG"

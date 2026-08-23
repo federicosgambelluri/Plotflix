@@ -24,6 +24,11 @@ const PLOTFLIX_SEED = [
     "descrizione": "Il Diavolo in persona lascia l'Inferno, apre un piano bar a Los Angeles e finisce a risolvere omicidi con una detective della omicidi. Sotto la commedia procedurale c'è una lunghissima terapia di famiglia: padre assente, madre ingombrante, fratelli complicati.",
     "stagioni": [
       {
+        "numero": 1,
+        "episodiTotali": 13,
+        "episodi": []
+      },
+      {
         "numero": 2,
         "episodiTotali": 18,
         "episodi": [
@@ -286,6 +291,67 @@ const PLOTFLIX_SEED = [
             "riassunto": "### Un angelo a Pacoima\n\nChloe e Pierce ormai arrivano in centrale insieme, e Lucifer passa metà episodio a punzecchiarli. Poi arriva il caso: **Kevin Winstead**, pecora nera di una ricchissima famiglia di imprenditori, ex eroinomane appena uscito da una clinica, ucciso con un colpo di pistola in una stanza in affitto di un quartiere povero.\n\nLa padrona di casa, sopravvissuta all'intruso, racconta però una versione che nessuno prende sul serio: a salvarla è stato **un angelo**, volato dentro la stanza per metterlo in fuga. E quell'angelo, dice, si è portato via una delle sue statuette.\n\nPoche ore dopo Lucifer trova la statuetta identica in camera sua, senza il minimo ricordo di come ci sia arrivata.\n\n### Sonnambulismo divino\n\nLinda avanza l'ipotesi più semplice: sonnambulismo, tipico di chi non affronta qualcosa di doloroso — per esempio, la relazione tra Chloe e Pierce. Lucifer respinge la diagnosi con sdegno.\n\nPoi i giornali titolano sull'**Angelo di San Bernardino**, un misterioso soccorritore con le ali che avrebbe salvato una famiglia da un incendio. Amenadiel si convince che sia il fratello e che la causa sia la loro rivelazione a Charlotte: il Padre li sta punendo entrambi.\n\nLucifer sceglie la spiegazione che gli fa più comodo — l'ennesima manipolazione paterna — e adotta una contromisura radicale: **non dormire mai più**. Passa notti intere a guardare una serie poliziesca in prestito da Chloe e comincia a comportarsi in modo sempre più sconnesso, chiamandola \"Bones\" e interrogando i sospettati su trame televisive.\n\n### Il caso: attori a pagamento\n\nLe piste si accumulano. Un compagno di clinica insofferente verso l'entusiasmo riabilitativo della vittima; poi **Matt Kessman**, l'uomo con cui Kevin era stato arrestato dopo una rissa, che si rivela essere un attore.\n\nEd è qui che il caso prende la sua forma. Esiste un'agenzia, **Masquerade Inc.**, che affitta persone: parenti, amici, testimoni di nozze, chiunque serva per salvare le apparenze. Kessman era stato pagato per fare l'amico di Kevin e per tenerlo il più possibile dentro la dipendenza.\n\nIl filo porta a **Mary Bell**, ex compagna di Kevin e madre di suo figlio, e soprattutto a suo marito **Jeremy** — anche lui un attore, assunto anni prima per interpretare il ruolo di marito e padre e non perdere la posizione sociale. Solo che nel frattempo Mary si era innamorata di lui davvero.\n\nIl ritorno di Kevin, pulito e deciso a riprendersi la famiglia, metteva a rischio tutto. Jeremy lo ha ucciso, e aveva pagato l'altro attore per farlo ricadere nella droga.\n\nMesso alle strette da Lucifer nel cuore della notte, confessa. E aggiunge il dettaglio che a Lucifer interessa più dell'omicidio: quella notte **non c'era nessun angelo**. L'anziana aveva visto l'ombra di una statuetta, e quella che lui aveva toccato l'ha distrutta subito per via delle impronte.\n\nIl che rende la statuetta comparsa nella camera di Lucifer inspiegabile.\n\n### Charlotte torna indietro\n\nSapere la verità, per **Charlotte**, si rivela un disastro. Convinta di avere ormai un lasciapassare garantito per il Paradiso grazie a due conoscenze celesti, torna esattamente la persona che era: insulti, alcol a pranzo, avances a un collega imbarazzato, disprezzo per le conseguenze.\n\nAmenadiel la ferma con la sola cosa che conta: nessuno dei due può mandare qualcuno in Paradiso — lui non ha più le ali e Lucifer non è propriamente gradito. L'unica cosa che determina dove finirà è chi è lei.\n\nLa reazione non è sollievo ma disperazione. Alla prima occasione di comportarsi male è ricaduta subito, e ne trae la conclusione che la spaventa da mesi: non può cambiare, e finirà all'Inferno.\n\n### Chi ha inventato l'angelo\n\nDistrutto dall'insonnia, Lucifer prova a mettere in guardia Chloe raccontandole tutto — che Pierce è Caino, che è immortale, che le sta vicino solo per liberarsi della maledizione. Lei non gli crede: lo vede esausto e delirante, e gli risponde che Marcus è un brav'uomo, che la tratta bene e che con lui è felice.\n\nLa verità gliela consegna **Maze**. La statuetta accanto al letto l'aveva messa lei; le ali finte per il salvataggio di San Bernardino le aveva indossate lei; le manette che lo tenevano fermo di notte le aveva tolte lei. L'idea gliel'aveva data **Pierce**, raccontandole dell'anziana che credeva di aver visto un angelo.\n\nIl metodo era semplice e crudele: usare l'unica leva che funziona sempre con Lucifer — il rapporto con suo Padre — per tenerlo lontano da Chloe abbastanza a lungo.\n\n### Le tre parole\n\nNel frattempo, a casa Decker, Chloe ha deciso di smettere di andarci piano: presenta Marcus a Trixie, gli chiede di restare per la colazione, gli dice quanto stia bene con lui — e sta per pronunciare le tre parole che Pierce aspettava, perché era quello il suo piano per spezzare la maledizione.\n\nE all'ultimo istante la ferma. Non riesce a lasciarla arrivare fin lì solo per sparire: la sola cosa che abbia mai desiderato era a un passo, e ha scelto di non farle quel male. La lascia comunque, brutalmente, dicendo che non ne vale la pena — e Chloe resta a chiedersi che cosa abbia sbagliato.\n\nLucifer lo raggiunge e lo prende a pugni, e Pierce non si difende: dice di meritarselo.\n\nPoi Lucifer si ferma, perché vede una cosa che non dovrebbe essere possibile.\n\n**Il marchio è sparito.**"
           }
         ]
+      },
+      {
+        "numero": 4,
+        "episodiTotali": 10,
+        "episodi": []
+      },
+      {
+        "numero": 5,
+        "episodiTotali": 16,
+        "episodi": []
+      },
+      {
+        "numero": 6,
+        "episodiTotali": 10,
+        "episodi": []
+      }
+    ],
+    "copertina": "assets/img/lucifer.svg"
+  },
+  {
+    "id": "breaking-bad",
+    "titolo": "Breaking Bad",
+    "tipo": "serie",
+    "anno": 2008,
+    "generi": [
+      "Crime",
+      "Dramma",
+      "Thriller"
+    ],
+    "stagioniTotali": 5,
+    "inEvidenza": false,
+    "colori": [
+      "#2f6b3f",
+      "#0d1a10"
+    ],
+    "descrizione": "Un professore di chimica del liceo scopre di avere un cancro terminale e decide di produrre metanfetamina per lasciare dei soldi alla famiglia. Cinque stagioni dopo, la famiglia e' l'ultima cosa rimasta in piedi.",
+    "stagioni": [
+      {
+        "numero": 1,
+        "episodiTotali": 7,
+        "episodi": []
+      },
+      {
+        "numero": 2,
+        "episodiTotali": 13,
+        "episodi": []
+      },
+      {
+        "numero": 3,
+        "episodiTotali": 13,
+        "episodi": []
+      },
+      {
+        "numero": 4,
+        "episodiTotali": 13,
+        "episodi": []
+      },
+      {
+        "numero": 5,
+        "episodiTotali": 16,
+        "episodi": []
       }
     ]
   }
