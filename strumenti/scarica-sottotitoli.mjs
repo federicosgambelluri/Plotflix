@@ -49,9 +49,16 @@ if (!IMDB || !STAGIONE) {
 let cred = {};
 const fileCred = path.join(RADICE, "strumenti", "credenziali.local.json");
 if (fs.existsSync(fileCred)) cred = JSON.parse(fs.readFileSync(fileCred, "utf8"));
-const API_KEY  = process.env.OS_API_KEY || cred.apiKey;
-const USERNAME = process.env.OS_USER    || cred.username;
-const PASSWORD = process.env.OS_PASS    || cred.password;
+/* Gli account possono essere uno solo (formato piatto) oppure piu' di uno
+   nel campo "account": quando la quota di uno finisce si passa al successivo. */
+const ACCOUNT = (Array.isArray(cred.account) && cred.account.length)
+  ? cred.account
+  : [{ apiKey:   process.env.OS_API_KEY || cred.apiKey,
+       username: process.env.OS_USER    || cred.username,
+       password: process.env.OS_PASS    || cred.password }];
+
+let iAcc = 0;
+let API_KEY = ACCOUNT[0].apiKey;
 
 if (!API_KEY) {
   console.error(`
@@ -101,20 +108,42 @@ async function chiamata(url, opzioni = {}, tentativi = 3) {
 
 /* ---------- login (serve per la quota di download personale) ---------- */
 let token = null;
-if (USERNAME && PASSWORD && !PROVA) {
+
+async function accedi(i) {
+  const a = ACCOUNT[i];
+  if (!a || !a.apiKey) return false;
+  API_KEY = a.apiKey;
+  token = null;
+  if (PROVA) return true;
+  if (!a.username || !a.password) {
+    console.log(`! account ${i + 1}: manca la password, resta solo la quota anonima.`);
+    return true;
+  }
   const r = await chiamata(`${BASE}/login`, {
     method: "POST",
     headers: intestazioni(),
-    body: JSON.stringify({ username: USERNAME, password: PASSWORD })
+    body: JSON.stringify({ username: a.username, password: a.password })
   });
   if (r.ok && r.dati.token) {
     token = r.dati.token;
-    console.log(`✓ login effettuato come ${USERNAME}` +
+    console.log(`✓ account ${i + 1}/${ACCOUNT.length}: ${a.username}` +
       (r.dati.user ? ` — download rimasti oggi: ${r.dati.user.allowed_downloads ?? "?"}` : ""));
   } else {
-    console.log(`! login fallito (${r.status}: ${r.dati.message || ""}). Procedo senza: la quota sarà quella anonima.`);
+    console.log(`! login fallito per ${a.username} (${r.status}: ${r.dati.message || ""}).`);
   }
+  return true;
 }
+
+/** passa all'account successivo; restituisce false se non ce ne sono altri */
+async function cambiaAccount() {
+  if (iAcc + 1 >= ACCOUNT.length) return false;
+  iAcc++;
+  console.log(`\n🔄 Quota finita, passo all'account ${iAcc + 1} di ${ACCOUNT.length}.`);
+  await accedi(iAcc);
+  return true;
+}
+
+await accedi(0);
 
 fs.mkdirSync(DIR_SUB, { recursive: true });
 const pad = n => String(n).padStart(2, "0");
@@ -166,7 +195,8 @@ for (let ep = DA; ep <= A; ep++) {
     const msg = (dl.dati.message || "").toLowerCase();
     console.log(`E${pad(ep)}  ✗ download negato (${dl.status}: ${dl.dati.message || ""})`);
     if (msg.includes("quota") || msg.includes("limit") || dl.status === 406) {
-      console.log("\n⛔ Quota giornaliera esaurita. Rilancia lo stesso comando domani: riprende da qui.");
+      if (await cambiaAccount()) { ep--; continue; }   // riprova lo stesso episodio
+      console.log("\n⛔ Quota esaurita su tutti gli account. Rilancia domani: riprende da qui.");
       break;
     }
     falliti.push(ep); await attesa(900); continue;
@@ -179,6 +209,7 @@ for (let ep = DA; ep <= A; ep++) {
     (dl.dati.remaining != null ? `, restano ${dl.dati.remaining} download oggi` : "") + `)`);
 
   if (dl.dati.remaining === 0) {
+    if (await cambiaAccount()) { await attesa(800); continue; }
     console.log("\n⛔ Ultimo download disponibile per oggi. Rilancia domani: riprende da qui.");
     break;
   }
