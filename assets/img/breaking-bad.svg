@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" width="800" height="1200" role="img" aria-label="Breaking Bad">
+  <defs>
+    <linearGradient id="cielo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#101c18"/>
+      <stop offset="28%"  stop-color="#1d3229"/>
+      <stop offset="55%"  stop-color="#5c6b3a"/>
+      <stop offset="78%"  stop-color="#b7853c"/>
+      <stop offset="100%" stop-color="#e3ad55"/>
+    </linearGradient>
+    <radialGradient id="sole" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#ffe9a8" stop-opacity="1"/>
+      <stop offset="45%"  stop-color="#f0b552" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#c87a2c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="terra" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#8a6532"/>
+      <stop offset="22%"  stop-color="#4d3a20"/>
+      <stop offset="100%" stop-color="#0b0806"/>
+    </linearGradient>
+    <linearGradient id="velo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#000" stop-opacity="0"/>
+      <stop offset="66%"  stop-color="#000" stop-opacity=".70"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".97"/>
+    </linearGradient>
+    <filter id="sfoca"><feGaussianBlur stdDeviation="22"/></filter>
+  </defs>
+
+  <!-- cielo e sole basso -->
+  <rect width="800" height="1200" fill="url(#cielo)"/>
+  <ellipse cx="470" cy="600" rx="300" ry="230" fill="url(#sole)"/>
+  <circle cx="470" cy="582" r="86" fill="#ffe6a0" opacity=".92" filter="url(#sfoca)"/>
+  <circle cx="470" cy="582" r="62" fill="#fff2c8" opacity=".95"/>
+
+  <!-- montagne lontane -->
+  <path d="M0,640 L120,582 L210,618 L330,564 L430,610 L560,576 L680,614 L800,588 L800,640 Z"
+        fill="#2c2a1c" opacity=".72"/>
+
+  <!-- piana -->
+  <rect y="640" width="800" height="560" fill="url(#terra)"/>
+    <path d="M252,683 l-10.3,-3.7 M252,683 l-8.0,-6.6 M252,683 l0.2,-9.3 M252,683 l5.9,-7.9 M252,683 l9.6,-4.8" stroke="#0f0a06" stroke-opacity="0.30" stroke-width="2.3" fill="none" stroke-linecap="round"/>
+  <path d="M406,660 l-8.6,-2.4 M406,660 l-6.4,-5.3 M406,660 l-1.5,-7.4 M406,660 l4.9,-6.3 M406,660 l8.8,-1.6" stroke="#0f0a06" stroke-opacity="0.25" stroke-width="1.9" fill="none" stroke-linecap="round"/>
+  <path d="M84,698 l-11.6,-4.1 M84,698 l-5.2,-9.6 M84,698 l0.4,-10.5 M84,698 l6.8,-8.8 M84,698 l12.5,-1.6" stroke="#0f0a06" stroke-opacity="0.34" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+  <path d="M19,831 l-24.0,-5.3 M19,831 l-17.1,-15.0 M19,831 l-4.0,-20.4 M19,831 l12.5,-17.8 M19,831 l24.2,-4.4" stroke="#0f0a06" stroke-opacity="0.65" stroke-width="5.2" fill="none" stroke-linecap="round"/>
+  <path d="M132,773 l-17.9,-6.4 M132,773 l-12.0,-12.8 M132,773 l0.4,-16.2 M132,773 l8.1,-14.8 M132,773 l16.8,-8.3" stroke="#0f0a06" stroke-opacity="0.52" stroke-width="4.1" fill="none" stroke-linecap="round"/>
+  <path d="M153,794 l-20.3,-5.6 M153,794 l-13.6,-13.8 M153,794 l0.8,-17.8 M153,794 l11.9,-14.8 M153,794 l19.4,-7.5" stroke="#0f0a06" stroke-opacity="0.57" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+  <path d="M647,797 l-21.1,-4.3 M647,797 l-11.9,-15.1 M647,797 l0.2,-18.1 M647,797 l15.1,-13.0 M647,797 l21.0,-4.5" stroke="#0f0a06" stroke-opacity="0.57" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+  <path d="M222,856 l-26.6,-4.2 M222,856 l-16.3,-18.1 M222,856 l2.9,-22.5 M222,856 l12.2,-20.2 M222,856 l25.4,-7.8" stroke="#0f0a06" stroke-opacity="0.71" stroke-width="5.7" fill="none" stroke-linecap="round"/>
+  <path d="M13,791 l-18.9,-7.8 M13,791 l-11.6,-14.7 M13,791 l3.3,-17.4 M13,791 l10.7,-15.2 M13,791 l20.4,-4.7" stroke="#0f0a06" stroke-opacity="0.56" stroke-width="4.4" fill="none" stroke-linecap="round"/>
+  <path d="M479,773 l-18.4,-5.3 M479,773 l-8.8,-14.5 M479,773 l3.6,-15.9 M479,773 l11.0,-13.4 M479,773 l18.7,-4.5" stroke="#0f0a06" stroke-opacity="0.52" stroke-width="4.1" fill="none" stroke-linecap="round"/>
+  <path d="M31,798 l-20.0,-7.2 M31,798 l-8.6,-16.7 M31,798 l2.9,-18.0 M31,798 l10.8,-15.7 M31,798 l20.1,-7.0" stroke="#0f0a06" stroke-opacity="0.58" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+  <path d="M542,657 l-8.3,-2.4 M542,657 l-6.0,-5.3 M542,657 l-1.4,-7.2 M542,657 l3.6,-6.6 M542,657 l8.5,-1.7" stroke="#0f0a06" stroke-opacity="0.24" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+  <path d="M89,704 l-12.5,-3.3 M89,704 l-5.7,-9.8 M89,704 l-2.3,-10.7 M89,704 l7.3,-9.0 M89,704 l12.4,-3.5" stroke="#0f0a06" stroke-opacity="0.35" stroke-width="2.7" fill="none" stroke-linecap="round"/>
+  <path d="M722,822 l-21.1,-9.6 M722,822 l-15.6,-15.3 M722,822 l-0.9,-20.0 M722,822 l12.6,-17.1 M722,822 l23.6,-3.7" stroke="#0f0a06" stroke-opacity="0.63" stroke-width="5.0" fill="none" stroke-linecap="round"/>
+  <path d="M784,683 l-11.0,-2.0 M784,683 l-7.4,-7.0 M784,683 l-1.2,-9.3 M784,683 l6.4,-7.7 M784,683 l10.7,-2.9" stroke="#0f0a06" stroke-opacity="0.30" stroke-width="2.3" fill="none" stroke-linecap="round"/>
+  <path d="M201,653 l-8.0,-2.2 M201,653 l-5.2,-5.5 M201,653 l0.2,-7.0 M201,653 l6.0,-4.9 M201,653 l8.1,-1.9" stroke="#0f0a06" stroke-opacity="0.23" stroke-width="1.7" fill="none" stroke-linecap="round"/>
+  <path d="M413,780 l-18.4,-6.9 M413,780 l-14.4,-11.7 M413,780 l3.4,-16.6 M413,780 l13.4,-12.5 M413,780 l19.8,-3.2" stroke="#0f0a06" stroke-opacity="0.53" stroke-width="4.2" fill="none" stroke-linecap="round"/>
+  <path d="M650,734 l-15.1,-4.0 M650,734 l-11.1,-9.4 M650,734 l0.9,-13.2 M650,734 l6.6,-12.0 M650,734 l13.7,-6.7" stroke="#0f0a06" stroke-opacity="0.42" stroke-width="3.3" fill="none" stroke-linecap="round"/>
+  <path d="M155,686 l-11.0,-2.6 M155,686 l-8.2,-6.6 M155,686 l-2.4,-9.3 M155,686 l5.1,-8.5 M155,686 l9.9,-4.7" stroke="#0f0a06" stroke-opacity="0.31" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+  <path d="M285,657 l-7.7,-3.6 M285,657 l-4.7,-6.2 M285,657 l-1.3,-7.3 M285,657 l4.3,-6.4 M285,657 l8.1,-2.9" stroke="#0f0a06" stroke-opacity="0.24" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+  <path d="M286,678 l-9.4,-4.2 M286,678 l-4.2,-8.2 M286,678 l-0.2,-8.9 M286,678 l6.1,-7.3 M286,678 l9.2,-4.4" stroke="#0f0a06" stroke-opacity="0.29" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  <path d="M66,723 l-14.4,-3.1 M66,723 l-6.8,-11.0 M66,723 l-2.1,-12.3 M66,723 l5.9,-11.4 M66,723 l14.7,-2.0" stroke="#0f0a06" stroke-opacity="0.40" stroke-width="3.1" fill="none" stroke-linecap="round"/>
+  <path d="M424,682 l-10.4,-3.3 M424,682 l-8.0,-6.4 M424,682 l0.1,-9.3 M424,682 l8.1,-6.4 M424,682 l10.9,-1.8" stroke="#0f0a06" stroke-opacity="0.30" stroke-width="2.3" fill="none" stroke-linecap="round"/>
+  <path d="M565,706 l-12.8,-3.2 M565,706 l-9.1,-8.1 M565,706 l1.5,-11.0 M565,706 l7.8,-9.0 M565,706 l13.0,-2.6" stroke="#0f0a06" stroke-opacity="0.36" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+  <path d="M257,698 l-11.2,-4.8 M257,698 l-5.0,-9.6 M257,698 l1.9,-10.4 M257,698 l8.5,-7.8 M257,698 l12.3,-2.2" stroke="#0f0a06" stroke-opacity="0.34" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+  <path d="M601,699 l-11.9,-3.7 M601,699 l-7.9,-8.3 M601,699 l-2.5,-10.3 M601,699 l5.1,-9.7 M601,699 l11.4,-4.5" stroke="#0f0a06" stroke-opacity="0.34" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+
+  <!-- camper fermo nel deserto, con la scia di fumo -->
+  <g transform="translate(292,548)">
+    <path d="M18,84 C6,84 0,74 0,62 L0,22 C0,10 8,2 20,2 L214,2 C226,2 234,10 234,22 L234,62 C234,74 226,84 214,84 Z" fill="#0d0b08"/>
+    <path d="M234,30 L268,30 C278,30 284,38 284,48 L284,62 C284,74 276,84 264,84 L234,84 Z" fill="#0d0b08"/>
+    <rect x="24" y="16" width="52" height="26" rx="3" fill="#e8c98a" opacity=".30"/>
+    <rect x="92" y="16" width="52" height="26" rx="3" fill="#e8c98a" opacity=".22"/>
+    <rect x="244" y="38" width="30" height="20" rx="3" fill="#e8c98a" opacity=".34"/>
+    <circle cx="58" cy="88" r="13" fill="#060504"/>
+    <circle cx="238" cy="88" r="13" fill="#060504"/>
+    <path d="M120,2 C118,-26 138,-40 132,-72 C128,-96 146,-108 142,-134"
+          stroke="#cbb894" stroke-opacity=".35" stroke-width="7" fill="none" stroke-linecap="round" filter="url(#sfoca)"/>
+  </g>
+
+  <rect width="800" height="1200" fill="url(#velo)"/>
+
+  <!-- titolo -->
+  <text x="400" y="905" text-anchor="middle"
+        font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="900"
+        font-size="92" letter-spacing="-3" fill="#f4f1e8">BREAKING</text>
+  <text x="400" y="1002" text-anchor="middle"
+        font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="900"
+        font-size="92" letter-spacing="-3" fill="#f4f1e8">BAD</text>
+  <rect x="286" y="1036" width="228" height="3" fill="#5aa06a"/>
+  <text x="400" y="1090" text-anchor="middle"
+        font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="700"
+        font-size="25" letter-spacing="9" fill="#b9b3a4">SERIE DA LEGGERE</text>
+  <text x="400" y="1146" text-anchor="middle"
+        font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="600"
+        font-size="21" letter-spacing="3" fill="#7b7568">5 STAGIONI · 62 EPISODI</text>
+</svg>

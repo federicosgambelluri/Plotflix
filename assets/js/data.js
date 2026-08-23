@@ -485,6 +485,7 @@ const PLOTFLIX_SEED = [
         "episodiTotali": 16,
         "episodi": []
       }
-    ]
+    ],
+    "copertina": "assets/img/breaking-bad.svg"
   }
 ];
