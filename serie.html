@@ -82,7 +82,7 @@ if (!o) {
                 ${e.finale ? '<span class="badge badge-red" style="margin-left:8px">FINALE</span>' : ""}
                 ${nv ? `<span class="badge" style="margin-left:8px">${nv + 1} versioni</span>` : ""}
               </h3>
-              <p>${PF.esc(e.riassunto.replace(/^###.*$/gm, "").trim().slice(0, 190))}…</p>
+              <p>${PF.esc(e.riassunto.replace(/^###.*$/gm, "").replace(/\*\*/g, "").trim().slice(0, 190))}…</p>
             </div>
             <div class="ep-time">${min} min di lettura<br><span style="color:#666">${e.durata ? e.durata + " min in tv" : ""}</span></div>
           </div>`);
@@ -120,7 +120,10 @@ if (!o) {
   }
   const sel = document.getElementById("sel-stagione");
   if (sel) sel.addEventListener("change", e => mostra(e.target.value));
-  mostra(stagioni[0]);
+  // apre sulla stagione con piu' riassunti, non sulla prima
+  const stagionePiena = o.stagioni.slice().sort((a, b) => b.episodi.length - a.episodi.length)[0];
+  if (sel) sel.value = stagionePiena.numero;
+  mostra(stagionePiena.numero);
 
   const q = new URLSearchParams(location.search);
   if (q.get("s") && q.get("e")) PF.apriReader(o.id, q.get("s"), q.get("e"));
