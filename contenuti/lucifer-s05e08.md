@@ -6,7 +6,7 @@ titolo: Spoiler Alert
 titoloOriginale: Spoiler Alert
 durata: 61
 anno: 2020
-finale: true
+finale: false
 autore: Redazione Plotflix
 fonte: Riassunto scritto sull'episodio (traccia dialoghi ITA)
 data: 2026-08-24
