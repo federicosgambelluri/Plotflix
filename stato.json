@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-25T07:49:58.021Z",
+  "aggiornato": "2026-08-25T08:44:01.429Z",
   "opere": [
     {
       "slug": "lucifer",
@@ -167,8 +167,8 @@
       "stagione": 4,
       "totale": 13,
       "sottotitoli": 13,
-      "riassunti": 4,
-      "completa": false,
+      "riassunti": 13,
+      "completa": true,
       "episodi": [
         {
           "episodio": 1,
@@ -198,55 +198,55 @@
           "episodio": 5,
           "id": "breaking-bad-s04e05",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 6,
           "id": "breaking-bad-s04e06",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 7,
           "id": "breaking-bad-s04e07",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 8,
           "id": "breaking-bad-s04e08",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 9,
           "id": "breaking-bad-s04e09",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 10,
           "id": "breaking-bad-s04e10",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 11,
           "id": "breaking-bad-s04e11",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 12,
           "id": "breaking-bad-s04e12",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 13,
           "id": "breaking-bad-s04e13",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         }
       ]
     },
