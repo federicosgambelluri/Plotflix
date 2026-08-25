@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-25T08:44:01.429Z",
+  "aggiornato": "2026-08-25T08:53:29.085Z",
   "opere": [
     {
       "slug": "lucifer",
@@ -256,86 +256,86 @@
       "stagione": 3,
       "totale": 13,
       "sottotitoli": 13,
-      "riassunti": 0,
-      "completa": false,
+      "riassunti": 13,
+      "completa": true,
       "episodi": [
         {
           "episodio": 1,
           "id": "breaking-bad-s03e01",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 2,
           "id": "breaking-bad-s03e02",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 3,
           "id": "breaking-bad-s03e03",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 4,
           "id": "breaking-bad-s03e04",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 5,
           "id": "breaking-bad-s03e05",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 6,
           "id": "breaking-bad-s03e06",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 7,
           "id": "breaking-bad-s03e07",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 8,
           "id": "breaking-bad-s03e08",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 9,
           "id": "breaking-bad-s03e09",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 10,
           "id": "breaking-bad-s03e10",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 11,
           "id": "breaking-bad-s03e11",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 12,
           "id": "breaking-bad-s03e12",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 13,
           "id": "breaking-bad-s03e13",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         }
       ]
     },
