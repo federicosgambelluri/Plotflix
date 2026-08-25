@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-25T07:41:35.602Z",
+  "aggiornato": "2026-08-25T07:42:36.602Z",
   "opere": [
     {
       "slug": "lucifer",
@@ -7,7 +7,7 @@
       "stagione": 6,
       "totale": 10,
       "sottotitoli": 10,
-      "riassunti": 5,
+      "riassunti": 6,
       "completa": false,
       "episodi": [
         {
@@ -44,7 +44,7 @@
           "episodio": 6,
           "id": "lucifer-s06e06",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 7,
@@ -1058,8 +1058,8 @@
     "imdb": "4052886",
     "stagione": 6,
     "episodi": 10,
-    "episodio": 6,
-    "id": "lucifer-s06e06",
+    "episodio": 7,
+    "id": "lucifer-s06e07",
     "sottotitolo": true
   }
 }
