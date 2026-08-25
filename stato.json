@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-25T07:46:01.459Z",
+  "aggiornato": "2026-08-25T07:48:03.271Z",
   "opere": [
     {
       "slug": "lucifer",
@@ -167,7 +167,7 @@
       "stagione": 4,
       "totale": 13,
       "sottotitoli": 13,
-      "riassunti": 1,
+      "riassunti": 2,
       "completa": false,
       "episodi": [
         {
@@ -180,7 +180,7 @@
           "episodio": 2,
           "id": "breaking-bad-s04e02",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 3,
