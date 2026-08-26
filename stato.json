@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-26T08:04:22.499Z",
+  "aggiornato": "2026-08-26T08:13:47.276Z",
   "opere": [
     {
       "slug": "lucifer",
@@ -78,8 +78,8 @@
       "stagione": 1,
       "totale": 13,
       "sottotitoli": 13,
-      "riassunti": 3,
-      "completa": false,
+      "riassunti": 13,
+      "completa": true,
       "episodi": [
         {
           "episodio": 1,
@@ -103,61 +103,61 @@
           "episodio": 4,
           "id": "lucifer-s01e04",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 5,
           "id": "lucifer-s01e05",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 6,
           "id": "lucifer-s01e06",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 7,
           "id": "lucifer-s01e07",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 8,
           "id": "lucifer-s01e08",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 9,
           "id": "lucifer-s01e09",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 10,
           "id": "lucifer-s01e10",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 11,
           "id": "lucifer-s01e11",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 12,
           "id": "lucifer-s01e12",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 13,
           "id": "lucifer-s01e13",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         }
       ]
     },
@@ -1054,12 +1054,12 @@
     }
   ],
   "prossimo": {
-    "slug": "lucifer",
-    "imdb": "4052886",
-    "stagione": 1,
+    "slug": "breaking-bad",
+    "imdb": "903747",
+    "stagione": 2,
     "episodi": 13,
-    "episodio": 4,
-    "id": "lucifer-s01e04",
+    "episodio": 1,
+    "id": "breaking-bad-s02e01",
     "sottotitolo": true
   }
 }
