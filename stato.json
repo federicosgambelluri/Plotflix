@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-25T08:53:29.085Z",
+  "aggiornato": "2026-08-26T08:04:22.499Z",
   "opere": [
     {
       "slug": "lucifer",
@@ -77,86 +77,86 @@
       "imdb": "4052886",
       "stagione": 1,
       "totale": 13,
-      "sottotitoli": 3,
-      "riassunti": 0,
+      "sottotitoli": 13,
+      "riassunti": 3,
       "completa": false,
       "episodi": [
         {
           "episodio": 1,
           "id": "lucifer-s01e01",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 2,
           "id": "lucifer-s01e02",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 3,
           "id": "lucifer-s01e03",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 4,
           "id": "lucifer-s01e04",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 5,
           "id": "lucifer-s01e05",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 6,
           "id": "lucifer-s01e06",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 7,
           "id": "lucifer-s01e07",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 8,
           "id": "lucifer-s01e08",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 9,
           "id": "lucifer-s01e09",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 10,
           "id": "lucifer-s01e10",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 11,
           "id": "lucifer-s01e11",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 12,
           "id": "lucifer-s01e12",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 13,
           "id": "lucifer-s01e13",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         }
       ]
@@ -344,86 +344,86 @@
       "imdb": "903747",
       "stagione": 2,
       "totale": 13,
-      "sottotitoli": 0,
+      "sottotitoli": 13,
       "riassunti": 0,
       "completa": false,
       "episodi": [
         {
           "episodio": 1,
           "id": "breaking-bad-s02e01",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 2,
           "id": "breaking-bad-s02e02",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 3,
           "id": "breaking-bad-s02e03",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 4,
           "id": "breaking-bad-s02e04",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 5,
           "id": "breaking-bad-s02e05",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 6,
           "id": "breaking-bad-s02e06",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 7,
           "id": "breaking-bad-s02e07",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 8,
           "id": "breaking-bad-s02e08",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 9,
           "id": "breaking-bad-s02e09",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 10,
           "id": "breaking-bad-s02e10",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 11,
           "id": "breaking-bad-s02e11",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 12,
           "id": "breaking-bad-s02e12",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 13,
           "id": "breaking-bad-s02e13",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         }
       ]
@@ -433,50 +433,50 @@
       "imdb": "903747",
       "stagione": 1,
       "totale": 7,
-      "sottotitoli": 0,
+      "sottotitoli": 7,
       "riassunti": 0,
       "completa": false,
       "episodi": [
         {
           "episodio": 1,
           "id": "breaking-bad-s01e01",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 2,
           "id": "breaking-bad-s01e02",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 3,
           "id": "breaking-bad-s01e03",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 4,
           "id": "breaking-bad-s01e04",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 5,
           "id": "breaking-bad-s01e05",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 6,
           "id": "breaking-bad-s01e06",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         },
         {
           "episodio": 7,
           "id": "breaking-bad-s01e07",
-          "sottotitolo": false,
+          "sottotitolo": true,
           "riassunto": false
         }
       ]
@@ -1058,8 +1058,8 @@
     "imdb": "4052886",
     "stagione": 1,
     "episodi": 13,
-    "episodio": 1,
-    "id": "lucifer-s01e01",
+    "episodio": 4,
+    "id": "lucifer-s01e04",
     "sottotitolo": true
   }
 }
