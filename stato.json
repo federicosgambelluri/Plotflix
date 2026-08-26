@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-26T08:23:49.303Z",
+  "aggiornato": "2026-08-26T08:29:03.052Z",
   "opere": [
     {
       "slug": "lucifer",
@@ -434,50 +434,50 @@
       "stagione": 1,
       "totale": 7,
       "sottotitoli": 7,
-      "riassunti": 0,
-      "completa": false,
+      "riassunti": 7,
+      "completa": true,
       "episodi": [
         {
           "episodio": 1,
           "id": "breaking-bad-s01e01",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 2,
           "id": "breaking-bad-s01e02",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 3,
           "id": "breaking-bad-s01e03",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 4,
           "id": "breaking-bad-s01e04",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 5,
           "id": "breaking-bad-s01e05",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 6,
           "id": "breaking-bad-s01e06",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         },
         {
           "episodio": 7,
           "id": "breaking-bad-s01e07",
           "sottotitolo": true,
-          "riassunto": false
+          "riassunto": true
         }
       ]
     },
@@ -1053,13 +1053,5 @@
       ]
     }
   ],
-  "prossimo": {
-    "slug": "breaking-bad",
-    "imdb": "903747",
-    "stagione": 1,
-    "episodi": 7,
-    "episodio": 1,
-    "id": "breaking-bad-s01e01",
-    "sottotitolo": true
-  }
+  "prossimo": null
 }
