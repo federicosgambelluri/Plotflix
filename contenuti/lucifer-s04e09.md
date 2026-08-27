@@ -83,3 +83,169 @@ Lui risponde che non sa come, che non saprebbe da dove cominciare. Ma che **vuol
 E in quel momento la pelle torna normale, le ali rientrano.
 
 **"Pare che il male non sarà rilasciato, dopotutto."**
+
+=== RACCONTO ===
+
+### L'epifania
+
+Lucifer arrivò sulla scena del crimine di ottimo umore, annunciando di aver avuto una rivelazione durante la notte.
+
+«Odio me stesso.»
+
+Chloe non capiva perché lo dicesse con quel tono soddisfatto. Lui spiegò che aveva finalmente superato la negazione, e che di conseguenza i suoi problemi si sarebbero risolti da soli.
+
+Portava i guanti. Ella pensò a un caso grave di psoriasi.
+
+Sotto la stoffa, la pelle delle mani era diventata rossa e coriacea come quella del suo volto.
+
+### Le gemelle
+
+**Megan Murphy** venne uccisa a martellate durante una visita immobiliare. Lei e la gemella **Moira** erano celebrità locali grazie alla loro agenzia di famiglia.
+
+Era stata la sorella minore, **Beth**, a trovare Moira accanto al cadavere con l'arma in mano.
+
+Moira era fuggita.
+
+Lucifer si aggrappò al caso per una ragione tutta sua: una donna che aveva ucciso la propria copia esatta doveva per forza odiarsi, e forse aveva la risposta che cercava.
+
+### Il piano di Eve
+
+Eve non accettava la rottura, e Maze le spiegò come funzionano gli uomini: vogliono ciò che non possono avere.
+
+Bisognava mostrargli che stava benissimo senza di lui.
+
+Le due si presentarono sulla scena del crimine come colleghe, poi come cacciatrici di taglie, poi — quando Eve chiese qualcosa di più forte — si baciarono davanti a lui.
+
+Lucifer non ci fece caso. Aveva altro per la testa.
+
+### Il peggioramento
+
+Prese Chloe da parte e le confessò di aver sbagliato tutto: l'epifania, invece di risolvere le cose, le stava peggiorando.
+
+La macchia si stava diffondendo.
+
+Dalla dottoressa Linda ottenne l'unica indicazione utile: se davvero si odiava, doveva capire **perché**.
+
+Provò a chiederlo a Dan, che gli elencò volentieri i suoi difetti e arrivò a Charlotte.
+
+«Mi serve qualcosa per cui è di fatto colpa mia, non scuse.»
+
+### Il vero movente
+
+Moira, catturata, raccontò la sua versione: aveva scoperto un ammanco nei conti della società e ne aveva parlato con Megan, quella brava con i numeri.
+
+Aveva trovato la sorella già morta, aveva raccolto il martello d'istinto ed era scappata perché sembrava colpevole.
+
+I sospetti si spostarono sul marito della vittima, poi caddero anche quelli.
+
+Restava una penna USB con i file contabili, sparita dall'archivio del commercialista.
+
+E fu Eve, che passava le giornate a fingere di lavorare al caso per stare vicino a Lucifer, a trovare la soluzione: fingere che una copia esistesse ancora, annunciare la vendita della società e aspettare che il colpevole venisse a prendersela.
+
+Chloe dovette ammettere che era un'ottima idea.
+
+### La festa in maschera
+
+Il piano si tenne al Lux, mascherato da festa — perché Lucifer, ormai coperto da guanti, sciarpa e occhiali scuri, non poteva scendere altrimenti.
+
+Chloe gli promise che avrebbe fatto trasferire Kinley in una cella vicina per interrogarlo sulla profezia.
+
+Poi Lucifer si tolse gli occhiali davanti a Eve, e lei vide che anche i suoi occhi erano cambiati.
+
+Le fece l'unica domanda che gli premeva.
+
+«Perché non mi odi? Ti ho trattata male, ti ho ferita, ti ho usata.»
+
+«Perché ti amo.»
+
+«Beh, non dovresti.»
+
+### I gesti eclatanti
+
+Dan, che aveva capito i sentimenti di Maze, le consigliò di non aspettare come aveva fatto lui con Charlotte: serviva un gesto plateale.
+
+Maze salì sul palco e cantò per Eve davanti a tutti.
+
+Eve capì tutt'altro. Trovò il gesto bellissimo, si complimentò, e concluse che aveva ragione: le serviva un gesto eclatante **per riconquistare Lucifer**.
+
+### Ella e Dan
+
+Ella scoprì che era stata l'auto di Dan davanti all'ufficio di Tiernan.
+
+Era stato lui a dire al padre di Julian chi aveva spezzato la schiena a suo figlio — e da lì erano venuti il sicario e il pericolo per Trixie.
+
+Dan le chiese di denunciarlo. Lei aveva già cancellato le sue tracce.
+
+«Perché me la fate sempre fare franca?»
+
+«Penso che tu stia soffrendo. E penso che sia ora che tu cerchi aiuto.»
+
+Più tardi, aspettando in ospedale, lo disse a Linda: da quando Charlotte era morta gli faceva bene avere qualcuno da incolpare, e sapeva che non era colpa di Lucifer.
+
+Linda lo portò dove doveva arrivare — che stava punendo sé stesso, e che il dolore per una perdita simile non si supera in fretta.
+
+Poi le si ruppero le acque.
+
+### Il potere impazzito
+
+Alla festa, il potere di Lucifer sfuggì al controllo: tutti i presenti cominciarono a gridare i propri desideri più nascosti, in preda al panico.
+
+Nella confusione, una sola persona continuò a cercare la penna USB.
+
+Era **Beth**, la sorella minore.
+
+Aveva convinto Megan a lasciarle gestire un investimento per dimostrare a tutti di non essere quella che rovinava ogni cosa, e aveva perso l'intero capitale della società.
+
+Megan le aveva detto che Moira aveva ragione sul suo conto, e lei aveva perso il controllo.
+
+Poi aveva lasciato che la colpa cadesse sulla gemella.
+
+«Forse rovino davvero tutto ciò che tocco.»
+
+E Lucifer, guardandola, sentì la frase arrivare dritta al proprio indirizzo.
+
+### Charlie
+
+In ospedale nacque il bambino.
+
+Nessuna ala. Amenadiel propose un nome, e Linda lo adottò subito.
+
+**Charlie**, per Charlotte.
+
+Poi, tenendolo in braccio da solo, l'angelo gli sussurrò che alla Città d'Argento lo avrebbero adorato, e che lassù sarebbe stato al sicuro per sempre.
+
+### Il patto
+
+Kinley evase durante il trasferimento, aiutato da Eve.
+
+Lei voleva soltanto che il prete convincesse Lucifer che la profezia era una sciocchezza, così sarebbe tornato ad amarla.
+
+Kinley, scoperto chi fosse, si convinse del contrario. Poi le offrì una soluzione: portare Lucifer dove nessuno avrebbe potuto influenzarlo, dove sarebbe tornato a essere un re.
+
+All'Inferno. Con una regina.
+
+Per convincerlo serviva un messaggero che ricordasse al diavolo quanto fosse atteso dai suoi sudditi. Qualcuno che stesse per morire e fosse diretto laggiù comunque.
+
+Eve capì chi.
+
+E il prete si trovò a chiedere, mentre lei lo avvicinava, perché mai fosse così sicura della sua destinazione.
+
+### Il perdono
+
+Al Lux, Lucifer disse a Chloe di aver finalmente capito perché si odiava: perché rovinava tutto ciò che toccava, dalla ribellione contro suo padre fino a lei.
+
+Poi le mostrò la schiena.
+
+Le ali non rientravano più.
+
+Chloe non distolse lo sguardo, e gli disse che non riguardava lei: stava usando la sua reazione come scusa per non guardare il resto.
+
+«Parli sempre di quanto odi essere incolpato dei peccati dell'umanità. E penso di sapere perché lo odi tanto. Perché nel profondo ti incolpi allo stesso modo. Devi perdonare te stesso.»
+
+«Non posso. Non so come fare. Non so neanche da dove iniziare.»
+
+«Ma?»
+
+«Voglio farlo.»
+
+E le ali, quelle bianche di un tempo, tornarono al loro posto.
