@@ -75,3 +75,119 @@ E Lucifer le risponde con la frase che rovescia tutta la stagione.
 Poi apre le ali — bianche di nuovo — e sale in volo, mentre lei resta sul tetto a guardarlo sparire.
 
 Nell'ultima immagine Lucifer siede sul trono dell'Inferno, in mezzo alle sue legioni.
+
+=== RACCONTO ===
+
+### Il buon umore
+
+Lucifer si presentò in centrale convinto di avere una notizia da festeggiare: il mondo non era finito, la profezia era stata sconfitta, e il merito era interamente suo.
+
+La pelle rossa era sparita. Le ali erano tornate bianche.
+
+Chloe gli suggerì di riposare finché non si fosse ristabilito. Lui rispose che non era mai stato meglio, e le chiese un omicidio da risolvere.
+
+### Il rapper
+
+**Holla Bae** scomparve dal proprio studio lasciando due litri di sangue e nessun cadavere.
+
+Il sospettato più ovvio era il rivale con cui aveva litigato per anni e con cui stava per riconciliarsi in diretta: **Monopolize**.
+
+L'uomo negò e raccontò una cosa che nessuno poteva credere: aveva visto Holla uscire dallo studio con un coltello piantato nel petto, di ottimo umore, e salire su un'auto delle consegne insieme a un uomo vestito di pelle.
+
+Un video amatoriale confermò la versione.
+
+Chloe archiviò il caso come una montatura pubblicitaria e mandò Lucifer a casa a riposare.
+
+### I demoni
+
+Maze trovò Eve che si era liberata di Kinley e non voleva più riprenderlo — diceva di aver finalmente accettato che Lucifer non provasse niente per lei.
+
+Poi si presentarono al Lux due vecchie conoscenze: **Dromos** e **Squee**, demoni saliti dall'Inferno dentro cadaveri appena morti, mandati da Kinley con l'incarico di riportare il re al suo trono.
+
+Lucifer li accolse come si accolgono due dipendenti molesti.
+
+L'Inferno non andava bene senza di lui, dissero, e ai demoni serviva un re.
+
+«Torni all'Inferno, pare. Quegli occhi non si caveranno da soli.»
+
+Lui rifiutò, e li rispedì indietro con l'ordine di non possedere più nessuno.
+
+### Charlie
+
+Amenadiel, dopo aver deciso di portare il figlio nella Città d'Argento dove sarebbe stato al sicuro per sempre, ci ripensò.
+
+Uscì a schiarirsi le idee lasciando il bambino con la tata notturna appena assunta.
+
+Quando Linda si svegliò, la culla era vuota.
+
+La tata vera non era mai arrivata: qualcuno aveva disdetto l'incarico a nome loro.
+
+### Il piano vero
+
+Dromos non era tornato all'Inferno.
+
+Aveva capito che, se Lucifer si rifiutava di regnare, ce n'era un altro che poteva farlo: un essere per metà angelo, ancora abbastanza piccolo da essere plasmato.
+
+I demoni avevano rubato anche la fiala di Kinley, quella con il sedativo per il diavolo, e cercavano un luogo che fosse insieme un tempio e un covo di peccato per celebrare l'incoronazione.
+
+Eve capì troppo tardi cosa avesse messo in moto, e lo confessò a tutti: era stata lei a far evadere il prete, a ucciderlo quando l'aveva aggredita, e a chiamare un demone dentro il suo corpo.
+
+«Come hai potuto essere così egoista? Così ingenua?»
+
+### Il Mayan
+
+Il posto era il teatro dove Holla Bae avrebbe dovuto tenere il concerto annullato.
+
+Chloe restò fuori: la sua presenza avrebbe reso Lucifer vulnerabile. Eve invece entrò, perché doveva rimediare.
+
+Dentro trovarono un'incoronazione già avviata, con Dromos che spiegava al neonato che lo avrebbe cresciuto esattamente come voleva lui.
+
+«Datemi mio figlio!»
+
+«Sul mio cadavere. Oh, giusto. Questo corpo è già morto.»
+
+Maze e Amenadiel combatterono i demoni; Eve recuperò il bambino e lo portò fuori.
+
+### La faccia
+
+Chloe rientrò per assicurarsi che stesse bene, e Lucifer le disse di andarsene — non per la vulnerabilità, ma perché non voleva che lo vedesse in quello stato.
+
+«So che ti spaventa.»
+
+«È quel che cercavo di dirti. Non ho più paura.»
+
+Lui le chiese allora di cosa avesse avuto paura per tutti quei mesi.
+
+«Non avevo paura di te. Avevo paura di perderti. Che prendesse il sopravvento, e che ti scordassi di me.»
+
+Poi il teatro si riempì.
+
+Dromos aveva radunato decine di demoni raccogliendo confessioni in chiesa, e Lucifer si trovò circondato con Chloe alle spalle.
+
+### Il re
+
+Allora smise di nascondersi.
+
+Lasciò venire fuori tutto — il volto, le ali nere — e si mostrò per quello che era davanti ai propri sudditi.
+
+«Inchinatevi davanti al vostro re. Questo non è il vostro posto. Andate a casa.»
+
+I demoni obbedirono e sparirono uno dopo l'altro.
+
+Chloe lo guardò per tutto il tempo, e non distolse lo sguardo.
+
+### Gli addii
+
+Eve restituì Charlie a Linda e Amenadiel e chiese scusa.
+
+Maze le disse che non le avrebbe mai chiesto di cambiare, che le piaceva così com'era.
+
+Eve rispose che con Lucifer aveva fatto esattamente quello che aveva fatto con Adamo: diventare la persona che credeva volessero. E che stavolta doveva capire da sola chi fosse.
+
+Se ne andò.
+
+Amenadiel disse a Linda che aveva avuto ragione — la Terra non era sicura — e che qualcuno doveva portare via il bambino.
+
+Poi si corresse da solo: nessuno lo avrebbe protetto meglio dei suoi genitori.
+
+E Charlie tornò a casa.
