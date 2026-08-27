@@ -82,3 +82,157 @@ Kinley non discute. Aspetta che se ne vada.
 Poi le porte dell'ascensore dell'attico si aprono, e c'è lui.
 
 **"Sono padre Kinley. Sono qui perché c'è qualcosa che devi sapere su Chloe."**
+
+=== RACCONTO ===
+
+### Il prete a Roma
+
+L'uomo che si sedette accanto a lei in quella biblioteca disse di chiamarsi padre Kinley e di lavorare per un'associazione di esorcisti.
+
+Chloe si aspettava di essere presa per matta. Le avevano detto che una donna era andata fin lì a fare ricerche sul diavolo.
+
+«Non credo che sia matta» disse il prete. «Anzi, credo che dovremmo parlare.»
+
+Sapevano di Lucifer Morningstar da sette anni. All'inizio lo avevano archiviato come un eccentrico innocuo. Più lo guardavano, più diventava spaventosamente autentico.
+
+E c'era una cosa che lei poteva fare, disse Kinley, perché ogni giorno in cui il diavolo restava sulla Terra la gente era in pericolo.
+
+### Il vestito
+
+Al Lux, Lucifer scartava camicie davanti al fratello e chiedeva pareri su due tonalità di azzurro che erano lo stesso azzurro.
+
+Amenadiel gli comunicò che non sarebbe tornato in Paradiso: la sua vita ormai era qui.
+
+Poi capì il motivo di tutta quell'agitazione sul colletto, e gli diede il consiglio che aveva imparato in un secolo di osservazione degli esseri umani.
+
+«Chiedile di uscire. Per un appuntamento.»
+
+### Il reality
+
+Melinda Hagey era la maestra d'asilo più amata dal pubblico di *The Cabin*, e la trovarono affogata nella laguna del set, con una contusione sulla nuca.
+
+Ella era felicissima: aveva divorato ventisette stagioni in due settimane e conosceva ogni concorrente per nome.
+
+Lucifer, tra un dettaglio e l'altro dell'autopsia, cercava il varco per la domanda che aveva preparato tutta la mattina — le zanzare, il cibo, la sera libera — e alla fine la disse.
+
+«Detective, vorresti uscire con me?»
+
+Lei disse di sì.
+
+### Nessuno è quel che sembra
+
+Il sospettato più ovvio era Judd, il cattivo della stagione, ripreso mentre minacciava la vittima con un'ascia in mano.
+
+Confessò subito una cosa sola: che recitava. Aveva studiato lo show e calcolato che il cattivo vince nel sessantadue per cento dei casi.
+
+Aveva anche un alibi.
+
+E lasciò loro una frase che valeva più dell'alibi: nessuno, lì attorno, era quello che sembrava. Nemmeno la dolce Melinda, che teneva in piedi alleanze segrete con mezzo cast.
+
+Interrogarono tutti. Ogni versione contraddiceva la precedente.
+
+### Le domande
+
+Nell'attesa, Chloe cominciò a chiedere.
+
+Prima Pierce: quante persone aveva ucciso, teneva il conto.
+
+Lucifer rispose che Caino era stato il primo essere umano che avesse mai ucciso, e che per la maggior parte della sua vita immortale aveva desiderato morire.
+
+Poi l'Inferno. Le anime, le torture. Le piaceva farlo?
+
+«Era un lavoro, detective. Ero costretto a farlo.»
+
+Lei disse di aver letto Dante durante la vacanza, e che a quanto pareva molte delle cose che aveva letto erano sbagliate.
+
+Solo stereotipi, disse.
+
+Lui annuì, contento della curiosità, e non si accorse che era un interrogatorio.
+
+### Il ripensamento
+
+Chloe rimandò l'appuntamento a caso chiuso.
+
+Kinley lo intese subito per quello che era: stava prendendo tempo.
+
+Lei ammise di non riuscire più a vedere il mostro che lui le descriveva. Da vicino Lucifer era magnetico, spiritoso, perfino gentile.
+
+«È tutta una recita» disse il prete. «Se non reagisci bene a qualcosa, cambierà comportamento finché non lo farai.»
+
+Chloe obiettò con l'unica cosa che sapeva per certo: Lucifer non mentiva mai. Nemmeno una volta.
+
+E Kinley le rispose che forse era proprio quella la menzogna più grande.
+
+### Le palle al rum
+
+Nello stomaco della vittima, insieme a riso e cocco, c'erano gli ingredienti di un dolce ungherese che sul set non esisteva.
+
+Erano del produttore, che aveva offerto cibo a Melinda in cambio di un favore: un colpo di scena che risollevasse gli ascolti.
+
+Lui negò l'omicidio e consegnò un'altra pista — una relazione segreta ripresa per sbaglio in un bagno.
+
+Kylie confessò di aver spinto Melinda nella laguna in un momento di rabbia, dopo essersi convinta di essere stata ingannata.
+
+Poi cercò di far saltare in aria la capanna con il gas.
+
+Lucifer attraversò le fiamme e la portò fuori senza un graffio, e Chloe rimase a guardarlo con un'espressione che lui scambiò per meraviglia.
+
+### Il formaggio grigliato
+
+L'appuntamento si tenne a casa di lei, e Lucifer aveva rinunciato all'elicottero, all'opera e alla tovaglia bianca.
+
+Aveva preparato un formaggio grigliato — quello arancione da supermercato, non quello che puzza — e una playlist di canzoni anni Novanta scelte male apposta.
+
+«Sono felice che non ci siano segreti fra noi» le disse. «Sono sempre stato onesto con te. E lo sarò sempre.»
+
+Poi ruppe un bicchiere, si tagliò una mano e cominciò a sanguinare.
+
+### La domanda vera
+
+Chloe fissò quella goccia di sangue e la domanda le uscì da sola.
+
+Come faceva a uscire illeso da un'esplosione e a ferirsi con un vetro? Le avevano sparato addosso, lo avevano colpito allo stomaco, gli aveva sparato lei stessa.
+
+Che differenza c'era?
+
+«Sei tu, detective.»
+
+Non ne capiva del tutto la ragione nemmeno lui. Ma era vulnerabile soltanto quando le stava vicino.
+
+### L'operatore
+
+L'autopsia diceva che la ferita alla testa era stata inferta con un oggetto squadrato, tre volte, e Chloe capì.
+
+Andò da sola sul set e trovò l'uomo che filmava lo show da ventisette stagioni.
+
+Era lui l'alleato segreto di Melinda: le aveva costruito l'immagine da beniamina del pubblico, le aveva rubato il totem, avrebbe diviso con lei la vittoria.
+
+Poi Melinda lo aveva scaricato, e aveva riso.
+
+Le sparò addosso. Lucifer si mise in mezzo e prese il colpo con il petto.
+
+### Ancora e ancora
+
+Nell'auto, dopo, Chloe guardava la giacca bucata.
+
+Se gli avesse infilato un coltello nel petto, con lei accanto, lo avrebbe ucciso davvero. Lui disse di sì.
+
+E si era messo in mezzo lo stesso.
+
+«Lo rifarei ancora. E ancora. Non lo sai, detective?»
+
+### Due notizie
+
+Al Lux, quella sera, una donna sconosciuta provò a offrire un drink ad Amenadiel, che era già occupato: Linda era lì e aveva qualcosa da dirgli.
+
+«Sono incinta.»
+
+E a Roma, in una stanza di chiesa, Chloe comunicò a padre Kinley la propria decisione: non avrebbe drogato Lucifer, non avrebbe permesso l'esorcismo.
+
+Il fatto stesso di renderlo vulnerabile, gli disse, significava che era cambiato.
+
+Kinley la lasciò andare senza insistere.
+
+Poi salì al Lux, dove Lucifer stava scrivendo un messaggio per chiedere un secondo appuntamento.
+
+«Sono padre Kinley. Sono qui perché c'è qualcosa che devi sapere su Chloe.»
