@@ -287,15 +287,20 @@ const PF = (() => {
     document.body.style.overflow = "";
   }
 
-  function apriReader(operaId, numS, numE, indiceVersione = 0) {
+  function apriReader(operaId, numS, numE, indiceVersione = 0, modo = "riassunto") {
     const o = opera(operaId); if (!o) return;
     const st = o.stagioni.find(s => s.numero === Number(numS)); if (!st) return;
     const base = st.episodi.find(e => e.numero === Number(numE)); if (!base) return;
     const versioni = [base, ...(base.versioni || [])];
     const ep = versioni[indiceVersione] || base;
 
+    /* due modi di lettura: riassunto secco o racconto in stile libro */
+    const haRacconto = !!ep.racconto;
+    if (modo === "racconto" && !haRacconto) modo = "riassunto";
+    const testo = modo === "racconto" ? ep.racconto : ep.riassunto;
+
     montaReader();
-    const min = minutiLettura(ep.riassunto);
+    const min = minutiLettura(testo);
     const etichetta = o.tipo === "film"
       ? "Film" : `Stagione ${st.numero} · Episodio ${ep.numero}${ep.finale ? " · Finale di stagione" : ""}`;
     const [ca, cb] = colori(o);
@@ -303,7 +308,21 @@ const PF = (() => {
     const switcher = versioni.length > 1
       ? `<div style="margin-bottom:18px;display:flex;gap:8px;flex-wrap:wrap">
            ${versioni.map((v, i) => `<button class="btn btn-sm ${i === indiceVersione ? "btn-play" : "btn-info"}"
-             onclick="PF.apriReader('${operaId}',${st.numero},${ep.numero},${i})">Versione ${i + 1} · ${esc(v.autore || "Anonimo")}</button>`).join("")}
+             onclick="PF.apriReader('${operaId}',${st.numero},${ep.numero},${i},'${modo}')">Versione ${i + 1} · ${esc(v.autore || "Anonimo")}</button>`).join("")}
+         </div>` : "";
+
+    const bottoneModo = (id, etichetta, sotto) => `
+      <button class="btn btn-sm ${modo === id ? "btn-play" : "btn-info"}"
+        onclick="PF.apriReader('${operaId}',${st.numero},${ep.numero},${indiceVersione},'${id}')"
+        title="${sotto}">${etichetta}</button>`;
+
+    const modi = haRacconto
+      ? `<div class="modi-lettura">
+           <span class="modi-label">Come vuoi leggerlo?</span>
+           <div class="modi-bottoni">
+             ${bottoneModo("riassunto", "Riassunto", "Cosa succede, in breve")}
+             ${bottoneModo("racconto", "Racconto", "L'episodio narrato, con i dialoghi")}
+           </div>
          </div>` : "";
 
     document.getElementById("reader-box").innerHTML = `
@@ -315,16 +334,19 @@ const PF = (() => {
           ${ep.titoloOriginale ? `<span>“${esc(ep.titoloOriginale)}”</span>` : ""}
           ${ep.durata ? `<span class="badge">${ep.durata} min di visione</span>` : ""}
           <span class="badge badge-red">${min} min di lettura</span>
-          <span>Riassunto di ${esc(ep.autore || "Anonimo")}</span>
+          <span>${modo === "racconto" ? "Racconto" : "Riassunto"} di ${esc(ep.autore || "Anonimo")}</span>
         </div>
       </div>
       <div class="reader-body">
         ${switcher}
+        ${modi}
         <div class="spoiler-wall" id="wall">
-          <span><b style="color:#fff">Attenzione:</b> questo è il riassunto completo, finale compreso. È il punto.</span>
-          <button class="btn btn-sm btn-play" onclick="PF.svela()">Mostra il riassunto</button>
+          <span><b style="color:#fff">Attenzione:</b> ${modo === "racconto"
+            ? "questo è l'episodio raccontato per intero, finale compreso."
+            : "questo è il riassunto completo, finale compreso."} È il punto.</span>
+          <button class="btn btn-sm btn-play" onclick="PF.svela()">Mostra ${modo === "racconto" ? "il racconto" : "il riassunto"}</button>
         </div>
-        <div class="prose blurred" id="prose">${prosa(ep.riassunto)}</div>
+        <div class="prose ${modo === "racconto" ? "prose-racconto" : ""} blurred" id="prose">${prosa(testo)}</div>
         <div class="guadagno-ep">
           <span class="big">+${durata(Math.max(0, (ep.durata || 45) - min))}</span>
           <span>Hai chiuso questo episodio in <b style="color:#fff">${min} min</b> di lettura

@@ -24,7 +24,16 @@ function leggiEpisodio(file) {
     else if (v === "true" || v === "false") v = v === "true";
     meta[k] = v;
   }
-  meta.riassunto = m[2].trim();
+  /* il corpo può contenere due versioni separate da === RACCONTO ===
+     prima parte: riassunto secco · seconda: racconto in stile libro */
+  const corpo = m[2];
+  const i = corpo.indexOf("\n=== RACCONTO ===");
+  if (i < 0) {
+    meta.riassunto = corpo.trim();
+  } else {
+    meta.riassunto = corpo.slice(0, i).trim();
+    meta.racconto = corpo.slice(i + "\n=== RACCONTO ===".length).trim();
+  }
   return meta;
 }
 
@@ -35,7 +44,7 @@ for (const [id, o] of Object.entries(opere)) {
     catalogo[id].stagioni.push({ numero: Number(num), episodiTotali: s.episodiTotali || null, episodi: [] });
 }
 
-let n = 0;
+let n = 0, r = 0;
 for (const f of fs.readdirSync(dirContenuti).filter(f => f.endsWith(".md")).sort()) {
   const ep = leggiEpisodio(path.join(dirContenuti, f));
   const opera = catalogo[ep.opera];
@@ -46,6 +55,7 @@ for (const f of fs.readdirSync(dirContenuti).filter(f => f.endsWith(".md")).sort
   const { opera: _o, stagione: _s, episodio, ...resto } = ep;
   st.episodi.push({ numero: Number(episodio), ...resto });
   n++;
+  if (ep.racconto) r++;
 }
 
 for (const o of Object.values(catalogo)) {
@@ -63,4 +73,4 @@ const out = `/* ============================================================
 const PLOTFLIX_SEED = ${JSON.stringify(Object.values(catalogo), null, 2)};
 `;
 fs.writeFileSync(path.join(radice, "assets", "js", "data.js"), out);
-console.log(`data.js rigenerato — ${Object.keys(catalogo).length} opere, ${n} riassunti.`);
+console.log(`data.js rigenerato — ${Object.keys(catalogo).length} opere, ${n} riassunti, ${r} racconti.`);
