@@ -339,6 +339,50 @@ h2.sec{font-size:clamp(24px,3vw,38px);line-height:1.1;letter-spacing:-1px;margin
 
 .badge-libro{border-color:#4a3a24;color:#e0b978;background:#20180d}
 
+/* --- guida "come si scrive" nel form --- */
+.guida{
+  border:1px solid #2c2c2c;border-radius:10px;background:#141414;
+  margin:0 0 30px;overflow:hidden;
+}
+.guida>summary{
+  list-style:none;cursor:pointer;padding:16px 20px;display:flex;
+  align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;
+}
+.guida>summary::-webkit-details-marker{display:none}
+.guida>summary:hover{background:#1a1a1a}
+.guida-tit{font-weight:700;color:#fff;font-size:15px}
+.guida-apri{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--red);font-weight:800}
+.guida[open] .guida-apri::after{content:" ▲"}
+.guida:not([open]) .guida-apri::after{content:" ▼"}
+.guida-corpo{padding:4px 20px 22px;border-top:1px solid #2c2c2c}
+.guida-intro{color:var(--muted);font-size:14px;line-height:1.7;margin:18px 0 22px;max-width:70ch}
+.passo{display:flex;gap:16px;margin-bottom:22px;align-items:flex-start}
+.passo-n{
+  flex:0 0 30px;height:30px;border-radius:50%;background:var(--red);color:#fff;
+  display:grid;place-items:center;font-weight:800;font-size:14px;margin-top:2px;
+}
+.passo h4{margin:2px 0 6px;font-size:15px;color:#fff}
+.passo p{margin:0 0 8px;color:var(--muted);font-size:14px;line-height:1.7;max-width:70ch}
+.passo a{color:var(--red)}
+.passo-nota{color:var(--dim)!important;font-size:13px!important}
+.passo code,.guida code{
+  background:#232323;border-radius:4px;padding:1px 6px;font-size:13px;color:#e0b978;
+}
+.prompt-box{border:1px solid #2c2c2c;border-radius:8px;background:#0f0f0f;margin:0 0 20px 46px}
+.prompt-head{
+  display:flex;align-items:center;justify-content:space-between;gap:12px;
+  padding:10px 14px;border-bottom:1px solid #2c2c2c;
+}
+.prompt-box pre{
+  margin:0;padding:14px;font-size:12.5px;line-height:1.65;color:#c9c9c9;
+  white-space:pre-wrap;word-break:break-word;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+  max-height:280px;overflow:auto;
+}
+@media(max-width:640px){
+  .prompt-box{margin-left:0}
+  .passo{gap:12px}
+}
+
 /* --- riquadro "due modi" nel form di contribuzione --- */
 .due-modi{
   border:1px solid #2c2c2c;border-radius:10px;background:#171717;

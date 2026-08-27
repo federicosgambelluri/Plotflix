@@ -29,6 +29,117 @@
       <b>Esporta</b> per ottenere un file JSON da condividere o da far entrare stabilmente nel catalogo,
       e <b>Importa</b> per caricare i contributi di qualcun altro.
     </div>
+
+    <!-- ---------- GUIDA: COME SI SCRIVE ---------- -->
+    <details class="guida">
+      <summary>
+        <span class="guida-tit">Non sai da dove iniziare? Il metodo che usiamo noi</span>
+        <span class="guida-apri">Apri la guida</span>
+      </summary>
+
+      <div class="guida-corpo">
+
+        <p class="guida-intro">
+          Il modo migliore resta scrivere di getto una serie che conosci a memoria. Ma se vuoi coprire
+          un episodio che hai visto mesi fa, o controllare di non aver saltato niente, questo è il
+          procedimento che seguiamo per il catalogo.
+        </p>
+
+        <div class="passo">
+          <div class="passo-n">1</div>
+          <div>
+            <h4>Procurati la traccia dei dialoghi</h4>
+            <p>
+              I sottotitoli servono da promemoria: ti ricordano l'ordine delle scene e chi dice cosa.
+              Si scaricano gratis da <a href="https://www.opensubtitles.org" target="_blank" rel="noopener">opensubtitles.org</a>
+              (registrazione gratuita, cerca il titolo, scegli la lingua italiana, scarica il file <code>.srt</code>).
+            </p>
+            <p class="passo-nota">
+              I sottotitoli sono lavoro di chi li ha tradotti: usali per ricordare, non per copiare.
+              Sul sito finisce solo testo tuo.
+            </p>
+          </div>
+        </div>
+
+        <div class="passo">
+          <div class="passo-n">2</div>
+          <div>
+            <h4>Rendilo leggibile</h4>
+            <p>
+              Un <code>.srt</code> è pieno di numeri e marcatori temporali. Aprilo con un editor di testo
+              e togli le righe di numeri, oppure incollalo direttamente all'AI: capisce comunque il formato.
+            </p>
+          </div>
+        </div>
+
+        <div class="passo">
+          <div class="passo-n">3</div>
+          <div>
+            <h4>Chiedi la prima stesura</h4>
+            <p>
+              Incolla la traccia insieme a uno dei due testi qui sotto, a seconda della versione che
+              vuoi scrivere. Poi <b>rileggi e correggi</b>: l'AI sbaglia i nomi, inverte le scene e
+              a volte inventa. Il testo che pubblichi resta responsabilità tua.
+            </p>
+          </div>
+        </div>
+
+        <div class="prompt-box">
+          <div class="prompt-head">
+            <span class="due-modi-tag">Prompt per il riassunto</span>
+            <button class="btn btn-ghost btn-sm" type="button" data-copia="p-riassunto">Copia</button>
+          </div>
+          <pre id="p-riassunto">Ti incollo la traccia dei dialoghi di un episodio di [SERIE], stagione [N], episodio [N].
+
+Scrivimi un riassunto in italiano di 600-900 parole, con parole tue, per un sito che racconta gli episodi a chi non ha tempo di guardarli.
+
+Regole:
+- Racconta TUTTO quello che succede, finale compreso. Niente suspense, niente "scoprirete", niente domande retoriche.
+- Ordina il testo in 6-10 sezioni, ognuna aperta da un titoletto scritto così: ### Titolo della sezione
+- Usa **doppi asterischi** per i due o tre nomi o fatti davvero centrali.
+- Prosa asciutta e concreta: chi fa cosa, chi mente, chi muore, come si chiude.
+- NON trascrivere i dialoghi. Puoi citare al massimo tre o quattro battute brevi, fra virgolette, solo dove una frase è davvero decisiva.
+- Niente giudizi sulla qualità dell'episodio, niente "in questo episodio vedremo".
+
+Traccia dei dialoghi:
+[INCOLLA QUI]</pre>
+        </div>
+
+        <div class="prompt-box">
+          <div class="prompt-head">
+            <span class="due-modi-tag">Prompt per il racconto</span>
+            <button class="btn btn-ghost btn-sm" type="button" data-copia="p-racconto">Copia</button>
+          </div>
+          <pre id="p-racconto">Ti incollo la traccia dei dialoghi di un episodio di [SERIE], stagione [N], episodio [N].
+
+Riscrivimi l'episodio in italiano come un capitolo di romanzo, 1300-1800 parole, per chi vuole viversi la storia leggendola invece di guardarla.
+
+Regole:
+- Prosa narrativa al passato: descrivi le scene, i gesti, quello che i personaggi capiscono e nascondono.
+- I dialoghi vanno usati con parsimonia: riporta fra virgolette «» soltanto le battute che reggono davvero una scena, una o due per capitolo. Tutto il resto va raccontato in forma indiretta.
+- NON trascrivere l'episodio battuta per battuta: è un adattamento, non un copione.
+- Dividi in 8-12 capitoletti aperti così: ### Titolo del capitolo
+- Racconta anche il finale, per intero.
+- Niente commenti da recensore, niente "l'episodio si chiude": resta dentro la storia.
+
+Traccia dei dialoghi:
+[INCOLLA QUI]</pre>
+        </div>
+
+        <div class="passo">
+          <div class="passo-n">4</div>
+          <div>
+            <h4>Rileggi, incolla, pubblica</h4>
+            <p>
+              Controlla i nomi propri, l'ordine dei fatti e che il finale ci sia davvero. Poi incolla
+              nel campo giusto qui sotto e usa <b>Anteprima</b> per vedere come verrà.
+              Se hai scritto tutte e due le versioni, l'anteprima ti fa passare dall'una all'altra.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </details>
   </div>
 
   <form class="form-card" id="form" novalidate>
@@ -163,6 +274,21 @@ f.tipo.addEventListener("change", () => {
 
 /* contatore parole */
 const cnt = document.getElementById("cnt");
+/* pulsanti "Copia" dei prompt della guida */
+document.querySelectorAll("[data-copia]").forEach(b => {
+  b.addEventListener("click", async () => {
+    const testo = document.getElementById(b.dataset.copia)?.textContent || "";
+    try {
+      await navigator.clipboard.writeText(testo);
+      const prima = b.textContent;
+      b.textContent = "Copiato ✓";
+      setTimeout(() => b.textContent = prima, 1600);
+    } catch {
+      PF.toast("Il browser ha bloccato la copia: selezionalo a mano.");
+    }
+  });
+});
+
 const cntRacconto = document.getElementById("cnt-racconto");
 f.racconto.addEventListener("input", () => {
   const p = f.racconto.value.trim().split(/\s+/).filter(Boolean).length;
