@@ -93,6 +93,7 @@ const PF = (() => {
         titolo: c.titoloEpisodio || (opera.tipo === "film" ? c.titolo : `Episodio ${numE}`),
         durata: Number(c.durata) || null,
         riassunto: c.riassunto,
+        racconto: c.racconto || undefined,
         autore: c.autore || "Anonimo",
         data: c.data,
         contributoId: c.id,

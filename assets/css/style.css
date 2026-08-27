@@ -337,6 +337,23 @@ h2.sec{font-size:clamp(24px,3vw,38px);line-height:1.1;letter-spacing:-1px;margin
 .modi-label{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--muted)}
 .modi-bottoni{display:flex;gap:8px;flex-wrap:wrap}
 
+.badge-libro{border-color:#4a3a24;color:#e0b978;background:#20180d}
+
+/* --- riquadro "due modi" nel form di contribuzione --- */
+.due-modi{
+  border:1px solid #2c2c2c;border-radius:10px;background:#171717;
+  padding:18px 20px;margin:0 0 26px;font-size:14px;line-height:1.65;
+}
+.due-modi>b{display:block;margin-bottom:14px;color:#fff;font-size:15px}
+.due-modi-griglia{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.due-modi-griglia p{margin:6px 0 0;color:var(--muted)}
+.due-modi-tag{
+  display:inline-block;font-size:11px;letter-spacing:2px;text-transform:uppercase;
+  font-weight:800;color:var(--red);
+}
+.due-modi-nota{margin:16px 0 0;padding-top:14px;border-top:1px solid #2c2c2c;color:var(--dim);font-size:13px}
+@media(max-width:640px){.due-modi-griglia{grid-template-columns:1fr;gap:14px}}
+
 /* il racconto si legge come un libro: righe più larghe, niente capolettera */
 .reader-body .prose-racconto{font-size:19px;line-height:1.85}
 .reader-body .prose-racconto h3{

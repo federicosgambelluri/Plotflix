@@ -89,6 +89,24 @@
       </div>
     </div>
 
+    <div class="due-modi">
+      <b>Su Plotflix un episodio si può leggere in due modi.</b>
+      <div class="due-modi-griglia">
+        <div>
+          <span class="due-modi-tag">Riassunto</span>
+          <p>Cosa succede, in breve. Vai dritto ai fatti: chi fa cosa, chi mente, come si chiude.
+             Serve a chi vuole sapere e basta. Cinque minuti.</p>
+        </div>
+        <div>
+          <span class="due-modi-tag">Racconto</span>
+          <p>Lo stesso episodio narrato come un capitolo di romanzo, con le battute che contano
+             riportate nei punti giusti. Serve a chi vuole <em>viverselo</em> leggendo. Dieci minuti.</p>
+        </div>
+      </div>
+      <p class="due-modi-nota">Il riassunto è obbligatorio, il racconto no. Se scrivi tutti e due,
+         chi legge trova un selettore e sceglie.</p>
+    </div>
+
     <div class="field" style="margin-bottom:8px">
       <label for="riassunto">Riassunto completo *</label>
       <textarea id="riassunto" name="riassunto" placeholder="Cosa succede, dall'inizio alla fine. Racconta anche il finale: chi muore, chi mente, come si chiude.&#10;&#10;Puoi usare ### per creare dei titoletti di sezione e **doppi asterischi** per il grassetto."></textarea>
@@ -96,8 +114,16 @@
       <div class="err-msg">Scrivi almeno 60 parole: un riassunto vero, non due righe.</div>
     </div>
 
+    <div class="field" style="margin-bottom:8px">
+      <label for="racconto">Racconto in stile libro <span style="color:var(--dim);font-weight:400">· facoltativo</span></label>
+      <textarea id="racconto" name="racconto" placeholder="Lo stesso episodio, ma narrato.&#10;&#10;Scene descritte in prosa, con i dialoghi chiave riportati fra virgolette nei momenti che contano davvero. Non trascrivere tutte le battute: scegli quelle che reggono la scena.&#10;&#10;Anche qui puoi usare ### per i capitoli e **doppi asterischi** per il grassetto."></textarea>
+      <div class="counter" id="cnt-racconto">0 parole · 0 min di lettura</div>
+      <div class="err-msg">Se lo scrivi, scrivilo davvero: almeno 150 parole. Altrimenti lascialo vuoto.</div>
+    </div>
+
     <div class="hint" style="margin-bottom:24px;color:var(--dim);font-size:13px;line-height:1.6">
-      Scrivi con parole tue. Non incollare sottotitoli, copioni o testi presi da altri siti.
+      Scrivi con parole tue. Non incollare sottotitoli, copioni o testi presi da altri siti:
+      qualche battuta citata dove serve va bene, l'episodio trascritto riga per riga no.
     </div>
 
     <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center">
@@ -137,6 +163,14 @@ f.tipo.addEventListener("change", () => {
 
 /* contatore parole */
 const cnt = document.getElementById("cnt");
+const cntRacconto = document.getElementById("cnt-racconto");
+f.racconto.addEventListener("input", () => {
+  const p = f.racconto.value.trim().split(/\s+/).filter(Boolean).length;
+  cntRacconto.textContent = p
+    ? `${p} parole · ${PF.minutiLettura(f.racconto.value)} min di lettura`
+    : "0 parole · 0 min di lettura";
+});
+
 f.riassunto.addEventListener("input", () => {
   const p = f.riassunto.value.trim().split(/\s+/).filter(Boolean).length;
   cnt.textContent = `${p} parole · ${PF.minutiLettura(f.riassunto.value)} min di lettura`;
@@ -150,13 +184,18 @@ f.addEventListener("submit", ev => {
   const film = f.tipo.value === "film";
   const p = f.riassunto.value.trim().split(/\s+/).filter(Boolean).length;
 
+  const racconto = f.racconto.value.trim();
+  const pr = racconto.split(/\s+/).filter(Boolean).length;
+
   const koTitolo = !f.titolo.value.trim();
   const koTesto  = p < 60;
+  const koRacconto = racconto.length > 0 && pr < 150;   /* vuoto va bene, abbozzato no */
   const koS = !film && !(Number(f.stagione.value) > 0);
   const koE = !film && !(Number(f.episodio.value) > 0);
   errore("titolo", koTitolo); errore("riassunto", koTesto);
+  errore("racconto", koRacconto);
   errore("stagione", koS); errore("episodio", koE);
-  if (koTitolo || koTesto || koS || koE) {
+  if (koTitolo || koTesto || koRacconto || koS || koE) {
     PF.toast("Controlla i campi evidenziati.");
     document.querySelector(".field.err input, .field.err textarea")?.focus();
     return;
@@ -172,7 +211,8 @@ f.addEventListener("submit", ev => {
     titoloEpisodio: f.titoloEpisodio.value.trim(),
     durata: f.durata.value || null,
     autore: f.autore.value.trim() || "Anonimo",
-    riassunto: f.riassunto.value.trim()
+    riassunto: f.riassunto.value.trim(),
+    racconto: racconto || null
   });
 
   PF.toast("Pubblicato. Grazie: qualcuno stasera non farà le 3 di notte.");
@@ -181,8 +221,16 @@ f.addEventListener("submit", ev => {
 });
 
 /* anteprima */
-document.getElementById("anteprima").addEventListener("click", () => {
-  if (!f.riassunto.value.trim()) return PF.toast("Scrivi qualcosa, prima.");
+function mostraAnteprima(modo = "riassunto") {
+  const haRacconto = !!f.racconto.value.trim();
+  if (modo === "racconto" && !haRacconto) modo = "riassunto";
+  const testo = modo === "racconto" ? f.racconto.value : f.riassunto.value;
+
+  const bottone = (id, etichetta) => `
+    <button class="btn btn-sm ${modo === id ? "btn-play" : "btn-info"}"
+      onclick="document.getElementById('prev').remove();mostraAnteprima('${id}')">${etichetta}</button>`;
+
+  document.getElementById("prev")?.remove();
   document.body.insertAdjacentHTML("beforeend", `
     <div class="reader-overlay open" id="prev" onclick="if(event.target.id==='prev')this.remove()">
       <div class="reader">
@@ -190,11 +238,25 @@ document.getElementById("anteprima").addEventListener("click", () => {
           <button class="reader-close" onclick="document.getElementById('prev').remove()">✕</button>
           <div class="reader-kicker">Anteprima</div>
           <h2>${PF.esc(f.titoloEpisodio.value || f.titolo.value || "Senza titolo")}</h2>
-          <div class="reader-meta"><span class="badge badge-red">${PF.minutiLettura(f.riassunto.value)} min di lettura</span></div>
+          <div class="reader-meta">
+            <span class="badge badge-red">${PF.minutiLettura(testo)} min di lettura</span>
+            <span>${modo === "racconto" ? "Racconto" : "Riassunto"}</span>
+          </div>
         </div>
-        <div class="reader-body"><div class="prose">${PF.prosa(f.riassunto.value)}</div></div>
+        <div class="reader-body">
+          ${haRacconto ? `<div class="modi-lettura">
+            <span class="modi-label">Come vuoi leggerlo?</span>
+            <div class="modi-bottoni">${bottone("riassunto", "Riassunto")}${bottone("racconto", "Racconto")}</div>
+          </div>` : ""}
+          <div class="prose ${modo === "racconto" ? "prose-racconto" : ""}">${PF.prosa(testo)}</div>
+        </div>
       </div>
     </div>`);
+}
+
+document.getElementById("anteprima").addEventListener("click", () => {
+  if (!f.riassunto.value.trim()) return PF.toast("Scrivi qualcosa, prima.");
+  mostraAnteprima("riassunto");
 });
 
 /* esporta / importa */
