@@ -85,3 +85,149 @@ Sono ali da diavolo, membranose e mostruose.
 Le parole della profezia si sovrappongono all'immagine: *quando il diavolo camminerà sulla Terra e troverà il suo primo amore, il male sarà rilasciato.*
 
 **"Perché sono ancora così?"**
+
+=== RACCONTO ===
+
+### La nuova abitudine
+
+Eve non riusciva a smettere di parlare della sera prima. Diceva di non essersi mai sentita così: quell'uomo era davvero malvagio e gliela avevano fatta pagare.
+
+Voleva rifarlo.
+
+Lucifer le fece notare che i criminali non si mettono in fila per essere puniti, e lei arrivò da sola alla conclusione: ecco perché lavorava con la polizia. Li usava per trovare i colpevoli.
+
+«Voglio farlo anch'io.»
+
+### Il sospetto di Dan
+
+In centrale, Julian confessò tutto — la tratta, l'omicidio del contabile, l'agente uccisa — ma sulla schiena spezzata ripeté ostinatamente di essere caduto da una collina.
+
+Dan riconobbe quel tipo di ostinazione.
+
+«Sai cos'è assurdo? Ciò che gli viene permesso. Sono stufo. Tu no?»
+
+Chloe lo difese, e disse che non gli sembrava obiettivo dopo Charlotte.
+
+Lui le rispose chiedendole se lo fosse lei.
+
+### Il corpo sotto il ponte
+
+**Sam Zofrelli**, piccolo spacciatore, venne ucciso con un colpo alla testa e poi gettato da un ponte, con quasi tutte le ossa rotte.
+
+Ammazzarlo non era bastato.
+
+Lucifer si presentò sulla scena con Eve, che chiese di poter imparare tutto sul catturare i criminali. Chloe si oppose; Eve minacciò di cercare l'assassino per conto proprio; Chloe cedette per un caso solo.
+
+Da quel momento Eve indicò passanti a caso proponendo di punirli, perché avevano la faccia da colpevoli.
+
+### La pistola d'oro
+
+Sul volto della vittima Ella trovò tracce di **pagliuzze d'oro**: era stato colpito con il calcio di una pistola dorata.
+
+L'arma apparteneva a un sicario soprannominato **Ponyboy**, mai incastrato perché troppo bravo — e quel delitto era pieno di errori, come se fosse stato commesso da qualcuno emotivamente coinvolto.
+
+Ponyboy si fece arrestare senza opporre resistenza, con grande delusione di Eve, e confessò una cosa sola: avrebbe voluto uccidere Sam, ma il capo non glielo aveva permesso.
+
+Poi chiese l'avvocato.
+
+### Il padre
+
+L'abbonamento in palestra di Ponyboy era pagato da una società di **Jacob Tiernan**, il padre di Julian.
+
+Il quadro si compose: Tiernan credeva che fosse stato Sam a spezzare la schiena a suo figlio, si era fatto prestare la pistola del proprio sicario e si era vendicato di persona.
+
+Ma non era stato Sam.
+
+Lucifer lo disse a Eve senza giri di parole: era stato lui, e per colpa sua era morto un innocente.
+
+Ragione in più, aggiunse, perché quel mostro venisse punito.
+
+### L'ufficio
+
+Nell'ufficio di Tiernan, Lucifer smise di fingere di essere lì per un interrogatorio.
+
+Gli disse di avere tutte le prove che gli servivano, essendo il diavolo, e ordinò a Chloe di uscire.
+
+Lei non uscì.
+
+Fuori, dopo, gli chiese perché le avesse chiesto di andarsene: perché sapeva che era sbagliato.
+
+«No» rispose lui. «Perché hai detto chiaramente che non riesci ad accettare chi sono.»
+
+### La visita di Chloe
+
+Chloe tornò da Tiernan da sola.
+
+Gli disse che qualcuno aveva spezzato la schiena a suo figlio, che sapeva chi era stato e che non aveva prove per arrestarlo — ma che lui era un uomo potente, capace di rovinare i propri nemici.
+
+Poi gli fece un nome.
+
+### Trixie
+
+Trixie scappò da casa e si presentò al Lux perché sua madre aveva detto che a Lucifer serviva un amico.
+
+Trovò Eve, e la sottopose a un interrogatorio serrato — dove vivi, che lavoro fai, ti sei mai sposata — mentre esplorava l'attico come una principessa in un castello.
+
+Poi entrò l'uomo mandato da Tiernan per uccidere Lucifer.
+
+Eve nascose la bambina, si prese addosso l'aggressione e vide il volto del diavolo per la prima volta da millenni mentre lui la difendeva.
+
+### Le regole
+
+Recuperata Trixie, Chloe ammise di volere anche lei che Tiernan pagasse. Ma alle sue condizioni.
+
+«Credo nel bene e nel male, e in fondo penso che ci creda anche tu. Tu sei il diavolo. Ma sei anche un angelo.»
+
+Lucifer le confessò allora la cosa che non aveva detto a nessuno: da quando gli era tornato il volto demoniaco non aveva più controllato se avesse ancora le ali.
+
+Aveva paura di scoprire che non c'erano più.
+
+«Penso dovresti controllare. Forse ciò che troverai ti sorprenderà.»
+
+### La consegna
+
+Eve gli offrì Tiernan su un piatto: era il peggiore di tutti, cercavano esattamente quello.
+
+Lucifer disse che doveva farlo da solo.
+
+Poi lo prese, e invece di punirlo lo portò in centrale e lo consegnò, dichiarandosi un cittadino preoccupato che compiva il proprio dovere civico.
+
+Chloe capì subito perché.
+
+«Hai controllato, vero? Le tue ali.»
+
+«Sì.»
+
+«Hai fatto la cosa giusta. Non è mai troppo tardi.»
+
+### Le altre stanze
+
+Remiel affrontò Amenadiel per prendere il bambino e i due combatterono davvero. Lei perse, e accettò la sua volontà con riluttanza, avvertendolo che un giorno avrebbe rimpianto quella scelta.
+
+Maze scoprì di stare soffocando Linda a forza di proteggerla, e si sentì chiedere se per caso fosse innamorata di lei. Non lo era: cercava qualcosa di suo, un legame che appartenesse solo a lei.
+
+Ella e Dan finirono a bere insieme a notte fonda, entrambi persi e nessuno dei due disposto a parlarne.
+
+E in carcere, prima del trasferimento a Roma, Kinley chiese di vedere Chloe.
+
+Lei gli disse che si era sbagliato su Lucifer, che era un brav'uomo — che lo si sarebbe potuto perfino chiamare un angelo.
+
+E Kinley capì di aver sbagliato tutt'altro.
+
+Se non era lei il primo amore del diavolo, allora era qualcun altro. E quel qualcun altro era già in città.
+
+### Le ali
+
+Al Lux, quella notte, Lucifer chiamò la dottoressa Martin d'urgenza.
+
+Le raccontò di aver controllato, finalmente. Le ali c'erano ancora.
+
+Doveva essere una buona notizia.
+
+Poi si voltò, e Linda vide.
+
+Non erano più le ali bianche di un tempo: erano diventate scarne, coriacee, da diavolo.
+
+E l'uomo che aveva scelto di fare la cosa giusta si ritrovò a chiedere alla sua analista perché fosse successo proprio adesso.
+
+«Non voglio essere un mostro.»
