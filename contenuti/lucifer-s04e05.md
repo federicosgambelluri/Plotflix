@@ -66,154 +66,789 @@ All'attico, Lucifer accetta finalmente la parola "fidanzato" — e mentre prepar
 
 Non se ne accorge nessuno dei due, ma la sua vulnerabilità non dipende più solo dalla detective.
 
+
 === RACCONTO ===
 
-### La parola sbagliata
+### Trentasei ore prima
 
-Eve viveva al Lux ormai da una settimana, e quella mattina si era fatta recapitare un costume da diavolo.
+Un uomo con una ferita d'arma da fuoco, disteso sul pavimento del Lux, che guarda un panino e dice a nessuno in particolare:
 
-Fu mentre lo mostrava che usò una parola di troppo.
+*"Dannazione. È la risposta. È la risposta."*
 
-«È così bello avere finalmente un fidanzato a cui piaccia divertirsi.»
+Ma bisogna tornare indietro di un giorno e mezzo per capire come ci si arriva.
 
-Lucifer si bloccò a metà frase. Il resto della mattinata lo passò a sostenere che non era successo niente, e la dottoressa Martin lo ascoltò con la pazienza di chi ha in grembo il figlio di un angelo e considera quella una giornata normale.
+### Fidanzato
 
-Linda gli fece una domanda sola.
+*"Lucifer. Credo tu possa fare qualcosa di meglio con quelle dita."*
 
-«Sei sicuro di aver chiuso bene con Chloe?»
+*"Da' al diavolo un momento per ricaricarsi."*
 
-### Annegato nel vialetto
+*"Guarda cos'è arrivato per posta. È un costume da me."*
 
-Derek Lean collezionava automobili d'epoca e fu trovato morto nel proprio vialetto, davanti a una Mercedes che stava lavando a mano.
+*"Vedo."*
 
-Gli avevano infilato in gola la canna dell'acqua e aperto il rubinetto.
+*"Non ti invoglia a venire qui per... tentarmi?"*
 
-Un vicino aveva sentito qualcuno urlare una domanda sul prezzo dell'auto. Un'altra vicina si limitò a osservare che glielo aveva detto, di non tenerla nel vialetto.
+*"Sì che lo fa."*
 
-Derek si era appena aggiudicato all'asta una vettura rarissima, e chi aveva perso l'offerta gli aveva mandato messaggi anonimi di minacce.
+*"È così bello avere finalmente un fidanzato a cui piaccia divertirsi."*
 
-Per entrare nel club dei collezionisti serviva presentarsi con un'auto d'epoca.
+*"Fidanzato?"*
 
-E Chloe sapeva chi ne aveva una.
+*"Non so. Ragazzo, tesoro? Non conosco bene il gergo. Vieni in camera, ti mostro cos'altro è arrivato."*
+
+Il giorno dopo, sul divano di Linda.
+
+*"L'abbiamo fatto per altre due volte."*
+
+*"Ok."*
+
+*"Ma io lo faccio dieci volte al giorno! Big Ben suona dieci rintocchi. Cioè io."*
+
+*"Ho capito. È possibile che sia stata la parola 'fidanzato' ad averti bloccato?"*
+
+*"Beh, è una parola alquanto seria da usare mentre ci si diverte."*
+
+*"Ma è solo divertimento, questo? Sta da te da più di una settimana. Forse è una cosa seria."*
+
+*"Sto solo aiutando un'amica, dottoressa. È da poco sulla Terra. Dove la mando?"*
+
+*"Oh, giusto. Quella Eve. Del giardino dell'Eden. Ho in grembo il figlio di un angelo. Un normale martedì, per me."*
+
+*"Dottoressa, non so che fare. Eve è fantastica. È bellissima. È divertente con gli SMS."*
+
+*"E ti conosce e ti accetta."*
+
+*"Esatto. Dovrebbe saperlo che non sono un diavolo da relazione seria."*
+
+*"Eppure volevi provarci con Chloe."*
+
+*"E abbiamo visto com'è finita."*
+
+**"A volte, quando si prova qualcosa di reale per qualcuno e la cosa non funziona, ci si chiude alle novità finché non si risolvono i sentimenti in sospeso. Tu non sapevi che il tuo ultimo caso sarebbe stato davvero il tuo ultimo caso. Sei sicuro di aver chiuso bene con Chloe?"**
+
+### La Gullwing
+
+*"Bella macchina, vero? Una Mercedes 300SL Gullwing. Non se ne vedono molte in giro. Questo tipo la lavava da solo."*
+
+**Derek Lean**, collezionista d'auto d'epoca, trovato sul proprio vialetto con addosso chiavi, telefono e portafogli.
+
+*"La causa della morte è questa,"* disse Ella indicando una canna dell'acqua. *"Gliel'hanno infilata in gola e aperta a piena potenza. È affogato."*
+
+*"Sembra molto personale."*
+
+*"La vita delle persone a volte è complicata."* Poi, con delicatezza: *"Hai parlato con Lucifer?"*
+
+*"Sono andata da lui, ma c'era una donna. Non volevo interromperli. Ma va bene. Gli sto solo dando del tempo."*
+
+*"È passata una settimana."*
+
+*"Un sacco di tempo. Ma è una cosa buona. Si sta sfogando."*
+
+*"Però, Chloe, se ti manca dovresti parlargli."*
+
+*"Certo. Al momento adatto. Ora stiamo sul caso."*
+
+I testimoni erano due vicini. Uno aveva sentito urlare da mezzo isolato di distanza — qualcosa tipo *"quanto per l'auto?"* La vicina di casa non aveva visto nulla, ma aveva un'osservazione da fare: *"Gli avevo detto che l'auto nel vialetto avrebbe creato problemi. Doveva ascoltarmi."*
+
+*"Quindi il killer ha chiesto quanto valesse l'auto. Perché non rubarla?"*
+
+Derek si era aggiudicato una **Tucker Torpedo** a un'asta, e dal secondo offerente erano arrivati messaggi anonimi: *"Ti ammazzo. Ancor prima che tu prenda l'auto."*
+
+Il ritiro era previsto quel pomeriggio, a un evento per collezionisti — i **Malibu Motor Enthusiasts**.
+
+*"Sono esclusivissimi. Non entro neanche io che conosco le auto. Sono al limite del mercato nero. Se userete un mandato, vi terranno alla porta mentre tutti scappano."*
+
+*"E allora come entriamo?"*
+
+*"L'unico modo è arrivare con un'auto d'epoca."*
+
+*"Ok, controllo se abbiamo auto d'epoca sotto sequestro."*
+
+*"Aspetta. So chi ci può aiutare."*
+
+### Il momento adatto
+
+*"È il mio spazzolino?"*
+
+*"Ti preoccupi del tuo spazzolino nella mia bocca? Anche se in effetti pensavo di prendere degli articoli da toeletta. C'è tanto spazio nell'armadietto del bagno."*
+
+*"Sì?"*
+
+*"Vado a fare una doccia. Vieni?"*
+
+*"Finalmente una buona idea. Ecco che torna Big Ben."*
+
+*"Detective!"*
+
+*"Ciao. A cosa devo questa interruzione?"*
+
+*"Lucifer, so che le cose fra noi sono state molto problematiche, e voglio risolverle. E potresti aiutarmi su un caso. Insieme ne abbiamo chiusi tanti."*
+
+*"Detective, mi dispiace—"* Poi si fermò. *"Aspetta. Hai parlato di **chiudere**?"*
+
+*"Sì. Perché?"*
+
+*"Lucifer! Vieni?"*
+
+*"Non sei da solo."*
+
+*"Beh, ho un'ospite, se è questo che vuoi sapere."*
+
+*"Oh, sì. Pare che tu abbia avuto diversi ospiti. Bello. Ok. Beh, è stata una cattiva idea. Scusa per il disturbo."*
+
+*"Detective, aspetta. Vengo con te."*
+
+*"Davvero?"*
+
+*"Sì. Penso che chiudere un caso sia proprio quel che intendeva il dottore."*
 
 ### L'ultimo caso
 
-Lucifer aprì la porta dell'attico con Eve alle spalle, e Chloe capì di essere arrivata nel momento peggiore.
+*"Riportala con un solo graffio e ci vedremo all'inferno,"* disse Chloe salendo sull'Aston Martin.
 
-Poi lui accettò di aiutarla, ma con una premessa che ripeté per tutto il giorno.
+*"Non potevi portare la Corvette?"*
 
-Era il loro **ultimo caso**. Serviva a chiudere.
+*"Ti prego, le Corvette sono così comuni. E poi voglio che questo caso sia speciale."*
 
-Chloe glielo lasciò dire una prima volta. Alla quinta cominciò a chiedersi cosa intendesse davvero, e lui ammise di non saperlo: gliel'aveva suggerito la dottoressa.
+*"Beh, è abbastanza diretto. Non siamo riusciti a risalire al mandante degli SMS, ma se il killer ha ucciso Derek solo per vincere l'asta—"*
 
-Nel frattempo salutò uno a uno i dipendenti del distretto — l'uomo del garage, quello del deposito prove, una poliziotta di cui non aveva mai saputo il nome — e offrì hamburger a tutti da un furgoncino affittato per l'occasione.
+*"Cosa? No, non interromperti. Sto solo ammirando la detective nei meandri del caso e in controllo di tutti i noiosi dettagli. È molto nostalgico."*
 
-### I tre dell'Iraq
+Alla fiera trovarono la Tucker Torpedo, e accanto un uomo che scappò appena li vide.
 
-Il primo sospettato era un truffatore che rivendeva imitazioni di auto d'epoca e aveva minacciato Derek per proteggersi la reputazione. Aveva un alibi, ma fece un nome: un uomo rasato e tatuato che frequentava la vittima.
+*"Beh, ci perdiamo la parte dell'inseguimento? O tu insegui e io guardo."*
 
-Lo trovarono morto poche ore dopo.
+*"O mi potresti aiutare."*
 
-E fu allora che il quadro si compose: Derek, l'uomo ucciso e **Marco Franklin** avevano servito insieme in Iraq come artificieri.
+Lucifer aprì lo sportello dell'auto e lo stese.
 
-Marco era uscito di prigione due giorni prima, dopo nove anni per una rapina in banca in cui era stato l'unico a farsi prendere.
+*"Visto? Non c'è stato bisogno d'inseguirlo. È a terra."* Poi guardò Chloe. *"Dai, è una gran battuta. Degna del nostro ultimo caso."*
 
-Gli altri due complici non erano mai stati identificati.
+*"Aspetta, cosa?"*
 
-### La festa
+*"Beh, sto cercando di godermi ogni attimo del nostro ultimo caso. Quello che chiuderà la questione."*
 
-Con il caso apparentemente risolto, la serata al Lux diventò una festa.
+*"Ok. Possiamo parlarne in un altro momento?"*
 
-Ella conobbe Eve e le due si trovarono all'istante. Eve le offrì delle caramelle che non erano caramelle, ed Ella glielo fece notare solo dopo averle prese entrambe.
+### Kitcar
 
-Amenadiel prese da parte il fratello e gli disse che non era Eve a preoccuparlo.
+*"Dovete credermi. Odiavo Derek, ma non ucciderei nessuno, lo giuro."*
 
-«Sei tu. È venuta per il vecchio te, quello che ricorda dal giardino. Quello che seminava caos e distruzione per divertimento.»
+*"Detective, ti prego. Un'ultima volta per i posteri."*
 
-Lucifer ammise di non sapere nemmeno se volesse stare con lei. Chiudere il caso avrebbe dovuto chiarirgli le idee, e non era servito a niente.
+*"Fa' pure."*
 
-Poi tornò Chloe: la casa di Marco era vuota, l'uomo era sfuggito.
+*"Kev, dimmi. Cos'è che desideri davvero? Potere? Ricchezza? Gusto nella moda?"*
 
-Il caso non era chiuso.
+*"Io... dire la verità e non andare in galera per omicidio."*
 
-### La bomba
+*"Cosa?"*
 
-Marco entrò al Lux con una pistola e sparò a Lucifer allo stomaco prima che qualcuno capisse cosa stesse succedendo.
+*"Se è la verità, perché sei scappato?"*
 
-Poi annunciò che nell'edificio c'era una bomba, e che nessuno sarebbe uscito.
+*"Pensavo mi voleste per le kitcar."*
 
-Non voleva soldi. Voleva che la polizia trovasse sua moglie **Leona**, sparita e con un'altra identità da quando lui era finito dentro.
+*"Quelle orribili copie che imitano le auto d'epoca? Chi ha gusto non ci casca."*
 
-Chiedeva soltanto di poterle dire che gli dispiaceva.
+*"Vero, ma si vendono bene agli scemi inesperti. Non è illegale."*
 
-### La squadra sbagliata
+*"Pare di sì,"* disse Chloe. *"È illegale, ma non è un omicidio. Abbiamo visto gli SMS. Volevi ammazzarlo prima che ritirasse l'auto."*
 
-Chloe si ritrovò con la peggiore squadra possibile: Lucifer che perdeva sangue a terra, Ella e Eve entrambe sotto ecstasy, e nessuna arma.
+*"Ammazzare la sua **reputazione**. Dicendo che gli avevo venduto delle kitcar. La reputazione è tutto, nell'ambiente."*
 
-Fu Eve a rimetterla in piedi, ripetendole quello che Lucifer diceva di lei — che era la persona più intelligente e piena di risorse che avesse mai conosciuto.
+*"Sì, che tragedia, perdere il rispetto di questa gente."*
 
-Così Chloe distribuì i compiti: Eve a tamponare la ferita, Ella a disinnescare l'ordigno appena l'avesse localizzato, e Lucifer con l'incarico di far smaltire la sbornia a Ella.
+Aveva un alibi verificabile a Fresno, e un'ultima informazione.
 
-Fuori, Dan e Maze cercavano Leona. Il falsario che aveva creato la sua nuova identità si nascondeva in uno spazio di lavoro condiviso, e Maze lo stanò fingendo di torturare la persona sbagliata.
+*"Dovreste controllare un tipo che Derek frequentava. Un tizio spaventoso, con la testa rasata. Con tatuaggi. Non l'ho mai visto di persona, ma la sua auto sì. Ha una orribile Geo Metro del '92 verde polinesiano."*
+
+### Eve e Amenadiel
+
+*"Lucy, ci sei? Noi abbiamo ricevuto il tuo regalo, ma— sì, non sono anelli da dentizione."*
+
+*"Amenadiel? Tuo fratello è fuori."*
+
+*"Eve. Che ci fai qui?"*
+
+*"Hai fatto del male a Lucifer?"*
+
+*"Solo quando me lo chiede lui. Perché?"*
+
+*"Perché ha ucciso Caino, Eve. Tuo figlio."*
+
+*"Sai, ho incontrato Charlotte Richards mentre uscivo dal paradiso. Era adorabile. Come il mio dolce e gentile Abele. Sono certa che se l'aspettasse."*
+
+*"Perché hai lasciato la Città d'Argento?"*
+
+*"Senti chi parla. Eri tu quello che lassù diceva a tutti che i figli di Dio si creano il proprio destino. Che decidiamo noi a che luogo appartenere."*
+
+*"Era diverso, Eve. Sono un angelo. Tu sei mortale."*
+
+*"Sì, sono mortale. Creata dalla mano di Dio. Ecco perché sono potuta rientrare nel mio vecchio corpo."*
+
+*"Sei potuta tornare sulla Terra, Eve, ma non hai pensato che dopo aver rifiutato il paradiso potresti non tornarci più?"*
+
+*"Perché dovrei voler tornare in quel posto noioso? Mi sto divertendo un mondo qui con Lucifer."*
+
+*"E che accadrà quando tutto finirà?"*
+
+**"Beh, se verrò mandata all'inferno, allora io e Lucifer continueremo la festa laggiù."**
+
+### Il discorso d'addio
+
+*"Vi ho conosciuto tutti, lavorando qui, il che rende questo mio ultimo caso tanto difficile. Dougie del garage, che mi ha aiutato con la sirena dell'auto. Grazie mille. Cucuzza nel reparto prove, che mi lasciava ispezionare la coca sequestrata. E tu, poliziotta senza nome, che mi mancherai più di tutti."* Poi allargò le braccia. *"Ad ogni modo, come regalo d'addio per tutti, ho affittato un furgoncino del fast food. Hamburger gratis!"*
+
+*"Non ci lascerà davvero?"* chiese Ella.
+
+*"No. Ricordi quand'è sparito ed è tornato sposato? È così che lavora sui suoi problemi. Sono certa che presto tornerà alla normalità."*
+
+*"Sì, hai ragione. Prima o poi si stancherà di tutte quelle nuove donne."*
+
+*"In realtà ce n'è una sola."*
+
+*"Cosa?"*
+
+*"Una ragazza festaiola di nome Eve."*
+
+*"Aspetta, cosa? Sei seria? Se sei seria, è una cosa seria."*
+
+*"Non sono preoccupata. Per niente. Non può conoscere il vero Lucifer come me."*
+
+### Sid Kluge
+
+*"Queste sedici persone guidano delle Geo Metro nella regione. Oh, anche Mike Tyson. Lui fa paura."*
+
+*"E questo tizio coi tatuaggi da galeotto?"*
+
+*"**Sid Kluge**. Molti precedenti per rapine e aggressioni. E l'indirizzo è appena fuori Venice Boulevard, vicino alla farmacia che adori."*
+
+*"Oh, detective, mi conosci così bene. Mi mancherà tutto questo, a caso chiuso."*
+
+*"Chiuso?"*
+
+*"Va tutto bene."*
+
+Nel frattempo, altrove:
+
+*"Ma è Bueller Punta di Trapano?"*
+
+*"Sì. Lui e suo fratello sono due fra i più temuti in strada."*
+
+*"Sì, beh, ora temono me. Ora toccherà a suo fratello, e mi chiedevo: magari vuoi unirti a me?"*
+
+*"Senti, Maze. Tutta quella cosa coi Los X era solo un mezzo per un fine. Non è che mi piaccia pestare a morte la gente."*
+
+*"Beh, chiamami quando ci sarà un prossimo mezzo per un fine... Dan."*
+
+### La Geo Metro
+
+*"Io stavo pensando che non deve essere per forza il nostro ultimo caso."*
+
+*"Oh, no. Credo sia la cosa migliore. Non ha senso continuare. Così dovrebbe bastare."*
+
+*"Bastare a cosa?"*
+
+*"Beh, a chiudere, ovviamente."*
+
+*"Che vuoi dire?"*
+
+*"Non so, ma la dottoressa dice che può servirmi."*
+
+*"Lucifer, se ti va di parlare—"*
+
+*"Non ci credo."*
+
+*"Cosa?"*
+
+*"Il tipo aveva ragione. È la cosa più brutta che abbia mai visto."*
+
+La Geo Metro verde polinesiano era davvero lì. E Sid Kluge era morto dentro casa.
+
+*"Mi sa che questo caso durerà più a lungo di quanto pensassi."*
+
+### Marco
+
+*"Non può essere una coincidenza che il sospettato numero uno nell'omicidio di Derek sia morto poche ore dopo."*
+
+*"Mi ero davvero scordato quant'è divertente. Tu risolvi i misteri, io che ti distraggo in attesa dell'intuizione che risolva il caso."*
+
+*"Trovato! E non solo. Penso di averlo risolto."*
+
+*"Cosa?"*
+
+*"Ecco Derek, Sid, e riconoscete il terzo?"*
+
+*"È uno dei testimoni interrogati. **Marco Franklin**."*
+
+*"Hanno tutti servito in Iraq come artificieri. Ma c'è di più: Marco è appena uscito di galera due giorni fa dopo aver fatto nove anni per una rapina in banca. Ha sfondato il caveau, è stato catturato mentre usciva, e si sospettava avesse due complici mai catturati."*
+
+*"Sid e Derek erano i complici, ma viene preso solo lui. Forse l'hanno tradito. E ora cerca una chiusura."*
+
+*"Sì. Chiamalo come vuoi. Io lo chiamo risolto!"*
+
+*"Ottima teoria, ma niente di più. Non ci sono prove."*
+
+*"Sì. Non pare molto una chiusura."*
+
+*"Serve altro."*
+
+Arrivò Ella con il resto: testimoni che avevano visto un uomo somigliante a Marco aggredire Sid davanti casa, e le striature sul bossolo compatibili con la nove millimetri di Marco.
+
+*"Mi sono assicurata di controllare tutto, per te."*
+
+*"Prima dobbiamo prenderlo."*
+
+*"E fino ad allora il caso non è chiuso, no?"*
+
+*"Ci ho già pensato. Dan mi ha aiutata, sta andando a casa di Marco con degli agenti. Non ci rimane nulla da fare, ora, se non festeggiare."*
+
+### Al Lux
+
+*"Tu sei Eve?"*
+
+*"Sì. Ci conosciamo?"*
+
+*"Sono Ella Lopez, e tu devi—"*
+
+*"Tu sei Ella? Oh, mio Dio."*
+
+*"Come osi usare gli abbracci contro di me? Wow, dal vivo sei anche più bella. Non vedevo l'ora di incontrarti, Lucifer mi ha detto quanto sei brava."*
+
+*"Ha detto così?"*
+
+*"Sì. Ti ho vista sulla pista da ballo. Ci sai fare!"*
+
+*"Devo dire che ti ho vista anche io, amica. Hai visto questa? La mossa 'robot'. L'ho imparata stamattina."*
+
+*"Ehi, un amico mi ha dato delle caramelle. Vuoi?"*
+
+*"Queste non sono caramelle. È ecstasy."*
+
+*"Ecstasy? Beh, pare divertente."*
+
+*"Sì. Sì, è vero."*
+
+Poco più in là, Amenadiel provava a parlare a suo fratello.
+
+*"Perché non mi hai detto che Eve era qui?"*
+
+*"Devo chiamarti ogni volta che ho ospiti? Pensa a quanto spenderei."*
+
+*"Non è un flirt, Lucifer. Si tratta di Eve! Tu non comprendi i rischi di avere Eve di nuovo qui."*
+
+*"Se sei preoccupato per l'altra volta, sta' tranquillo. Non la corromperò. Tra l'altro, non so come potrei. Fa di tutto, ultimamente."*
+
+*"Non è Eve quella che mi preoccupa. Sei tu. È venuta per il vecchio te, quello che ricorda dal giardino. Quello che seminava caos e distruzione per divertimento."*
+
+*"Mi rendi nostalgico."*
+
+*"È esattamente ciò di cui parlo, Lucy. Non voglio che ti faccia tornare il diavolo che eri."*
+
+*"Ad essere onesto, non so neppure se voglio star con lei. Chiudere il caso avrebbe dovuto chiarirmi le idee, ma ancora non so cosa diamine voglio."*
+
+### Tutti a terra
+
+*"Detective? Che ci fai qui?"*
+
+*"Abbiamo ancora un caso. Casa di Marco è stata ripulita, ci è sfuggito."*
+
+*"Questo spiega la mancanza di una chiusura. Bene. Aspetta qui, prendo la giacca."*
+
+*"Oh, mio Dio, Chloe! Sei uscita a celebrare."*
+
+*"No, per lavoro."*
+
+*"Questa giacca pelosa e fantastica. È come essere abbracciati da un muppet. Oh, mio Dio, devo farti conoscere una persona. Questa è Eve."*
+
+*"Sì, ci conosciamo. Mi ha dato la droga."*
+
+*"Davvero? Mi serve un'aranciata."*
+
+*"Capisco perché a Lucifer piaccia tanto lavorare con voi,"* disse Eve rimasta sola con Chloe.
+
+*"Chi sei?"*
+
+*"Oh, sono Eve."*
+
+*"Ok, beh, questo non mi aiuta. Chi— aspetta. Intendi *quella* Eve? Come in Adamo ed Eve?"*
+
+*"Ancora pronunciano il suo nome per primo. Non è ora di emanciparsi?"*
+
+*"Aspetta. Tu e Lucifer stavate assieme."*
+
+*"Sì. Perciò lo conosci. Sai chi è davvero."*
+
+*"Sono pronto, detective."*
+
+*"Promemoria: la prossima volta, lasciare la giacca."*
+
+*"Questa è la tua ex da—"*
+
+*"Dall'alba dei tempi. Più o meno."*
+
+*"Detective Decker."*
+
+Marco Franklin era in mezzo al locale con una pistola.
+
+*"State tutti tranquilli."*
+
+*"Non ci provare,"* disse Lucifer avanzando.
+
+*"Detective Decker, ho bisogno che mi ascolti molto attentamente."*
+
+*"Per quanto io apprezzi il tempismo, non puoi entrare qui e—"*
+
+Lo sparo fu quasi un incidente.
+
+*"Lucifer!"*
+
+**"State tutti giù! C'è una bomba nell'edificio, quindi se qualcuno pensa di scappare, o di mettermi fretta, moriremo tutti."**
+
+### La richiesta
+
+*"Detective Decker, pistola a terra. E il tuo telefono. Ora."*
+
+*"Ok, come vuoi. Ma a quest'uomo serve subito un'ambulanza, e io resto con te, ma fai uscire gli altri."*
+
+*"No, zitta! Non se ne va nessuno."*
+
+*"Stai bene?"* chiese Eve, trascinando Lucifer dietro il bancone.
+
+*"Un po' di mal di stomaco."*
+
+*"È il diavolo, però. Starà bene, vero?"* chiese Ella.
+
+*"Sì. Starà bene."*
+
+*"Marco, sappiamo che hai ucciso i tuoi compagni, ma questo non aiuterà la tua situazione."*
+
+*"Non voglio farti del male, detective. Mi serve aiuto. Mentre ero via, mia moglie ha cambiato nome e ora non riesco a trovarla."*
+
+*"Tutto questo per tua moglie?"*
+
+*"Sparargli è stato un incidente, ok? Mi dispiace. Non volevo. Sto solo cercando di sistemare le cose."*
+
+*"Oh, non preoccuparti, amico,"* mormorò Lucifer da terra. *"Dammi solo la pistola e saremo pari."*
+
+*"Quando sono finito in galera per aver derubato quella banca, la cosa l'ha distrutta. È sparita, e io lo capisco. Ma voglio solo avere la possibilità di guardarla negli occhi e dirle che mi dispiace."* Puntò l'arma. **"Voglio che tu la trovi. Subito. E poi penserò se liberare tutti."**
+
+### Fuori
+
+*"Il Lux è circondato."*
+
+*"Beh, che aspettiamo?"*
+
+*"Non puoi entrare sguainando coltelli."*
+
+*"Io agisco così."*
+
+*"No. Può far saltare tutto. È troppo rischioso."*
+
+*"Ok. Qual è il piano?"*
+
+*"Cercare **Leona**. È la moglie di Marco. Ha cambiato nome dopo la sua incarcerazione, ma nessuno sa quale sia. Nessun documento. Nessun codice fiscale. Assente sui social."*
+
+*"Questo è del 2014?"*
+
+*"Pare di sì."*
+
+*"Nel 2014 c'era una sola persona così brava a far sparire la gente."*
+
+*"Chi?"*
+
+*"Non conosco il nome. Ma lo scoprirò."*
+
+*"Ok, richiedo un mandato."*
+
+*"Un mandato? Ma il fine non giustificava i mezzi?"*
+
+*"Sì, i mezzi legali. Dovrai pensare come noi se vorrai—"*
+
+**"No! Bisogna pensare come loro. È così che li catturo, ed è così che faremo."**
+
+### Il piano di Chloe
+
+*"Lucifer, mi spiace di averti coinvolto."*
+
+*"Sciocchezze. Ti serviva la mia Aston per entrare, e quella la guido solo io."*
+
+*"Avrei potuto pensare ad altro."*
+
+*"No. Non è colpa tua. Mi serviva una chiusura. È che non me l'aspettavo di questo tipo."*
+
+*"Dobbiamo portarlo in ospedale."*
+
+*"No, sto bene. Fammi avvicinare a quell'idiota e gli strappo le braccia come le cosce di un tacchino."*
+
+*"Concentrati, Decker. Concentrati. Lucifer è fuori gioco. Anche Ella. Eve? Tu hai super poteri?"*
+
+*"No. Sono solo io."*
+
+*"Non abbiamo nulla."*
+
+**"No. Chloe, abbiamo te. Ascoltami. Lucifer mi ha detto che sei la persona più intelligente e piena di risorse che abbia conosciuto."** Poi si sedette. *"Coraggio, detective. Qual è il piano?"*
+
+*"Ok. Sì, il piano. Eve, occupati di Lucifer, premi sulla ferita per fermare l'emorragia. Io scoprirò dov'è la bomba. E quando l'avrò fatto — Ella! Puoi disinnescarla?"*
+
+*"Certo. Ho letto i documenti sui detonatori assemblati dall'unità di Marco. Facilissimo. Vi voglio bene."*
+
+*"Lucifer, anche tu hai un compito."*
+
+*"Come le facciamo smaltire la sbornia?"*
+
+*"Reggi questo."*
+
+### Sottotitoli per anime
+
+*"Persino io lo trovo crudele, come tortura,"* disse Maze entrando in uno spazio di coworking. *"È però un bel posto per nascondersi se si vendono carte d'identità false sul dark web."*
+
+*"Io non so di che parli."*
+
+*"Il mio partner voleva venire qui e interrogarti, ma io so che una come te non cederebbe. E ho suggerito che ti torturassimo. Solo un po'. Ma l'idea non gli è piaciuta. E poi ha detto una cosa intelligente."* Si avvicinò. **"Qual è la cosa che una come te teme di più? Perdere l'anonimato. Perciò posso torturarti, dopotutto. Rivelare chi sei a tutta questa gente."**
+
+*"Ti prego. Io creo sottotitoli per gli anime. Non falsifico carte d'identità."*
+
+*"Lo so. Volevo solo stanare il cattivo appena scappato dal retro."* Si voltò. *"Ciao, Sergei."*
+
+*"Cosa vuoi? Aiuto solo la gente a sparire. Non ho fatto del male a nessuno."*
+
+*"Sì. Lo sappiamo. E per continuare a farlo, ci dirai tutto ciò che sai su Leona Franklin."*
+
+### La cocaina
+
+*"L'emorragia ha rallentato. Gli ho dato un altro drink. Pare funzioni. È sopravvissuto a ferite peggiori. Deve farcela. Non posso perderlo. Non dopo esserci trovati di nuovo."*
+
+*"Perciò tu hai visto la sua faccia demoniaca?"* chiese Ella.
+
+*"Sì."*
+
+*"Ti spaventa?"*
+
+*"Perché dovrebbe?"* Eve si strinse nelle spalle. **"Io sono stata creata per essere la moglie di qualcuno. Nessuno mi ha mai chiesto se era ciò che volevo. Eccetto lui."**
+
+*"È tutto nell'innesco wireless, via bluetooth o telefono,"* borbottava intanto Ella, sniffando dal bancone. *"Col telefono è più facile, perché la distanza non conta."*
+
+*"La cocaina funziona,"* osservò Lucifer.
+
+*"Sì? Io non mi sento diversa. Ce n'è ancora? Odierei tornare all'inferno da sobrio."*
+
+*"Non andrai all'inferno. Devi smettere di dirlo. E devi smettere di dire che è il tuo ultimo caso. È deprimente e io devo rimanere positiva."*
+
+*"La detective e io abbiamo lavorato assieme troppo a lungo per non saper accettare la nostra vera natura. Purtroppo non credo che ciò accadrà."*
+
+*"È assurdo. Siete la miglior squadra di sempre. Tenete così tanto l'uno all'altra. Che altro deve fare? Farsi sparare?"* Si scusò subito. *"Ma continui a parlare di chiusura. Che diavolo vuol dire?"*
+
+*"È questo il punto. Non lo so."*
+
+### Amy
+
+*"Ci ho messo anni a rifarmi una vita. Ho un lavoro e un fidanzato. Non sa nulla del mio passato."*
+
+*"Leona—"*
+
+*"Amy. Ora mi chiamo Amy."*
+
+*"Amy. Scusa. Con tutto quel che hai passato, sono certo che questo sia il tuo peggior incubo. Ma dovresti solo parlargli."*
+
+*"Mi dispiace, ma non ce la faccio a rivederlo."*
+
+*"Facciamo a modo mio?"* propose Maze.
+
+*"Senti, so che ti stiamo chiedendo molto. Ma ci sono delle vite in gioco. Sono persone a cui tengo. E sinceramente, non sopporterei di perderne un'altra. Sto provando a fare le cose nel modo giusto. Magari non è giusto chiedertelo, ma tu puoi aiutarli. Forse solo tu puoi farlo."*
 
 ### Il panino
 
-Dan fece recapitare del cibo con un ordine sbagliato di proposito: un panino del sud-ovest.
+*"Finalmente. Avevo ordinato più di un'ora fa."*
 
-Ci volle un po' perché Lucifer, tra un bicchiere e l'altro, capisse che era un messaggio — la SWAT sarebbe entrata da sud-ovest, e il conto alla rovescia era partito con la consegna.
+Marco aprì il sacchetto.
 
-Leona accettò di entrare per parlare con il marito. Chiese scusa, disse che nulla di tutto ciò era colpa sua.
+*"Scalogno e salsa ranch? Ma chi mette scalogno e salsa ranch in un panino? Spera che i tuoi amici siano più bravi a trovare la gente di quanto lo siano con gli ordini. Che io sto perdendo la pazienza!"*
 
-Poi prese la pistola e il detonatore, e li puntò contro tutti.
+*"Dan non farebbe un errore del genere,"* mormorò Chloe.
 
-### La progettista
+*"No? Una volta ha scambiato una biglia per caramella,"* disse Lucifer.
 
-Non era la moglie spaventata che aveva fatto perdere le proprie tracce.
+*"No, no. Chloe ha ragione. Ora non è il momento degli errori. Non ne farò. Disinnescherò la bomba prima che costui ci faccia saltare. Posso farcela. Giusto?"* Ella si guardò le mani. *"Non credo di farcela. È sbagliato. È tutto sbagliato. Anche il panino."*
 
-Era stata **lei** a organizzare la rapina. Quei tre non sarebbero stati capaci di pianificare una gita.
+E fu lì che Lucifer, disteso a terra, mise a fuoco la frase.
 
-Marco l'aveva attirata lì per eliminare l'ultima socia rimasta, sperando che si commuovesse. Aveva sbagliato i calcoli.
+*"Forse il panino no. Forse è un messaggio."*
 
-Adesso sarebbe uscita raccontando che il marito l'aveva lasciata andare, e avrebbe fatto saltare l'edificio dando la colpa a lui.
+*"Dannazione. È la risposta. È un panino del sud-ovest di Luis. È un messaggio di Dan. Faranno irruzione da sud-ovest."*
 
-Ella, sopra, davanti ai fili, chiese un segno a qualcuno che non le rispondeva da mesi.
+*"È una cosa positiva?"*
 
-Non lo ricevette, e disinnescò la bomba da sola.
+*"Se riusciamo a portare Ella in tempo alla bomba, sì."*
 
-### Il salto
+*"Non posso."*
 
-Al piano di sotto Chloe non provò a convincere Leona.
+*"Andrà tutto bene. Lucifer dice che sei la nerd più brava che conosca."*
 
-La tenne a parlare, la spostò di qualche metro, e la portò esattamente dove le serviva.
+*"Sì, e in che condizioni sto?"* Ella si passò le mani sul viso. *"Ok, ho fatto festa tutto il tempo. Davvero tutto il tempo. Credo d'aver solo cercato un legame. Qualcosa, da quando ho perso la fede in Dio."*
 
-Poi si gettò addosso a Lucifer un istante prima che partisse il colpo.
+### Il diversivo
 
-Atterrò sulla ferita, e lui riprese conoscenza per il dolore.
+*"So che vuole vedermi,"* disse Amy fuori dal locale. *"Le persone che temi di perdere: così le salveremo."*
 
-«Ti sei gettata su di me. Eri disposta a sacrificarti per salvarmi.»
+*"Se seguono la procedura, il conto alla rovescia è partito col cibo. Abbiamo dieci minuti prima che arrivi la SWAT. Perciò dobbiamo occuparci della bomba. Ella, ci sei?"*
 
-### Le chiusure
+*"Sì, certo."*
 
-In ospedale, Chloe passò a vedere come stesse.
+*"Eve, aiutala in caso succeda qualcosa. Sei brava a calmarla."*
 
-Lucifer le disse che finalmente aveva capito cosa cercava, e che la chiusura l'aveva trovata: sarebbero tornati a lavorare insieme.
+*"Ma che dici di—"*
 
-«Per il prossimo caso, non invitare un killer a una delle mie feste. Rovina l'atmosfera.»
+*"Starà bene. Serve un diversivo per farvi arrivare lassù."*
 
-Ella, ancora in circolo, annunciò a Dan la sua conclusione della serata: aveva chiesto un segno, non le era arrivato, e quindi Dio non esisteva.
+Il diversivo entrò dalla porta principale.
 
-Chloe cercò Amenadiel per chiedergli una cosa sola: se Eve fosse buona, o una minaccia soprannaturale di qualche tipo.
+*"Marco. Non riesco a crederci. Sei davvero qui."*
 
-Lui rispose di no, e lei ammise che le piaceva — che sembrava tenere davvero a Lucifer, e che forse era esattamente ciò che gli serviva.
+*"Mi dispiace tanto. So che tutto questo è colpa mia. È tutta colpa mia."*
 
-### Il costume
+*"No. No, fammi solo dire una cosa. Ho fatto così tanti errori. Non meritavi quanto ti è accaduto, Marco. Sono così affranta."*
 
-Al Lux, Eve gli riempì il bicchiere e ufficializzò la faccenda: chi ti assiste mentre ti dissangui si è guadagnata il titolo.
+*"Ok, Leona, dammi la pistola e il detonatore,"* disse Chloe. *"Sono una poliziotta."*
 
-Lucifer si tagliò con il vetro e cominciò a sanguinare.
+*"Già. Sei una poliziotta. E chissà che ti ha detto Marco. Non posso rischiare."*
 
-Lei gli chiese perché a volte si ferisse e a volte no.
+E prese lei l'arma.
 
-«Succede solo se sto vicino alla detective.»
+**"Mettetevi tutti all'angolo. Svelti. Muovetevi!"**
 
-Poi Eve cambiò discorso, e annunciò che finalmente era arrivato il suo costume da serpente.
+### Il vero cervello
+
+*"Non è una bella sensazione, vero?"*
+
+*"È arrivata la moglie? È risolto?"* chiese Ella dal piano di sopra. *"Forse non lo devo più fare."*
+
+*"Sì, in realtà... forse devi sbrigarti."*
+
+*"Eri coinvolta nella rapina,"* capì Chloe.
+
+*"Non ero solo coinvolta. L'ho progettata io. Questi idioti non saprebbero organizzare una gita."*
+
+*"Quindi Marco non voleva trovarti per scusarsi. Doveva eliminare l'ultimo socio."*
+
+*"Già. Era una bella trappola: farmi trovare dalla polizia. Se non fossi venuta, avrebbe fatto saltare la mia copertura. Altrimenti, beh..."* Guardò l'uomo a terra. *"Era quello il piano, vero, Marco? Pensavi che mi commuovessi? Sei sempre stato un debole."*
+
+*"E ora? Uscirai dicendo che Marco s'è scusato e ti ha lasciata andare? E poi ci fai saltare dandogli la colpa?"*
+
+*"Mi pare un buon piano."*
+
+Al piano di sopra, Ella fissava un intreccio di fili che non somigliava a nessuno schema letto online.
+
+*"Pezzo grosso. So che è passato del tempo, ma mi serve un segno, quaggiù."*
+
+Non arrivò nessun segno.
+
+*"Sai che carica ha usato Marco?"* stava chiedendo intanto Chloe. *"A che distanza devi stare prima di farla saltare? Che ci farai, dopo aver premuto il pulsante?"*
+
+*"Bel tentativo. Non mi confonderai tanto facilmente. Non mi convincerai."*
+
+**"Non devo convincerti. Solo portarti all'angolo giusto."**
+
+Il vetro andò in pezzi e la SWAT entrò da sud-ovest.
+
+*"È stato da brividi."*
+
+*"Oh, mio Dio. Ce l'hai fatta!"* gridò Eve. *"Sono viva? Sei viva?"*
+
+### Sacrificarsi
+
+*"Stai bene?"*
+
+*"Sei atterrata sulla mia ferita. È proprio il tipo di dolore che mi serviva per rinvenire."*
+
+*"Scusami."*
+
+*"No, detective. Ti sei gettata su di me. Eri disposta a sacrificarti per salvarmi."*
+
+*"Un dottore. Un dottore!"*
+
+In ospedale, poco dopo:
+
+*"Bello rivederti. Come ti senti?"*
+
+*"Ho iniziato a star meglio una volta uscito fuori. Che strano. E poi ho un'eccellente infermiera."*
+
+*"Vi lascio parlare,"* disse Eve.
+
+*"Volevo solo assicurarmi che stessi bene. E riguardo questo tuo ultimo caso, volevo farti sapere che capisco come ti senti."*
+
+*"E ora capisco anche come ti senti tu, detective. E credo proprio di aver trovato la mia chiusura."*
+
+*"Bene. Per il prossimo caso, non invitare un killer a una delle mie feste. Rovina l'atmosfera."*
+
+*"Vuoi continuare?"*
+
+*"Mi conosci, detective. Faccio la sceneggiata, ma poi capisco che non cerco altro."*
+
+### Non l'ho ricevuto
+
+*"È tutta colpa mia. Non dovevo farmi ingannare."*
+
+*"No, dovevi farmi entrare,"* disse Maze a Dan. *"Marco non sarebbe ferito. Quella tipa è una dilettante. Ce l'avevo davanti. I contatti per le carte d'identità. L'insistenza per incontrarlo. Come ho detto, devi pensare come un criminale. E ricordare chi è la donna che sa usare il coltello."*
+
+*"Dan! Non prendertela. Non puoi entrare nella testa di ogni pazzo. È andato tutto bene."*
+
+*"Grazie a Dio c'eri tu, Ella."*
+
+*"Esatto. Ero lì. Ero proprio là in mezzo. E gli ho chiesto un segno, ed è stato lì che ho capito che non l'avrei ricevuto. Non l'avrei ricevuto perché dovevo contare su me stessa, perché—"* Alzò le mani. **"Dio non esiste!"**
+
+*"Sei drogata?"*
+
+*"Un po' di ecstasy. E un po' di cocaina."*
+
+*"Cosa?"*
+
+*"Oh, mio Dio, hai un odore eccezionale. Vieni qui."*
+
+### La domanda di Chloe
+
+*"Non abbiamo avuto la chance di parlare da quando ho scoperto... beh, tutto."*
+
+*"Già. Che sono un angelo. Come stai? So che è difficile da elaborare."*
+
+*"È vero. Ma non sapevo a chi altro parlarne. Il mio lavoro è capire la gente, capire le loro motivazioni, dare un senso al mondo. E al momento il mio mondo è esseri celestiali e immortali e—"* Prese fiato. *"Ok, senti. Eve è buona? È segretamente malvagia, o una minaccia sovrannaturale per il mondo?"*
+
+*"Non che io sappia, no."*
+
+*"Ok, bene. Come pensavo. Perché mi piace."*
+
+*"Anche a me."*
+
+*"E credo davvero che tenga molto a Lucifer. Ed è così protettiva nei suoi confronti. L'ho dovuta costringere a lasciarlo andare. Penso gli possa fare bene. Potrebbe essere proprio quel che gli serve."*
+
+*"Spero che sia così."*
+
+*"Sì, anch'io."*
+
+**"Dopo tutto quel che hai passato, ti preoccupano di più le sorti di coloro a cui tieni. Ora so perché tuo padre è così fiero di te."**
+
+*"Sei dolce, ma, sai, mio padre è— giusto. Grazie."*
+
+### Fidanzato, seconda volta
+
+*"Sono felice che torni a lavorare. L'idea di paradiso di Adamo era quella di oziare tutto il giorno. Poi, quando è arrivata la ESPN... beh, io ozierò molto meno, ora che torno a caccia di assassini. Ma ci sono dei vantaggi nell'avere un fidanzato che lavora per la polizia. Una scorta di manette, ad esempio."*
+
+*"Fidanzato?"*
+
+*"Insomma, se qualcuna si prende cura di te mentre ti stai dissanguando, è giusto ufficializzare la cosa."*
+
+*"Quindi facciamo davvero il passo?"*
+
+*"Finisco di farti il drink e poi brindiamo."*
+
+Il bicchiere gli scivolò e si ruppe, e un pezzo di vetro gli tagliò la mano.
+
+*"Attento! Stai bene. Come mai ti ferisci solo ogni tanto?"*
+
+*"Succede solo se sto vicino alla detective."*
+
+Poi si guardò il taglio e capì cosa aveva appena detto ad alta voce.
+
+*"Cosa?"*
+
+*"Mi ero scordato. È finalmente arrivato il mio costume da serpente. Lo adorerai."*
