@@ -190,10 +190,21 @@ const PF = (() => {
   /* ---------------- prosa ---------------- */
   function prosa(testo) {
     const blocchi = (testo || "").trim().split(/\n{2,}/);
+    let primoP = true;
     return blocchi.map(b => {
       const t = b.trim();
       if (t.startsWith("### ")) return `<h3>${esc(t.slice(4))}</h3>`;
-      return `<p>${esc(t).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>").replace(/\n/g, " ")}</p>`;
+      /* prima il grassetto (**), poi il corsivo (*): l'ordine conta,
+         altrimenti il singolo asterisco spezzerebbe le coppie doppie */
+      const inline = esc(t)
+        .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+        .replace(/\*([^*\n]+?)\*/g, "<em>$1</em>");
+      /* capolettera solo sul primo paragrafo, e solo se inizia con una
+         lettera: molti racconti aprono con una battuta e il capolettera
+         cadrebbe sulle virgolette */
+      const cap = primoP && /^[A-Za-zÀ-ÿ]/.test(t) ? ' class="capolettera"' : "";
+      primoP = false;
+      return `<p${cap}>${inline.replace(/\n/g, " ")}</p>`;
     }).join("");
   }
 
