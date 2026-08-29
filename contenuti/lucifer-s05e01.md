@@ -98,162 +98,801 @@ Lee chiede a Lucifer perché non sia andato ad aiutare la sua amica. E Lucifer �
 
 Quello arrivato a Los Angeles non è lui.
 
+
 === RACCONTO ===
 
 ### Duecento volte
 
-L'uomo sullo yacht si chiamava Lee Garner e stava per morire, come gli era già capitato più di duecento volte.
+C'era una barca, e sulla barca una festa, e alla festa un uomo che si sentiva finalmente arrivato.
 
-Aveva le bollicine in mano e due donne pronte a raggiungerlo, e quando la porta si aprì trovò invece un uomo in completo che non voleva vedere: quello che gli aveva regalato dei soldi e dell'oro, e dopo il quale succedeva sempre qualcosa di brutto.
+*"Ecco le bollicine! Vuoi unirti a noi?"*
 
-Lucifer lo avvertì con una precisione che sembrava una scortesia.
+*"Ma certo che sì! Prima vado a mettermi qualcosa di più comodo."*
 
-«Qualcuno entrerà da quella porta e ti ucciderà.»
+Poi si voltò e trovò un uomo in completo appoggiato allo stipite.
 
-Lee rise. Poi partì il colpo, e lui si accasciò con il bicchiere ancora in mano.
+*"Ho saputo che c'eri e sono venuto a trovarti."*
 
-Quando riaprì gli occhi era di nuovo in piedi, con le bollicine, e la porta stava per aprirsi un'altra volta.
+*"Non esiste! Vattene subito!"*
 
-Non era morto sul serio: era all'Inferno, dentro il proprio anello di tortura, e ci girava dentro da un tempo che non sapeva più contare.
+*"Mi aspettavo un'accoglienza più calorosa, signor 'Ho detto fuori, stronzo'."*
 
-Lucifer glielo spiegò con la pazienza di un impiegato: nessuno lo teneva lì se non lui stesso, e nessuno lo avrebbe tirato fuori.
+*"Non fraintendermi. Ti sono grato per tutti i soldi e l'oro che mi hai dato. Ma devo chiederti di beccarci dopo, perché per una volta le cose vanno alla grande. E ogni volta che ti vedo succedono cose brutte."*
 
-Poi Lee disse una parola che gli fece cambiare espressione.
+*"Ok, bene. La cosa si fa imbarazzante."*
 
-Marina del Rey. Los Angeles.
+*"Perché?"*
 
-### Il caso vero
+*"Qualcosa di brutto sta per succedere, ma ti assicuro che io non c'entro. Qualcuno entrerà da quella porta e ti ucciderà."*
 
-Sulla barca ormeggiata a Los Angeles, quella vera, c'era il cadavere.
+*"Mi fai morire! Ma figurati se è vero!"*
 
-Lee Garner, cinquantatré anni, una vita di rapine e piccoli reati, ucciso da un colpo al petto. Poi, a morte avvenuta, qualcuno gli aveva tagliato la mano e se l'era portata via.
+*"Ti assicuro che succederà, senza dubbio. Anzi, è già successo più di duecento volte, e succederà di nuovo tra cinque, quattro, tre, due—"*
 
-Ella lavorava alla scena, Chloe prendeva appunti, e accanto a lei c'era Maze — che ormai la seguiva su ogni caso come consulente, e che riconobbe la vittima per averci passato una notte settimane prima.
+Lo sparo arrivò puntuale.
 
-Nessuno nominava Lucifer volentieri.
+*"Ma che diavolo...?"*
 
-La versione ufficiale era che fosse partito per la Florida, per gli affari di famiglia, due mesi prima. Non rispondeva ai messaggi, nemmeno a quelli di Ella con il video del pappagallo che ballava.
+*"Esatto."*
 
-«Per quanto mi riguarda» disse Maze, «Lucifer può andare all'Inferno.»
+### Foshizzle
 
-Chloe rispose che aveva lavorato troppo per pensarci. Che in pratica non ci pensava mai.
+A Marina del Rey, sulla stessa barca ma dall'altra parte del tempo, Ella illustrava la scena.
 
-### Il detective dell'Inferno
+*"La vittima è **Lee Garner**, cinquantatré anni, criminale di professione. Rapina, furto con scasso, piccoli reati. Ma non escludo che sia cresciuto, perché questo *Foshizzle* è suo."*
 
-Lucifer prese la decisione mentre Lee si lamentava della sua bella vita perduta.
+*"Cosa?"*
 
-Non lo faceva da secoli, disse. In onore dei vecchi tempi.
+*"Il *Foshizzle*. La barca. Si chiama *Foshizzle*."*
 
-«Risolverò il tuo caso di omicidio.»
+*"Causa della morte?"*
 
-Il metodo, però, non funzionava come Lee sperava. I demoni recitavano tutti i ruoli dell'anello e Lucifer poteva fermarli con un gesto, ma l'assassino restava una figura senza volto: quell'anello era fatto dei ricordi di Lee, e Lee non lo aveva mai visto in faccia.
+*"Ferita da arma da fuoco al petto. E, tocco di classe, l'assassino ha fatto anche questo: taglio netto al polso, post mortem. Stiamo cercando la mano."*
 
-Serviva un'indagine vera. Fase uno: chi lo voleva morto.
+*"Che ne pensi?"* chiese Chloe alla donna accanto a lei.
 
-E poiché tutto ciò che accadeva laggiù era una replica di ciò che era accaduto quella sera, Lucifer si mise a interrogare i propri demoni come si interrogano i testimoni, mentre a Los Angeles Chloe faceva esattamente le stesse domande a persone vive.
+*"Ci ho scopato."*
 
-Le due indagini corsero in parallelo per tutto il tempo, senza che nessuna delle due sapesse dell'altra.
+*"Maze, è vero, sei andata a letto con una vittima settimane fa. Non te li sarai fatti tutti."*
 
-### Dirty Doug
+*"Ho perso il conto."*
 
-Il nome che uscì da entrambe le parti fu lo stesso: **Dirty Doug**, che gestiva una bisca per gangster e a cui Lee doveva settecentomila dollari.
+*"Delle vittime o di quelli con cui sei stata?"*
 
-Chloe e Maze si presentarono al tavolo fingendosi giocatrici, con l'idea di perdere, indebitarsi e farsi avvicinare.
+*"Entrambi."*
 
-Chloe cominciò a vincere e non riusciva a smettere.
+*"Wow."*
 
-Doug le raggiunse comunque e offrì loro un prestito, con un accenno compiaciuto a un signore di Marina del Rey che aveva comprato una barca invece di pagare — e che aveva fatto una brutta fine.
+*"Maze si sta calando nella parte di Lucifer,"* spiegò Chloe. *"In quanto cacciatrice di taglie per la polizia mi sta gentilmente aiutando coi miei casi."*
 
-Sembrava una confessione. Ma il dettaglio non tornava: Doug parlava di un colpo alla testa, e Lee era stato colpito al petto.
+*"Come se ci fosse ancora lui,"* disse Ella. *"Ma non c'è. E almeno voi vi ha salutato. Con me? Svanito nel nulla. E saranno passati... due mesi da quando è andato in Florida per l'azienda di famiglia."*
 
-Si prendeva il merito di un omicidio che non aveva commesso, per farsi pubblicità.
+*"Florida, sì. È lì che è andato."*
 
-Nella stessa scena, all'Inferno, Lucifer arrivava alla stessa conclusione e perdeva la pazienza con l'uomo che aveva davanti.
+*"Non ha risposto a nessuno dei miei messaggi. Neanche al video del pappagallo che balla la techno. Ha le ali spiegate e fa — muove la testa di qua e di là, e fa morire dal ridere. Per quanto mi riguarda, Lucifer può, beh... andare all'inferno."*
 
-«Questa non è Los Angeles. E tu non sei lei.»
+Poi si accorse dell'espressione di Chloe.
 
-### Il messaggero
+*"Chloe, mi dispiace tanto. Non volevo parlare di 'L', ma mi manca quel pazzoide."*
 
-Il vero sicario si chiamava Vernon Gill, e nel bagagliaio della sua auto c'erano ventimila dollari in contanti — la tariffa corrente.
+*"Tranquilla. Capisco perfettamente. E sinceramente, ho lavorato così tanto — abbiamo lavorato così tanto — che non ho avuto modo di fermarmi a pensarci. Praticamente non ci ho mai pensato."*
 
-Restava la domanda di chi lo avesse pagato, e soprattutto perché la mano.
+Era la frase più falsa detta su quella barca.
 
-Fu allora che Lucifer fece una cosa che aveva vietato lui stesso: mandò un demone in un corpo appena morto, con un messaggio da consegnare.
+### Benvenuto all'Inferno
 
-Il cadavere si tirò su in obitorio davanti a Ella, che urlò, e riferì a Chloe una frase sconclusionata.
+*"Quindi non sono appena morto?"*
 
-*È al sicuro dove l'hai messo via.*
+*"Come ti dicevo prima della brutale interruzione, sei nel tuo personale loop infernale. Quindi, benvenuto all'Inferno."*
 
-Poi il corpo ricadde, perché era troppo malmesso per reggere.
+*"Sono all'Inferno? Non capisco."*
 
-Chloe passò ore a rigirarsi quella frase — chi aveva messo via cosa — finché non si ricordò dov'era che l'aveva già letta.
+*"Dannazione eterna? Infinite sofferenze? Un concetto piuttosto chiaro."*
 
-Negli estratti conto della vittima c'era un pagamento mensile a un deposito di Pacoima che si chiamava proprio così.
+*"No, cioè... il vero Inferno?"*
 
-Dentro c'era una cassaforte biometrica, e per aprirla serviva una mano.
+*"Il solo e unico."*
 
-### Le altre stanze
+*"Allora tirami fuori di qui!"*
 
-Fuori dal caso, ognuno stava riempiendo un vuoto a modo proprio.
+*"Non spetta a me, temo. Qui sei carceriere di te stesso. Sei venuto da solo."*
 
-Amenadiel aveva preso in gestione il Lux e si era messo a fare il vigilante, convinto di dover rendere il mondo più sicuro per suo figlio. Portò a Dan la sua grande operazione sotto copertura contro un pesce grosso dello spaccio, che si rivelò un ragazzino con una bustina di antidolorifici della madre operata alla schiena.
+*"E da solo me ne andrò. Come diavolo—"*
 
-Dan gli disse la cosa che serviva: liberare il mondo dai pericoli è come imbottigliare l'oceano, e per proteggere Charlie bastava esserci.
+*"Stessa scena, tutte le volte. E non è così semplice."*
 
-Linda intanto riempiva le giornate del bambino di scienze, giapponese e baby pilates, convinta che fosse speciale e che il potenziale andasse sfruttato tutto. Ella le fece notare che Charlie aveva due mesi.
+*"Che ci faccio qui?"*
 
-E la prima risata del bambino arrivò da una smorfia, mentre sua madre stava annullando una lezione di nuoto.
+**"È una cosa fra te e le tue colpe. È ciò che ti ha portato qui, e che ti torturerà fino alla fine dei tempi."** Lucifer si avviò. *"Ma ora entriamo nella terra della noia, quindi mi auto-deporterò. Buone sofferenze eterne."*
 
-Dan, dal canto suo, aveva scoperto i manuali di crescita personale e gli oli essenziali, e girava per il distretto offrendo Speranza a chi non gliela chiedeva.
+*"Ehi, aspetta. Non puoi andartene. Non lasciarmi qui da solo."*
+
+*"Non sarai solo. I miei demoni ti faranno compagnia con torture e simili. Forza e coraggio!"*
+
+*"Almeno dimmi chi mi ha ucciso."*
+
+*"Non sta più a me farlo. Si tratta di te e del tuo dolore eterno. Ok?"*
+
+*"Io avevo tutto. Questa barca meravigliosa a **Marina del Rey**, donne, soldi. Avevo tutto."*
+
+Lucifer si fermò sulla porta.
+
+*"Marina del Rey? Los Angeles."*
+
+### In onore dei vecchi tempi
+
+*"Penso di conoscere chi lavora al tuo caso. Eravamo una squadra, tanto tempo fa. Cioè, per loro sono stati solo pochi mesi, ma quaggiù sono stati molti, molti di più."* Si voltò. *"È il tuo giorno fortunato."*
+
+*"Non direi proprio."*
+
+**"Farò una cosa che non faccio da secoli, in onore dei vecchi tempi. Risolverò il tuo caso di omicidio."**
+
+*"Quindi, come funziona? Il killer torna e mi spara ancora? Perché fa male."*
+
+*"Di solito sì, ma essere il Signore dell'Inferno ha dei vantaggi. Nel tuo loop, i demoni interpretano tutti i ruoli. E io li controllo. Fai ciao, Belios. Come va?"*
+
+*"Quindi, se puoi immobilizzarli, non sarà difficile trovare l'assassino. Basta alzare questo e—"*
+
+Sotto il passamontagna non c'era una faccia. Non c'era niente.
+
+*"Merda!"*
+
+*"Di nuovo, non è semplice. Il tuo loop infernale è costituito dai tuoi ricordi. Non hai visto l'assassino in faccia, quindi nulla di nulla. Senza offesa, Belios. Prenditi il resto della giornata. Te lo meriti."*
+
+*"Allora, come troveremo il mio assassino?"*
+
+**"Con una bella indagine vecchio stile, mon frère. E per tua fortuna, ho imparato dai migliori. Fase uno: chi ti voleva morto?"**
 
 ### La sorella
 
-La cassaforte era vuota, e Chloe e Maze trovarono nella casa di Lee una donna con una pistola in mano.
+*"Lee doveva soldi a tanti. Mio fratello ha sempre avuto cattive compagnie. Spendeva soldi che non aveva, faceva debiti, rubava per saldarli."*
 
-Era **Meg**, sua sorella. Non lo vedeva da anni, aveva smesso di rispondere alle sue telefonate, e adesso passava le giornate a ripetersi che non le importava.
+*"Le dà fastidio la luce?"* chiese Chloe, vedendola socchiudere gli occhi.
 
-Aveva preso l'arma per paura, sentendo dei passi.
+*"No, ho solo un problema di sensibilità."*
 
-«Speravo sempre di vederlo entrare dalla porta. Ora devo accettare che non tornerà mai.»
+*"Quando hanno trovato suo fratello, era su uno yacht molto costoso di sua proprietà. Forse aveva cambiato vita."*
 
-### La porta
+*"Mi stupirebbe parecchio. Mio fratello attirava il peggio delle persone e delle cose. Era incastrato in questo circolo vizioso."*
 
-All'Inferno, Lucifer decise di mostrare a Lee da dove venisse davvero il suo anello, e lo portò fuori dalla barca.
+*"Forse gli stava dicendo bene."*
 
-Erano in un'auto, davanti alla casa dei suoi genitori, in una sera di quindici anni prima.
+*"Doveva succedere prima o poi."*
 
-Dentro c'era una festa per la nipote appena nata, l'ultima volta che la sua famiglia si era riunita. Sua madre si sarebbe ammalata poco dopo. Suo padre l'avrebbe seguita.
+*"Immagina il motivo per cui abbiano voluto tagliargli la mano?"*
 
-Lee non era mai entrato.
+*"Gli hanno tagliato la **mano**? Mio Dio, perché?"*
 
-Lucifer lo incalzò senza pietà — è facile, apri la porta — e quando l'altro rispose che tanto li avrebbe delusi di nuovo, gli disse esattamente in che modo funzionava quel meccanismo: preferiva restare fuori per l'eternità piuttosto che rischiare.
+*"Stiamo cercando di capirlo. Secondo lei è una specie di messaggio?"*
 
-Lee incassò tutto. Poi si guardò intorno.
+*"Non vedevo Lee da anni. Non lo conoscevo nemmeno più. Se è un messaggio, io non saprei come leggerlo."*
 
-«Ehi, non si tratta solo di me, giusto? Di chi è questo inferno?»
+Si chiamava **Meg**.
 
-Lucifer gli rispose che era lì per dovere, per proteggere l'umanità dai demoni.
+### Dirty Doug
 
-E Lee, che di scuse se ne intendeva per averle collezionate una vita intera, gliele riconobbe al volo.
+*"Decker, ho una pista. Seduto."* Maze scaricò un uomo su una sedia. *"Raccontalo anche a lei."*
 
-### Il salotto
+*"Ok. Pare che Lee sia stato ucciso da **Dirty Doug**."*
 
-A Los Angeles gli ex soci di Lee arrivarono in casa con le pistole per riprendersi la loro parte del bottino.
+*"Chi diavolo è Dirty Doug?"*
 
-Chloe e Meg finirono contro il muro, con i soldi in una borsa e nessuna via d'uscita.
+*"Doug Sargisian? Quello che gestisce la bisca dei gangster all'H Club? Il mio amico K-Swiss ha saputo dal suo amico 8-Ball che Lee gli doveva parecchi soldi. Doug l'ha fatto fuori e gli ha tagliato la mano per mandare un messaggio."*
 
-Chloe le spiegò il piano: quando avrebbero ricaricato, lei sarebbe corsa fuori mentre attirava il fuoco su di sé.
+*"Qual è il messaggio? 'Se non paghi, rubi'?"*
 
-Meg disse che non ce la faceva. Chloe le disse che ce l'avrebbe fatta.
+*"Abbastanza ovvio, in effetti. Ma messaggio ricevuto, perché devo a Dirty Doug un sacco di soldi che non ho. Ecco perché me la stavo battendo, ma poi mi ha fermato Angry Bird qui."*
 
-Poi la porta si aprì da sola.
+*"Andiamo a trovare questo Doug."*
 
-### Il ritorno
+*"Uno così—"*
 
-Gli uomini armati vennero disarmati in pochi secondi da un uomo in completo che si scusava per il ritardo.
+*"Chiamerà l'avvocato."*
 
-Chloe si voltò e lo vide, e la prima cosa che notò fu che era diverso.
+*"Se annusa uno sbirro."*
 
-Per lei erano passati due mesi.
+*"Ci serve—"*
 
-Per lui, laggiù, migliaia di anni — e in tutto quel tempo, disse, l'unica cosa che lo aveva tenuto in piedi era stato pensare a lei.
+*"Un trucco."*
+
+*"Ho capito. Forse è l'unica."*
+
+*"E se—"*
+
+*"È pericoloso."*
+
+*"E se—"*
+
+*"Se lo immaginerà."*
+
+*"Ho un'idea,"* disse Maze.
+
+*"Assolutamente no. Dovresti vergognarti."* Poi Chloe cedette. *"Ok, va bene. Facciamo a modo tuo."*
+
+*"Bene."*
+
+### Nuove regole
+
+*"Siete tornate un'altra volta?"*
+
+*"Amenadiel. Come va? È più forte di noi. Da quando gestisci tu il Lux, è un posto fantastico. Capisco perché Lucifer ci passava tutto quel tempo."*
+
+*"Infatti."*
+
+Poi vide una mano passare qualcosa a un'altra.
+
+*"Scusate, signore. Stavi spacciando?"*
+
+*"No, amico. Certo che no. Senti, io me la filo, quindi—"*
+
+*"Ascolta. Il Lux ha una nuova gestione, vale a dire nuove regole. Non si vende droga nel mio locale."* Poi abbassò la voce. **"Senza che io riceva la mia parte."**
+
+### Il boro
+
+*"Ciao! Come stai? Grazie per essere venuta."*
+
+*"Grazie per avermi invitato. Ho portato quello che mi hai chiesto, ma non mi hai scritto a cosa servisse."*
+
+*"Beh, per Charlie, ovviamente. Speravo che potessi fargli una lezione di scienze."*
+
+*"Sono una fervente sostenitrice delle basi di STEM. Importantissime. Ma Charlie non ha due mesi?"*
+
+*"So cosa pensi. Ma Charlie è un bambino speciale."*
+
+*"Ogni bambino è speciale agli occhi della madre."*
+
+*"No, Charlie è **davvero** speciale. Ecco perché musica classica, scienze, baby pilates. Serve a sfruttare tutto il suo potenziale, che è qualcosa che il mondo non ha mai visto. Vieni, ti faccio vedere. Ok, Charlie. Charlie, dov'è il boro?"*
+
+Il bambino mosse una mano.
+
+*"Visto? Sì! Bravo, patatino, è quello!"*
+
+*"Wow. Sì, è stato... incredibile."*
+
+*"Avere dei figli è un dono. Hai mai pensato di averne?"*
+
+*"Beh, penso di sì, ma al momento manca la parte maschile dell'equazione. Questa *chica* ha gusti maschili orribili. Mi piacciono i cattivi ragazzi, per qualche motivo."* Poi si corresse. **"Ma, sai, per una volta penso di meritarmi un bravo ragazzo."**
+
+*"Quindi, lezioni di scienze. Mercoledì alle undici? Ho controllato, hai il giorno libero."*
+
+*"Certo, sì. Il mercoledì va benissimo."*
+
+### Successo
+
+*"Cos'è quest'odore?"*
+
+*"Successo."*
+
+*"..."*
+
+*"Oli essenziali. Questo si chiama 'Successo'. Ho finito 'Forza', ma se vuoi ti do un po' di 'Speranza'. Fa miracoli."*
+
+*"No, sono a posto."*
+
+*"Sicuro? A chi non serve Speranza—"*
+
+*"Sono a posto."* Amenadiel si sedette. *"Vedo che questa cosa dello sviluppo personale ti ha preso."*
+
+*"Infatti. Ero messo male. Soffocato dai sensi di colpa. Ma sai una cosa? Ho lavorato su me stesso, e sono rinato. Non abbiamo neanche iniziato a sfruttare il nostro vero potenziale. Hai mai fatto CrossFit?"*
+
+*"No."*
+
+*"Come no?"*
+
+*"Dan, sappi che penso che questa riflessione personale sia davvero positiva."*
+
+*"Grazie davvero, amico. Perché sei passato?"*
+
+*"Per denunciare un reato."*
+
+*"Amenadiel, smetti di giocare a fare il vigilante. Non arrestiamo chi passa col rosso o abbandona rifiuti."*
+
+*"C'era un cartello. Era chiaramente proibito."*
+
+*"Aveva tre anni."*
+
+*"Questa volta è diverso. Sono stato sotto copertura al Lux, tana del peccato di Lucifer, e mi sono guadagnato la fiducia di un vero spacciatore. Un pesce grosso."*
+
+*"Lascia perdere, amico."*
+
+**"Voglio fare la mia parte. Devo fare la mia parte. Devo contribuire a rendere il mondo più sicuro. Forse all'inizio ho sbagliato, ma questo è un buon caso. Un buon caso contro uno spacciatore vero. 'Sii il cambiamento', giusto?"**
+
+### Texas hold 'em
+
+*"Ti avevo detto che avrei avuto un invito."*
+
+*"Mai dubitato di te, socia. Maze, è sangue?"*
+
+*"Non preoccuparti."*
+
+Nel frattempo, all'Inferno, Lee guardava il proprio completo.
+
+*"Eri vestito così?"*
+
+*"Amico, io adoro questo completo. E sì, ricordo bene che ce l'avevo quando mi sono indebitato con quel tizio."*
+
+*"E quanto dovevi?"*
+
+*"Settecentomila. Dollaro più, dollaro meno."*
+
+*"Anch'io ti avrei ucciso. Dopo di te. Mica male come loop infernale."* Lucifer si guardò intorno nella bisca ricostruita e sorrise. *"Città degli Angeli, mi sei mancata."*
+
+Le due indagini procedevano parallele, nello stesso identico luogo, a millenni di distanza.
+
+*"È a lui che devo i soldi. Dirty Doug."*
+
+*"Buonasera, signore. Siamo venute a giocare a poker."*
+
+*"Non sarà difficile,"* aveva pianificato Chloe. *"Dobbiamo perdere, fare un debito, e Dirty Doug ci avvicinerà."*
+
+*"Capito."*
+
+*"Che ci fai sulla mia sedia? Dovevi fare tu la bella statuina."*
+
+*"Scherzi? Guardati, sembri una squillo!"*
+
+*"Io ho il tailleur."*
+
+*"Da quanto non giochi?"*
+
+*"Esatto. Il punto è perdere."*
+
+*"Va bene. Gioca tu, tesoro."*
+
+*"Oh, santo cielo. Texas hold 'em. Che emozione."*
+
+### L'informatore inutile
+
+*"Allora, che mi dici del vecchio Dougie-Doug?"*
+
+*"Non molto. È un tipo raccapricciante e potente."*
+
+*"Certo."*
+
+*"È rasato a zero e ha il collo tatuato. Lei cosa farebbe?"*
+
+*"Oh, sì! Dammi tutte le informazioni del caso. Precedenti penali? Multe per eccesso di velocità, ritardi in biblioteca?"*
+
+*"Come diavolo faccio a saperlo?"*
+
+*"C'è qualcosa che mi sai dire?"*
+
+*"Non proprio. Sono quasi sicuro che mi abbia ucciso. Ma non eravamo amici. Non so che altro vuoi da me."*
+
+Al tavolo, intanto, il piano andava a rotoli in un altro modo.
+
+*"Decker, che stai facendo?"*
+
+*"Vinco, ti rendi conto?"*
+
+*"Sì, ma dovresti perdere."*
+
+*"Lo so, ma non vinco mai."*
+
+*"Ok, va bene. Punto tutto."*
+
+*"Questo fu l'inizio della fine per me,"* commentò Lee dall'altra parte.
+
+*"Ok, finalmente qualcosa di utile. Allora, poi che succede?"*
+
+*"Ora Doug mi propone un prestito che purtroppo accetto."*
+
+E infatti Doug si avvicinò a entrambi i tavoli nello stesso momento.
+
+*"Per un po' hai fatto davvero furore. Ma se vuoi continuare la festa, potrei offrirti un prestito."*
+
+*"Una cosa,"* chiese Chloe. *"Che succede se non posso ripagarti? Abbiamo sentito delle storie. Di gente morta."*
+
+*"Vi riferite, ipoteticamente, ovvio, a un certo signore di Marina del Rey. Io sono un tipo ragionevole, se mi paghi. Oppure ti compri una barca e finisci con un buco in testa."*
+
+*"A me sembra una confessione,"* disse Maze.
+
+*"Non esattamente. Ricordi? Lee è stato colpito al **petto**."*
+
+E all'Inferno, la stessa identica scena finiva nel nulla.
+
+*"Tutto qui? Il prestito è una moneta d'oro? Nessuna evenienza? Nessun accordo o minaccia?"*
+
+*"Tutto qui."*
+
+*"Dev'esserci qualcos'altro che indichi che Doug è il tuo assassino. Qualche indizio nascosto. Un segnale. Devi darmi di più. Qualcosa, qualsiasi cosa, detective."*
+
+Si fermò sulla parola che gli era uscita di bocca.
+
+*"Chi? Tu sei inutile. Questa indagine è una perdita di tempo. Questa non è Los Angeles."* La voce gli si abbassò. **"E tu non sei lei."**
+
+### L'uomo trottola
+
+*"Come fate a sapere come è morto Lee? Siete sbirre?"*
+
+*"Esatto, caro Dirty. Perché non ci segui e ci racconti perché ti prendi il merito di aver ucciso Lee?"*
+
+*"Qualcuno sta scappando."*
+
+*"Resta lì."*
+
+L'uomo in fuga finì sull'asfalto e non si rialzò più.
+
+*"Nessun documento, ma aveva addosso questa. Calibro 45."*
+
+*"Quella che ha ucciso Lee."*
+
+*"Il mio istinto da Spider-Man mi dice che è l'arma del delitto, ma confermerò con le analisi."*
+
+*"Vuoi montare quel cavallo, Ellen?"* chiese Maze indicando l'agente in divisa lì accanto.
+
+*"Ma che dici?"*
+
+*"Ti ho vista. Magari puoi metterlo al muro e fargli divaricare le gambe."*
+
+*"Oddio. Maze, tu sei completamente pazza, ok? Ho chiuso con i cattivi ragazzi."*
+
+*"Certo. Come vuoi."*
+
+### Il messaggio
+
+*"Lord Morningstar? C'è qualcuno che dovrebbe incontrare."*
+
+*"Dove sono? Cavolo. Mi dispiace tanto. Che schifo."*
+
+Il cadavere di Vernon Gill si tirò su dal tavolo dell'obitorio.
+
+*"Ehi, sei tu la detective? Sono un demone e mi manda Lord Lucifer con un messaggio sul caso."*
+
+*"Lucifer. Come sta?"*
+
+*"È il Re dell'Inferno, quindi sta benissimo. Voleva che ti dicessi che è al sicuro dove l'hai messo via."*
+
+*"Cosa? Che cosa?"*
+
+*"Quello che hai messo via."*
+
+*"'Messo via'? Dove?"*
+
+*"Non lo so, l'hai messo via tu."*
+
+*"L'ho messo via io?"*
+
+*"Sì, è sicuro dove l'hai messo. Merda. Questo corpo è troppo malmesso. Ma hai capito e—"* Si guardò intorno. *"Quella è Mazikeen? Aspetta!"*
+
+E ricadde all'indietro.
+
+*"Decker! Che fai, hai spostato il corpo?"*
+
+*"Gromos ha consegnato il messaggio,"* riferì il demone tornato all'Inferno.
+
+*"Quindi il tuo demone è saltato nel corpo di quel morto?"*
+
+*"E ha detto alla detective ciò che le serviva per arrestare il tuo assassino. Non devi ringraziarmi. Bene, torna pure alle tue torture. E io torno alle mie."*
+
+### Meg
+
+*"Ehi, amico. Continui a parlare di una detective. Chi è?"*
+
+*"L'ho lasciata andare. Molto tempo fa."*
+
+*"Sembra una persona importante."*
+
+*"Più di quanto immagini."*
+
+*"Lo capisco. Anch'io ne ho lasciate andare. Persone a cui tengo. Mia sorella, Meg. Lei era tutto per me, e l'ho lasciata andare. E adesso è tardi."* Poi chiese: *"Come si chiama la detective?"*
+
+*"La chiamavo solo 'detective', ma si chiama—"*
+
+Si interruppe.
+
+*"Bastardo manipolatore! Bella mossa. Futili distrazioni per impietosire il diavolo, sperando che ti liberi dal tuo infinito tormento, eh?"*
+
+*"Dai, non è così. È che sembri davvero un povero diavolo."*
+
+*"..."*
+
+*"Insomma, è vero, una piccola parte di me sperava che mi aiutassi."*
+
+*"Quante volte devo dirtelo perché penetri in quel tuo cervello minuscolo? Questa cosa è tutta colpa tua."*
+
+*"Sai una cosa? Fanculo! Mi daresti una mano se volessi. Pensavo comandassi tu quaggiù. Sei o non sei il 'Re dell'Inferno'?"*
+
+**"Vuoi davvero sapere perché sei qui? Davvero? Lascia che te lo mostri."**
+
+### Il vialetto
+
+*"Ce l'avevo anch'io un'auto così."*
+
+*"Questa **è** la tua auto."*
+
+*"Dove siamo?"*
+
+*"All'origine del tuo loop infernale."*
+
+*"Oh, no. Non qui."*
+
+Attraverso il parabrezza si vedeva una casa illuminata, e dentro una festa.
+
+*"Quindi la riconosci?"*
+
+*"Ovvio, sono i miei ricordi. È casa dei miei genitori. Quella dove sono cresciuto. Erano quindici anni che non ci venivo."* Indicò una figura oltre la finestra. *"Meg. Ha appena avuto una bambina, mia nipote. Questa era la festa per lei. L'ultima volta che la mia famiglia si è riunita. Mia madre si è ammalata subito dopo. È morta. Poi mio padre l'ha seguita."* Deglutì. **"Era la mia ultima possibilità, ma non sono entrato."**
+
+### Vivi il momento
+
+*"Ce l'abbiamo fatta. Charlie ha lezione di giapponese. Faremo pianissimo."*
+
+*"Grazie per avere accettato di stare con Trixie. Farò in fretta."*
+
+*"Volevo tanto vedere il bambino."*
+
+*"Charlie è bravo con i bambini. Ho pensato di riportarti questi."*
+
+*"Grazie per il prestito. Li hai letti tutti?"*
+
+*"Sì, in realtà li ho divorati. Davvero illuminanti. Adoro imparare a vivere la mia verità. Ne hai altri?"*
+
+*"Questi erano tutti i manuali di auto-aiuto che ho. Magari dovresti farli sedimentare un po', prima."*
+
+*"Magari."* Poi guardò la sala. *"Giapponese?"*
+
+*"Charlie era un po' stanco dopo lo yoga, e ho sostituito l'Introduzione all'Arte con un'immersione linguistica meno impegnativa."*
+
+*"Wow, che programma."*
+
+*"Lo so, è molto impegnativo, ma voglio crescere il bambino migliore che esista. È speciale."*
+
+*"Certo. Pensiamo tutti che nostro figlio camminerà sull'acqua."*
+
+*"Non ci avevo pensato."* Linda prese un taccuino. *"'Annullare le lezioni di nuoto.'"*
+
+*"Sai una delle cose che ho imparato nel mio percorso, e con la paternità?"* disse Dan. **"La cosa più bella nella vita, essere genitori, va assaporata. Ogni istante. Linda, assicurati di vivere il momento."**
+
+*"Certo. Lo vivo alla grande."*
+
+Poi Charlie fece un suono che nessuno dei due aveva mai sentito.
+
+*"Cos'è questo rumore?"*
+
+*"È la sua prima risata."*
+
+*"Due mesi. In effetti è avanti."*
+
+*"È facile. Gli piacciono le facce buffe."*
+
+### L'hai messo via
+
+*"Le impronte del nostro opossum spianato sono di **Vernon Gill**. Trentasette anni, noto sicario al soldo di piccole organizzazioni. E ci ho preso in pieno: le rigature dell'arma corrispondono alla pallottola su Garner. C'erano anche ventimila dollari in contanti nel bagagliaio."*
+
+*"La tariffa attuale per questi lavori,"* disse Maze. *"Gill ha premuto il grilletto. Chi ha pagato? Dirty Doug?"*
+
+*"Ne dubito. Gill lo aveva minacciato perché si era preso il merito. Gli rovinava la piazza. Lo ha assunto qualcun altro."*
+
+*"Ok. Forse ho una pista."*
+
+*"L'hai trovata senza di me? Dove?"*
+
+*"Non posso dirlo. Informatore confidenziale."*
+
+*"Giusto. Proteggi la tua gente. Chi parla muore. Rispetto. Quindi, questa pista?"*
+
+*"'È al sicuro dove l'hai messo via.' Dove hai messo cosa? Ce l'hai messo tu o lei?"*
+
+*"Chi ha messo via cosa? Sono confusa."*
+
+*"Anch'io. Per questo ve lo sto dicendo. 'L'hai messo via...'"* Poi si fermò. *"Sì! Ecco perché mi suonava. Gli estratti conto di Lee. Pagava regolarmente un deposito di Pacoima chiamato **'L'hai messo via'**."*
+
+### Un prodotto di prima qualità
+
+*"Se vuoi continuare a spacciare qui, perché non stabiliamo delle regole?"*
+
+*"Preferivo il modo di lavorare dei vecchi gestori. Non si sporcavano le mani."*
+
+*"Il passato è passato. Sono qui per parlare del futuro. Ti consiglio di evolverti."*
+
+*"Quindi, come dovrebbe funzionare?"*
+
+*"D'ora in avanti mi prendo il venti per cento su tutte le vendite. Ecco l'accordo. L'unico accordo."*
+
+*"Come vuoi. Qui sono tutti tossici. Diventeremo ricchi."*
+
+*"Calma, piccoletto. Se vuoi vendere droga nel mio locale, devo sapere che è un prodotto di prima qualità, mi segui?"*
+
+*"Ti seguo."*
+
+*"Va bene, vediamola."*
+
+*"Ed è solo l'inizio."*
+
+*"Sembra roba buona."* Poi alzò la voce. *"Polizia! Mostrami le mani!"*
+
+Quando la stanza fu sgomberata, Dan si guardò intorno.
+
+*"Il fornitore? Kyle? Dimmelo!"*
+
+*"Non... ce ne sono."*
+
+*"Dove l'hai presa?"*
+
+*"Mia madre. Si è operata alla schiena."*
+
+*"Qui non c'è nulla,"* disse un agente. *"Era solo quella bustina."*
+
+*"Hai detto che ce n'era altra. Dove?"*
+
+*"Pensavo di provare col nonno. Deve operarsi alla cistifellea."*
+
+*"Volevo solo rendere il mondo un posto più sicuro,"* disse Amenadiel dopo, seduto sui gradini.
+
+*"Per Charlie."*
+
+*"Esatto."*
+
+**"È pazzesco, essere genitori. Quando è nata Trixie ho fatto Supersbirro e ho arrestato criminali a raffica. Poi ho capito che liberare il mondo dai pericoli è come imbottigliare l'oceano. Vuoi che Charlie sia al sicuro? Basterà la tua presenza. Sii un buon padre."**
+
+### La cassaforte
+
+*"Ho trovato il posto e le ricevute della carta. Continuavo a chiedermi perché la mano."*
+
+Nel box del deposito c'era una **cassaforte biometrica**, aperta.
+
+*"L'hanno usata per aprirla. Era qui che teneva i soldi."*
+
+*"La cassaforte a 'L'hai messo via'. Questo diceva Lucifer. La chiave di tutto è qui."*
+
+*"Chi altri lo sa?"*
+
+*"Non lo so. Forse la vecchia banda. Erano legati. Hanno assunto Gill per uccidere Lee e usare la mano per i soldi."*
+
+Meg era lì, con una pistola in mano.
+
+*"Che ci facevi con la pistola?"*
+
+*"Ho sentito i passi e ho avuto paura. L'ho presa per difendermi. Ho pensato fosse — non lo so — l'assassino che tornava? Sinceramente non so cosa avrei fatto se fosse stato lui. Sono furiosa."*
+
+*"Hai corso un bel rischio per un fratello che avevi cancellato."*
+
+*"Mi dicevo che non mi importava, che ci fosse o non ci fosse. Ma la sua morte ha risvegliato parecchie emozioni."*
+
+*"La verità è—"*
+
+*"Che ti manca?"*
+
+**"Speravo sempre di vederlo entrare dalla porta. Ora devo accettare che non tornerà mai."**
+
+### Non sto bene
+
+*"Ora che facciamo? Spacchiamo teste e rintracciamo la banda di Lee?"*
+
+*"Maze, in realtà io vorrei fermarmi e mettere insieme un po' di pezzi."*
+
+*"Che succede?"*
+
+*"Credo di aver evitato di affrontare il fatto che Lucifer non tornerà."*
+
+*"Oppure hai capito che non ne hai bisogno. Noi non abbiamo bisogno di lui, né di nessun altro. Chloe, io e te stiamo bene."*
+
+*"Maze. Il fatto è che io non sto bene. E penso neanche tu. Non so cosa sia successo tra te e Eve."*
+
+*"Eve non c'entra."*
+
+**"Ok, non si tratta di Eve, ma di quello che c'è sotto i nostri occhi. Proprio qui, ora, io e te. So che vuol dire essere abbandonati. Mi sono buttata nel lavoro e nella vita notturna con te per non doverlo affrontare. Stiamo usando questa collaborazione per riempire un vuoto lasciato da altri. Penso che sia meglio se smettiamo di lavorare insieme."**
+
+*"Ok. Buona idea."*
+
+### Le scuse
+
+*"La festa per la tua nipotina? Che bella occasione, piena di calore e felicità. Una celebrazione della vita. Quindi, forza. Entra."*
+
+*"Non posso."*
+
+*"Certo che puoi. È facile. Apri la porta ed entra."*
+
+*"Non mi vogliono."*
+
+*"Ma ti hanno invitato."*
+
+*"Non erano sinceri."*
+
+**"Andiamo. Scuse! Come le cazzate: tutti le fanno, nessuno vuole sentirle."**
+
+*"Non sto cercando nessuna scusa."*
+
+*"No? Tutta la tua famiglia è lì, ma tu sei qui. Perché? È perché hai paura?"*
+
+*"Perché avrei paura di vedere la mia famiglia?"*
+
+**"Perché sai che se apri quella porta, questione di tempo e farai altre stronzate. Potrebbero volerci due giorni, due mesi, due anni, ma succederà. Farai una rapina in banca, o un furto d'auto, o impegnerai un cimelio di famiglia. È inevitabile. Prima o poi, li deluderai ancora una volta! Preferisci stare lontano per l'eternità."**
+
+*"Hai ragione. È tutto vero."*
+
+*"Sì."*
+
+Poi Lee lo guardò.
+
+*"Ehi. Non si tratta solo di me, giusto? Di chi è questo inferno?"*
+
+### Il cimelio
+
+*"E poi Lee mi portò a vedere *Saw — L'enigmista*. Primo film vietato ai minori. Io—"*
+
+*"Tu. Pistola sul bancone."*
+
+*"Va bene."*
+
+*"Fallo, ora."*
+
+*"Restiamo calmi,"* disse Chloe. *"Tu sei **Rod**. Abitavi con Lee. L'hai ucciso tu?"*
+
+*"Quel perdente non ci ha dato scelta. Ci deve la nostra parte dell'ultimo colpo."*
+
+*"Dove sono i soldi della cassaforte?"*
+
+*"Non ce li hai tu?"*
+
+*"La cassaforte era vuota."*
+
+*"Che c'è da ridere?"* chiese Meg, perché l'uomo si era messo a ridere davvero.
+
+*"Certo che non ci sono. Lo conoscevi. Forse pensava di farli raddoppiare al casinò, o di spenderli per quella stupida barca. Basta chiacchiere, dacci i soldi."*
+
+*"Ce li ho io. Sono qui. Nella borsa."*
+
+*"A terra!"*
+
+### Di chi è questo inferno
+
+*"Sicuro che sia il mio inferno?"*
+
+*"E di chi altro?"*
+
+*"Non lo so. Ma sembra che ti stia torturando."*
+
+*"Assurdo. Hai dimenticato che è il tuo loop?"*
+
+*"Che c'entro io? Dico solo che potevi scegliere qualsiasi momento, ma hai scelto questo. Perché è il momento più doloroso per te."*
+
+*"E quindi non avrebbe nulla a che fare con te?"*
+
+*"Non ha nulla a che fare con me. Sono qui perché sono il Re dell'Inferno. È il mio lavoro. Il mio dovere."*
+
+**"Chi è che trova scuse ora? Le so riconoscere bene. Ho passato tutta la vita a cercarle. Insieme a un milione di ragioni del cazzo per non parlare con i miei per quindici anni. La verità è che avrei dovuto scendere da quella dannata auto e oltrepassare quella porta. Ho perso la mia occasione."** Poi si voltò. *"E tu?"*
+
+*"La semplicità egocentrica di voi umani non smette mai di stupirmi. Come puoi pensare di paragonarti a me? Sono qui perché ho delle responsabilità. I demoni erano in rivolta. Dovevo proteggere l'umanità! Dovevo proteggerla."*
+
+*"Lord Morningstar?"*
+
+*"Cosa?"*
+
+**"Ha notizie sulla detective."**
+
+### Restare
+
+Dietro il bancone rovesciato, con i proiettili che passavano sopra le loro teste, Chloe stava spiegando un piano a una donna terrorizzata.
+
+*"Smetteranno di sparare e dovranno ricaricare. Tu corri, io attiro il fuoco su di me. Pronta?"*
+
+*"No, non posso."*
+
+*"Ehi, ascoltami. Ce la farai. Non moriremo qui. Stai pronta."*
+
+Non servì.
+
+*"Che diavolo?"*
+
+*"Salve, ragazzacci."*
+
+*"Chi è questo pazzo?"*
+
+Quando fu tutto finito, Chloe si alzò da dietro il bancone e vide una faccia che non vedeva da due mesi.
+
+*"Sono in ritardo per la festa?"*
+
+*"Lucifer, va tutto bene? Sembri diverso."*
+
+*"Per te sono passati solo un paio di mesi, ma laggiù il tempo è diverso. Per me sono passati migliaia di anni."* Le sorrise. **"A darmi forza era solo il tuo pensiero."**
+
+E all'Inferno, davanti a una casa illuminata e a una porta che non avrebbe mai aperto, un uomo restò seduto in macchina accanto a un altro.
+
+*"Quindi non vai ad aiutare la tua amica?"*
+
+*"Ho fiducia nella detective. Lei sa benissimo come badare a se stessa. Io sono dove dovrei essere."*
+
+*"Va bene, amico. Fai come vuoi."*
+
+**"Starà bene senza di me."**
