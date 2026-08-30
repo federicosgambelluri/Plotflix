@@ -258,11 +258,23 @@ E Walter White gli rispose con la voce di un uomo che compra un servizio.
 
 Poi guardò l'orologio.
 
-Quello che accadde dopo durò meno di due minuti e avvenne in tre luoghi contemporaneamente.
+Quello che accadde dopo durò meno di due minuti e avvenne in tre luoghi contemporaneamente, e per raccontarlo bisogna raccontarlo così: tutto insieme, senza pause, perché fu così che venne fatto.
 
-Un uomo aggredito in un corridoio. Un uomo raggiunto in una cella. Un uomo che cercava di tenere chiusa una porta e non ci riusciva. Un uomo che chiedeva aiuto in un cortile mentre altri detenuti si voltavano dall'altra parte. Un avvocato in una sala colloqui che non fece in tempo ad alzarsi dalla sedia.
+In un braccio, un uomo che tornava dal pranzo si sentì chiamare per nome e si voltò, e chi lo chiamava non lo stava chiamando per parlargli.
 
-E l'ultimo — quello che aveva chiesto immunità totale poche ore prima — che bruciò dentro la propria cella mentre le guardie non riuscivano ad aprire.
+In un altro, un detenuto si accorse troppo tardi che la porta della propria cella non si era richiusa, e che dentro con lui c'era già qualcuno.
+
+In un corridoio, uno si mise a correre, e non aveva nessun posto dove correre, perché un corridoio finisce sempre.
+
+In un cortile, uno cercò aiuto guardandosi intorno, e vide venti persone che in quel preciso momento stavano tutte guardando da un'altra parte.
+
+Nessuna guardia si affacciò dove non doveva affacciarsi. Nessuna serratura scattò nel momento sbagliato. Ogni turno era stato spostato dove serviva, ogni corridoio lasciato vuoto per il tempo necessario, e ogni uomo sapeva esattamente quanti secondi aveva.
+
+In una sala colloqui, l'avvocato che avrebbe dovuto consegnare i loro conti bancari alla DEA non fece in tempo ad alzarsi dalla sedia, e la cartellina che aveva preparato restò aperta sul tavolo con dentro tutti i numeri che nessuno avrebbe più letto.
+
+E l'ultimo — quello che poche ore prima aveva preteso l'immunità totale e aveva rifiutato una giornata di libertà e cinquemila dollari — restò chiuso dentro la propria cella mentre le guardie tiravano una porta che non voleva aprirsi, e da dentro veniva fuori il fumo.
+
+Nove uomini e un avvocato. Due minuti.
 
 Il telefono di Walt squillò mentre stava scattando delle fotografie a un cantiere per la sua copertura.
 
@@ -296,17 +308,21 @@ Poi bevve, e disse la cosa vera.
 
 ### Tre mesi
 
-Poi ci furono tre mesi, e passarono come passa il tempo quando una macchina funziona.
+Poi ci furono tre mesi, e passarono come passa il tempo quando una macchina funziona bene.
 
-Passarono in tende a strisce montate sopra case sempre diverse, con un uomo e un ragazzo in tuta bianca che lavoravano in silenzio uno accanto all'altro.
+Passarono in tende a strisce montate sopra case sempre diverse, e ogni volta una famiglia caricava la macchina e se ne andava per qualche giorno senza sapere cosa sarebbe successo dentro le proprie stanze. Passarono in un uomo e in un ragazzo che lavoravano fianco a fianco in tuta bianca, senza quasi parlarsi, perché non c'era più niente da spiegare: uno sapeva cosa fare e l'altro faceva esattamente quello che gli veniva detto, senza opinioni, senza domande, senza mai una discussione.
 
-Passarono in casse chiuse a chiave, in autolavaggi, in barili, in scatoloni impilati.
+Passarono in casse da trasporto chiuse a chiave, in furgoni che entravano e uscivano dai vialetti alla luce del giorno, in vasche di acciaio montate e smontate cento volte.
 
-Passarono in banconote contate a macchina e poi non più contate affatto, in mazzette fasciate con l'elastico, in sacchi neri caricati su furgoni.
+Passarono in barili di plastica caricati su bilici, in container che partivano da un porto e arrivavano dall'altra parte dell'oceano, in un mercato lontano diecimila chilometri dove un prodotto blu che nessuno aveva mai visto cominciò a comparire nei posti in cui compaiono queste cose, e dove nel giro di poche settimane non si parlò d'altro.
 
-Passarono in una fila di uomini sconosciuti che consegnavano e ritiravano, in acquirenti soddisfatti, in un mercato lontano diecimila chilometri che chiedeva sempre di più.
+Passarono in banconote contate a macchina, e poi in banconote non più contate affatto, perché non aveva più senso. In mazzette fasciate con l'elastico, in sacchi neri, in scatole di cartone chiuse col nastro adesivo.
 
-Passarono in un uomo che tornava a casa la sera, si toglieva la giacca, mangiava con sua moglie, e non diceva niente.
+Passarono in un autolavaggio in cui una donna alla cassa dichiarava ogni giorno cifre che nessuno avrebbe mai potuto verificare, e sorrideva ai clienti, e non guardava mai nessuno negli occhi.
+
+Passarono in una donna elegantissima che beveva tè in aeroporti diversi e faceva partire tutto con un clic sul proprio portatile.
+
+E passarono in un uomo che tornava a casa la sera a un'ora ragionevole, si toglieva la giacca, si sedeva a tavola con sua moglie, mangiava, e non diceva assolutamente niente.
 
 ### Quanto deve essere grande la pila
 
